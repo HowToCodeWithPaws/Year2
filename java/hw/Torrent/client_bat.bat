@@ -1,0 +1,1 @@
+java.exe --module-path C:/programfiles/JavaFX/javafx-sdk-11.0.2/lib --add-modules javafx.controls -jar C:/Users/Natalya/Desktop/TheCodeSoFar/HSE/java/hw/Torrent/client.jar
