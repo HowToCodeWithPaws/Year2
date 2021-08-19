@@ -1,0 +1,23 @@
+find 0 
+insert 3 274
+insert 3 274
+insert 3 274
+insert 3 274
+find 2 
+insert 0 43
+insert 2 193
+insert 5 273
+find 2 
+insert 3 37
+insert 0 411
+insert 1 334
+find 5 
+insert 4 162
+insert 2 265
+find 2 
+find 5 
+insert 6 407
+insert 3 140
+insert 1 83
+find 0 
+insert 0 401

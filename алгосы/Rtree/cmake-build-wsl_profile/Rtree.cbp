@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Rtree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rtree">
+				<Option output="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Rtree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 Rtree"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rtree/fast">
+				<Option output="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Rtree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 Rtree/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rtree_main">
+				<Option output="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Rtree_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 Rtree_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rtree_main/fast">
+				<Option output="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Rtree_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 Rtree_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/main.cpp">
+			<Option target="Rtree"/>
+			<Option target="Rtree_main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

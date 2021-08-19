@@ -1,0 +1,6120 @@
+delete 3 
+delete 0 
+delete 4 
+insert 3 546035865
+find 0 
+find 1 
+insert 3 881161544
+find 4 
+delete 1 
+insert 2 970321488
+insert 2 243020540
+delete 2 
+delete 1 
+insert 0 133494744
+delete 1 
+insert 0 641896961
+insert 3 995514020
+insert 0 174533510
+insert 2 149375269
+insert 1 249409035
+insert 1 377999505
+find 0 
+delete 4 
+insert 3 549789431
+delete 2 
+delete 3 
+find 4 
+insert 3 724872700
+insert 0 300309838
+insert 4 221463941
+find 4 
+insert 4 258461255
+find 0 
+delete 2 
+insert 0 540702104
+delete 0 
+find 3 
+insert 2 519130132
+insert 1 997690123
+delete 0 
+delete 1 
+insert 1 939526101
+insert 4 200999174
+delete 0 
+insert 0 670625681
+delete 2 
+find 3 
+insert 2 760921254
+delete 2 
+delete 4 
+find 0 
+find 4 
+insert 4 168390885
+insert 2 436147636
+find 0 
+delete 0 
+insert 4 132762966
+delete 3 
+delete 0 
+find 3 
+insert 0 626455727
+delete 2 
+find 3 
+insert 2 700580859
+find 1 
+delete 2 
+delete 4 
+find 3 
+insert 0 792628055
+find 3 
+find 0 
+delete 0 
+delete 4 
+find 1 
+insert 2 378992087
+find 1 
+find 1 
+insert 4 788072316
+insert 2 524985451
+delete 0 
+insert 2 663823609
+find 3 
+delete 0 
+insert 2 54669334
+find 4 
+insert 4 306977928
+insert 4 184164973
+find 2 
+insert 4 358154170
+delete 1 
+insert 1 817827164
+insert 2 542781060
+find 3 
+find 2 
+insert 2 898202073
+find 0 
+insert 2 417029962
+insert 1 564874572
+find 4 
+insert 3 951389224
+find 2 
+find 0 
+insert 3 312812336
+delete 0 
+find 1 
+find 1 
+insert 4 725743976
+delete 4 
+insert 3 468691769
+delete 0 
+insert 3 276834261
+delete 3 
+delete 4 
+insert 4 605285742
+delete 1 
+insert 1 434354554
+insert 2 345935299
+insert 4 311222427
+find 0 
+delete 4 
+insert 0 911504512
+delete 2 
+insert 3 796394111
+find 4 
+insert 1 865432624
+insert 0 57673904
+delete 0 
+find 1 
+find 4 
+insert 1 104772613
+delete 2 
+delete 0 
+find 2 
+find 3 
+delete 0 
+insert 1 619038435
+delete 0 
+delete 3 
+find 2 
+delete 4 
+delete 1 
+insert 3 175228346
+delete 1 
+insert 0 320015501
+find 4 
+find 4 
+delete 2 
+insert 3 517744137
+delete 3 
+insert 1 603806104
+delete 4 
+insert 3 134845139
+insert 2 351460616
+insert 1 695778968
+delete 3 
+find 1 
+insert 4 549232913
+find 2 
+delete 0 
+delete 4 
+find 0 
+insert 2 782832295
+insert 0 756237158
+find 4 
+insert 4 174012393
+delete 3 
+insert 2 525960384
+find 1 
+delete 3 
+delete 3 
+delete 1 
+find 4 
+delete 0 
+insert 0 248725858
+delete 4 
+insert 4 274576616
+insert 2 994546386
+insert 2 782542789
+insert 3 492543616
+insert 3 446246034
+delete 0 
+find 2 
+delete 1 
+delete 0 
+find 4 
+insert 4 841613547
+delete 0 
+delete 1 
+insert 3 577755755
+insert 3 155588557
+insert 3 521307781
+insert 3 158081233
+find 0 
+delete 4 
+find 2 
+find 4 
+delete 0 
+delete 4 
+find 2 
+find 1 
+delete 1 
+insert 2 700889850
+find 1 
+delete 3 
+find 3 
+find 2 
+find 4 
+insert 3 56010985
+delete 2 
+find 2 
+delete 3 
+insert 1 574064647
+insert 0 403032383
+insert 4 803137137
+find 0 
+delete 1 
+delete 4 
+delete 0 
+find 0 
+find 2 
+insert 1 488491737
+delete 1 
+find 4 
+delete 0 
+delete 1 
+insert 0 141544585
+insert 0 302436324
+insert 1 313132436
+find 0 
+insert 4 974795289
+insert 2 202066258
+find 2 
+delete 2 
+delete 2 
+find 0 
+insert 2 975843599
+insert 3 841707776
+delete 3 
+insert 1 925426414
+find 4 
+delete 2 
+find 3 
+find 3 
+insert 4 157584674
+find 2 
+find 0 
+insert 2 880776381
+find 3 
+delete 3 
+insert 3 715408157
+insert 3 767662558
+insert 1 612014606
+find 4 
+insert 0 607411700
+insert 1 946235264
+insert 3 664434928
+delete 3 
+find 3 
+delete 0 
+find 4 
+delete 4 
+delete 3 
+insert 0 48880880
+delete 4 
+insert 1 848070949
+delete 1 
+find 3 
+insert 3 803965360
+insert 4 526670391
+find 3 
+insert 4 944942448
+delete 0 
+delete 2 
+find 1 
+delete 2 
+insert 3 674011446
+insert 2 550515788
+find 4 
+delete 1 
+find 0 
+delete 3 
+insert 3 493336427
+find 3 
+delete 4 
+insert 1 306253526
+delete 2 
+find 0 
+insert 0 599661212
+delete 0 
+find 4 
+delete 0 
+find 4 
+find 2 
+insert 1 759872780
+find 1 
+insert 2 321134985
+insert 2 388054052
+find 4 
+insert 2 527009882
+insert 3 953664138
+find 2 
+find 2 
+delete 2 
+insert 2 400718469
+delete 4 
+find 1 
+delete 4 
+find 4 
+insert 1 473804714
+delete 0 
+find 3 
+delete 2 
+delete 1 
+insert 1 631577405
+delete 0 
+delete 2 
+find 4 
+insert 1 460276277
+delete 0 
+insert 2 422893487
+insert 3 59877265
+delete 4 
+delete 2 
+insert 0 945299205
+insert 3 408652144
+delete 2 
+find 4 
+insert 2 317552577
+insert 4 667719859
+delete 3 
+delete 1 
+find 2 
+delete 0 
+insert 4 226208844
+find 1 
+find 2 
+insert 4 657566582
+insert 1 469276927
+find 3 
+delete 1 
+insert 2 812123547
+delete 3 
+insert 2 660724775
+delete 4 
+find 2 
+find 3 
+find 2 
+delete 4 
+find 3 
+insert 3 37712517
+insert 4 397696330
+insert 3 739562766
+find 0 
+find 0 
+delete 2 
+insert 0 697111321
+find 0 
+delete 4 
+find 3 
+find 0 
+find 3 
+find 1 
+find 2 
+find 1 
+find 0 
+insert 0 745674937
+delete 4 
+delete 4 
+find 1 
+find 3 
+insert 2 191790042
+find 3 
+find 4 
+find 2 
+find 1 
+find 0 
+insert 2 942880416
+delete 4 
+insert 1 190170163
+delete 2 
+insert 2 554209248
+delete 1 
+delete 4 
+delete 0 
+insert 2 390430575
+find 4 
+insert 2 390193753
+delete 2 
+find 0 
+insert 3 943179758
+delete 0 
+find 3 
+delete 1 
+find 4 
+find 1 
+delete 1 
+insert 4 642317435
+insert 4 924994266
+find 2 
+insert 0 739450894
+delete 2 
+delete 1 
+find 0 
+delete 0 
+delete 2 
+find 1 
+find 2 
+delete 4 
+find 2 
+delete 0 
+find 3 
+find 3 
+delete 2 
+insert 1 735179020
+delete 4 
+delete 3 
+find 4 
+insert 0 558998122
+delete 3 
+delete 1 
+delete 1 
+find 0 
+delete 0 
+find 4 
+insert 0 310579795
+insert 3 509105861
+delete 3 
+delete 4 
+find 4 
+delete 1 
+delete 4 
+find 1 
+delete 2 
+insert 0 564525435
+delete 2 
+find 3 
+delete 2 
+find 2 
+find 3 
+find 1 
+insert 4 715961820
+insert 1 149865415
+insert 2 321885979
+insert 2 924859996
+insert 0 628164451
+find 0 
+delete 0 
+delete 2 
+insert 2 568160729
+insert 2 816154461
+insert 2 201076779
+find 4 
+find 4 
+find 3 
+find 0 
+find 3 
+insert 4 7956175
+delete 3 
+find 3 
+insert 0 657636092
+delete 0 
+find 1 
+find 3 
+insert 0 352047964
+delete 2 
+delete 0 
+find 4 
+find 4 
+find 4 
+find 4 
+find 1 
+find 1 
+find 0 
+insert 4 217514840
+insert 4 220224053
+delete 2 
+find 4 
+delete 3 
+delete 2 
+delete 3 
+insert 0 580093449
+find 1 
+insert 4 576296956
+find 0 
+find 3 
+delete 1 
+delete 2 
+delete 3 
+delete 0 
+delete 3 
+insert 3 420743561
+delete 0 
+find 3 
+delete 1 
+find 4 
+insert 3 469498929
+insert 1 864644778
+delete 3 
+find 3 
+insert 4 767934408
+delete 1 
+find 2 
+insert 3 107805538
+insert 1 578588134
+find 1 
+insert 3 793998084
+insert 0 953592991
+insert 4 781258163
+find 0 
+delete 1 
+insert 3 572377508
+insert 1 63411664
+insert 1 455678741
+delete 0 
+insert 4 286033549
+delete 0 
+find 0 
+insert 2 379064529
+find 1 
+delete 3 
+find 0 
+delete 0 
+delete 1 
+insert 1 155693939
+delete 1 
+insert 1 343194233
+insert 4 184144925
+insert 4 750944189
+delete 4 
+find 3 
+insert 2 885968885
+insert 4 631793345
+delete 4 
+delete 1 
+delete 1 
+delete 2 
+delete 2 
+find 2 
+insert 2 135582481
+insert 0 192709701
+insert 3 85853063
+delete 4 
+find 0 
+delete 0 
+find 0 
+find 4 
+insert 3 654318634
+insert 0 271844708
+find 1 
+insert 1 819180114
+insert 4 270557161
+delete 1 
+insert 4 416930906
+delete 1 
+insert 2 371661062
+insert 3 914775199
+delete 3 
+delete 2 
+delete 2 
+delete 3 
+insert 3 432379832
+insert 4 300216843
+delete 0 
+delete 0 
+insert 4 456296850
+delete 4 
+insert 4 731004575
+find 3 
+insert 1 250592660
+find 2 
+insert 2 870416051
+find 3 
+insert 0 804858109
+insert 1 108516900
+insert 3 880263847
+insert 4 85161761
+delete 4 
+delete 1 
+find 0 
+delete 4 
+insert 0 62365308
+find 1 
+delete 4 
+find 2 
+delete 2 
+insert 3 554717845
+find 0 
+delete 3 
+delete 0 
+insert 2 336585645
+insert 0 995778001
+insert 2 35866851
+delete 3 
+find 2 
+insert 4 415119521
+find 4 
+find 4 
+insert 1 180113868
+delete 2 
+delete 3 
+insert 3 806215153
+insert 4 438606582
+find 2 
+insert 4 708740208
+find 1 
+find 2 
+find 0 
+insert 1 930368621
+find 3 
+find 0 
+delete 1 
+find 0 
+find 4 
+find 2 
+delete 0 
+insert 1 405086272
+find 4 
+find 2 
+insert 3 650674068
+delete 4 
+find 3 
+find 1 
+delete 4 
+find 4 
+find 4 
+delete 3 
+insert 3 603223625
+insert 3 707149630
+delete 3 
+delete 1 
+insert 1 771394515
+delete 4 
+find 4 
+delete 2 
+insert 1 646328810
+insert 1 424044843
+insert 1 771177041
+delete 3 
+find 2 
+delete 1 
+delete 1 
+insert 1 53501111
+find 2 
+find 3 
+delete 1 
+delete 2 
+delete 0 
+insert 2 818060001
+find 4 
+insert 4 807929720
+insert 0 428679858
+delete 3 
+delete 0 
+find 0 
+insert 0 384118671
+delete 1 
+insert 0 342118644
+insert 0 110796041
+find 2 
+insert 1 291910461
+insert 3 618861884
+insert 3 513505046
+delete 1 
+find 2 
+find 4 
+delete 1 
+find 4 
+insert 2 813920065
+delete 0 
+delete 2 
+insert 3 72931697
+find 3 
+find 2 
+insert 2 333007283
+find 2 
+delete 4 
+find 1 
+find 3 
+delete 0 
+find 4 
+insert 1 697118402
+find 4 
+find 4 
+insert 2 449747031
+delete 2 
+insert 4 493565456
+insert 2 437069614
+insert 3 48893455
+delete 2 
+find 2 
+insert 2 757604668
+delete 2 
+delete 1 
+insert 0 676819427
+insert 0 723824274
+delete 1 
+delete 0 
+find 1 
+find 2 
+find 3 
+insert 1 492551278
+find 1 
+find 4 
+find 2 
+find 1 
+find 0 
+insert 4 961505824
+insert 4 994051741
+delete 4 
+delete 0 
+delete 3 
+delete 1 
+delete 2 
+delete 2 
+find 0 
+delete 2 
+delete 3 
+insert 0 516102638
+find 2 
+find 1 
+delete 2 
+insert 3 23735750
+insert 4 413639479
+delete 1 
+insert 4 96581503
+insert 4 921282369
+find 2 
+delete 1 
+delete 4 
+delete 1 
+insert 0 708125042
+find 4 
+find 2 
+find 3 
+delete 0 
+delete 1 
+delete 0 
+find 4 
+insert 4 367697864
+insert 3 908561202
+insert 1 615035412
+delete 3 
+delete 1 
+find 3 
+find 2 
+delete 3 
+insert 2 817325230
+insert 3 148173629
+find 1 
+insert 4 322445297
+insert 3 625975457
+delete 1 
+insert 0 610144141
+find 1 
+insert 3 650475520
+delete 4 
+insert 2 94793563
+insert 4 739772370
+insert 2 413473303
+delete 3 
+find 3 
+find 2 
+insert 1 118322596
+insert 2 860449269
+insert 2 431229126
+insert 0 648312318
+find 3 
+find 0 
+insert 0 997325488
+delete 4 
+delete 1 
+insert 3 237429419
+delete 3 
+find 1 
+insert 2 807119941
+delete 2 
+find 0 
+find 2 
+delete 1 
+find 1 
+find 1 
+delete 3 
+delete 3 
+delete 4 
+find 4 
+find 3 
+insert 1 473206842
+delete 2 
+find 3 
+delete 0 
+find 2 
+find 2 
+find 3 
+find 4 
+delete 3 
+delete 0 
+delete 0 
+insert 0 923493817
+find 3 
+insert 0 909300163
+delete 0 
+insert 4 205201068
+delete 0 
+find 1 
+find 3 
+find 3 
+insert 2 294043823
+insert 1 905850434
+find 1 
+insert 0 251005376
+insert 3 322114914
+insert 1 44997705
+insert 3 109638825
+find 4 
+insert 2 280474365
+find 4 
+insert 4 441165531
+delete 2 
+find 3 
+delete 3 
+insert 3 811002221
+find 1 
+insert 3 497243964
+delete 4 
+delete 4 
+delete 0 
+delete 3 
+insert 0 969784537
+find 3 
+find 2 
+insert 0 776653746
+insert 0 279163280
+insert 1 414371687
+insert 3 473716554
+find 0 
+insert 4 354837704
+delete 0 
+insert 4 915619075
+delete 1 
+delete 4 
+delete 4 
+delete 2 
+find 3 
+insert 3 355412817
+find 3 
+delete 3 
+insert 0 271610889
+find 0 
+delete 3 
+delete 3 
+find 1 
+find 1 
+find 2 
+find 3 
+insert 0 563467315
+find 4 
+find 1 
+insert 0 236089209
+insert 2 585266873
+insert 4 166797123
+delete 1 
+insert 2 304245212
+insert 3 936969329
+delete 0 
+insert 3 243305992
+find 1 
+delete 0 
+insert 0 655276835
+insert 0 186395705
+delete 0 
+delete 3 
+insert 1 398258612
+insert 4 628263565
+delete 1 
+delete 4 
+insert 4 672929027
+delete 4 
+delete 0 
+insert 3 596243909
+insert 4 660371736
+insert 1 817049085
+find 0 
+insert 2 729461704
+find 2 
+insert 0 41771502
+find 0 
+delete 0 
+find 4 
+insert 4 717404239
+insert 2 617242502
+insert 1 816908286
+insert 2 329681950
+insert 3 366162256
+delete 3 
+delete 1 
+delete 4 
+insert 3 217275293
+find 2 
+find 4 
+insert 4 814193313
+delete 4 
+delete 4 
+delete 2 
+insert 3 322178637
+delete 3 
+insert 2 997182130
+insert 4 371535920
+delete 0 
+delete 4 
+find 1 
+delete 4 
+find 3 
+insert 2 731058738
+insert 2 76076187
+insert 3 61727325
+delete 3 
+delete 1 
+insert 0 958994772
+insert 4 302434937
+delete 0 
+delete 0 
+insert 0 996922388
+insert 1 695873411
+insert 0 307814358
+find 0 
+find 3 
+insert 4 145959274
+insert 4 648874333
+find 3 
+delete 4 
+delete 1 
+delete 3 
+delete 2 
+insert 0 118732360
+delete 2 
+delete 3 
+find 1 
+insert 2 170694414
+delete 0 
+delete 2 
+find 0 
+find 3 
+insert 1 559817942
+insert 3 116946833
+delete 2 
+insert 2 449914870
+delete 3 
+insert 1 490317470
+delete 2 
+insert 0 75097325
+delete 2 
+insert 2 857522349
+insert 3 553603169
+insert 4 69384083
+find 1 
+find 3 
+insert 3 246165566
+find 0 
+delete 3 
+delete 2 
+find 0 
+delete 3 
+delete 1 
+find 2 
+find 0 
+find 2 
+find 2 
+find 3 
+insert 4 547014583
+delete 1 
+insert 2 335681893
+insert 1 454325818
+delete 2 
+delete 4 
+insert 4 457027211
+delete 0 
+find 3 
+delete 3 
+find 3 
+delete 1 
+delete 2 
+insert 4 454327265
+find 0 
+find 4 
+delete 4 
+insert 2 169739411
+insert 4 954849007
+delete 2 
+insert 0 90606082
+delete 3 
+find 1 
+find 2 
+find 2 
+insert 3 687607286
+delete 0 
+insert 0 880168195
+delete 0 
+insert 4 312154294
+delete 0 
+insert 0 557102888
+insert 3 145320190
+delete 4 
+delete 2 
+delete 3 
+delete 1 
+insert 2 365773773
+find 4 
+insert 4 381619245
+delete 1 
+insert 0 807718962
+find 0 
+delete 0 
+find 0 
+delete 2 
+insert 3 797224666
+delete 2 
+delete 0 
+insert 1 235000334
+delete 1 
+find 3 
+delete 0 
+delete 4 
+delete 4 
+find 2 
+delete 1 
+insert 4 65125697
+insert 3 918823896
+find 1 
+insert 4 250456944
+find 3 
+delete 0 
+find 1 
+find 0 
+delete 2 
+insert 3 193693513
+find 1 
+find 1 
+delete 1 
+find 0 
+delete 4 
+insert 2 372188054
+insert 3 517848728
+find 3 
+find 1 
+delete 2 
+delete 0 
+insert 4 476358294
+find 3 
+delete 4 
+insert 3 292525284
+delete 0 
+insert 3 162160603
+insert 3 722438898
+delete 2 
+insert 1 993089587
+find 1 
+delete 2 
+insert 4 210370475
+delete 3 
+insert 0 663313590
+insert 1 953546274
+delete 3 
+delete 2 
+delete 1 
+delete 4 
+find 3 
+insert 4 517878226
+find 3 
+insert 2 885617652
+insert 2 912971635
+find 2 
+insert 1 655761587
+find 3 
+delete 4 
+find 1 
+delete 1 
+find 1 
+delete 3 
+delete 2 
+insert 2 965231938
+find 0 
+insert 3 398224503
+find 4 
+insert 2 73686572
+delete 2 
+find 2 
+insert 0 765737150
+find 0 
+delete 4 
+insert 1 120930150
+find 0 
+find 2 
+insert 3 259120124
+insert 0 260429767
+find 4 
+delete 0 
+find 1 
+insert 2 955125208
+insert 1 749682809
+delete 1 
+delete 2 
+insert 0 727125780
+find 0 
+insert 2 796981198
+insert 3 915445648
+insert 0 507062477
+delete 1 
+find 0 
+insert 4 49424996
+find 4 
+delete 1 
+find 3 
+delete 1 
+find 3 
+delete 1 
+insert 4 315367765
+find 1 
+insert 4 158559066
+find 0 
+delete 4 
+find 0 
+find 4 
+delete 0 
+find 1 
+insert 4 977877288
+insert 1 221823010
+delete 2 
+find 2 
+find 4 
+find 3 
+insert 1 762487353
+find 0 
+delete 1 
+delete 4 
+find 1 
+delete 2 
+find 3 
+insert 3 479792106
+insert 4 25178483
+find 0 
+delete 1 
+delete 1 
+insert 0 538972716
+insert 2 591375397
+insert 0 240520270
+insert 4 794963823
+insert 4 326515887
+insert 2 698071379
+delete 1 
+delete 2 
+insert 0 345160806
+delete 2 
+delete 2 
+insert 0 344695732
+delete 1 
+insert 0 458274181
+insert 3 386450557
+find 3 
+delete 3 
+find 2 
+find 4 
+delete 2 
+find 0 
+delete 0 
+delete 3 
+delete 3 
+find 2 
+find 0 
+delete 4 
+delete 4 
+find 1 
+delete 0 
+insert 3 86353042
+insert 3 335684101
+delete 4 
+find 0 
+find 2 
+insert 2 591936630
+delete 0 
+delete 2 
+delete 0 
+delete 0 
+delete 3 
+find 0 
+delete 1 
+insert 0 47039891
+insert 4 810722012
+delete 0 
+find 3 
+insert 0 61886080
+insert 3 494467070
+delete 3 
+insert 2 830290800
+delete 2 
+find 3 
+insert 2 233978569
+delete 2 
+delete 2 
+find 0 
+insert 0 344327633
+find 3 
+insert 0 188926139
+delete 1 
+insert 3 866598394
+delete 2 
+delete 2 
+insert 1 422430854
+delete 1 
+insert 0 338830573
+find 4 
+find 0 
+delete 0 
+insert 4 587290461
+find 1 
+insert 1 972184366
+delete 1 
+insert 1 608210081
+delete 2 
+find 2 
+insert 3 555922020
+find 1 
+find 1 
+find 2 
+insert 2 906390441
+find 2 
+delete 4 
+delete 3 
+find 1 
+insert 2 194612626
+insert 0 189411824
+delete 1 
+insert 4 340182894
+find 1 
+insert 4 774681710
+find 3 
+delete 0 
+find 0 
+delete 3 
+find 0 
+find 0 
+find 1 
+insert 1 919927548
+delete 3 
+insert 2 127990554
+delete 0 
+find 3 
+delete 3 
+find 0 
+delete 2 
+delete 3 
+insert 0 157228045
+insert 4 760619826
+delete 0 
+find 2 
+find 4 
+find 2 
+delete 0 
+delete 3 
+insert 3 241861060
+delete 3 
+insert 3 308504255
+find 4 
+delete 3 
+delete 2 
+delete 3 
+find 4 
+find 2 
+delete 1 
+delete 0 
+insert 0 296063260
+delete 3 
+delete 1 
+find 4 
+find 4 
+insert 1 901874703
+delete 4 
+delete 0 
+insert 4 542292927
+insert 1 497613196
+delete 2 
+insert 4 951526907
+find 0 
+insert 3 302788868
+insert 3 705870082
+find 3 
+find 1 
+delete 4 
+insert 0 551836579
+insert 2 686255073
+find 2 
+insert 4 693751988
+delete 4 
+delete 2 
+find 3 
+find 1 
+delete 1 
+insert 2 158270990
+delete 2 
+find 1 
+delete 2 
+find 0 
+insert 1 613649809
+find 0 
+delete 0 
+find 0 
+find 2 
+delete 0 
+insert 2 586171251
+delete 4 
+find 1 
+find 3 
+find 4 
+insert 0 169422777
+delete 4 
+find 4 
+find 4 
+find 4 
+insert 3 9812250
+delete 1 
+insert 3 195949744
+insert 0 338452099
+find 4 
+find 2 
+find 1 
+delete 1 
+insert 2 911851851
+find 1 
+insert 3 774811481
+find 3 
+insert 2 886170626
+find 0 
+insert 1 620911461
+delete 0 
+find 0 
+delete 0 
+insert 0 756573055
+delete 3 
+delete 3 
+delete 4 
+insert 2 272449828
+insert 4 777603688
+insert 0 385025224
+insert 2 386819814
+insert 4 689104395
+find 3 
+find 1 
+insert 0 857663325
+delete 4 
+find 0 
+find 4 
+delete 2 
+find 2 
+insert 0 345551146
+delete 0 
+delete 0 
+find 2 
+insert 3 72846856
+insert 4 938145596
+insert 0 170706022
+insert 1 273065012
+find 1 
+delete 4 
+insert 3 22400993
+find 2 
+delete 1 
+find 0 
+find 0 
+delete 2 
+find 4 
+insert 3 669771787
+insert 3 918585987
+find 4 
+delete 2 
+delete 1 
+insert 0 435200597
+insert 4 49092744
+insert 4 546789924
+find 3 
+insert 0 251525782
+insert 2 562044154
+find 0 
+insert 4 141801380
+insert 4 415561285
+find 1 
+delete 1 
+insert 1 379278531
+insert 2 4625344
+find 1 
+insert 1 838028472
+delete 3 
+insert 2 573384815
+delete 4 
+insert 2 840530347
+insert 4 554871589
+delete 2 
+insert 4 461885736
+delete 2 
+find 0 
+insert 3 569274473
+find 3 
+delete 3 
+insert 3 482029497
+find 4 
+find 2 
+insert 1 525711738
+find 0 
+insert 1 132042477
+insert 0 616251738
+insert 1 668657670
+find 3 
+find 1 
+find 2 
+insert 3 325603356
+insert 4 452281217
+find 0 
+delete 1 
+delete 4 
+find 3 
+find 0 
+delete 2 
+delete 1 
+find 0 
+find 4 
+delete 3 
+delete 0 
+insert 4 272594756
+insert 2 570458651
+delete 0 
+insert 4 334178446
+insert 4 559260522
+delete 0 
+delete 2 
+find 4 
+insert 1 46001956
+delete 0 
+find 4 
+delete 3 
+find 4 
+find 0 
+delete 4 
+find 0 
+find 4 
+delete 1 
+find 1 
+find 4 
+insert 1 960718246
+find 1 
+find 0 
+delete 2 
+insert 3 624651224
+delete 2 
+find 2 
+insert 3 143194550
+insert 0 388567541
+delete 1 
+insert 2 879408322
+delete 4 
+insert 0 981801889
+find 1 
+find 3 
+delete 0 
+find 1 
+insert 3 308555637
+insert 0 184654424
+find 1 
+insert 4 951875792
+find 0 
+delete 3 
+find 3 
+insert 4 13514481
+delete 1 
+delete 1 
+find 0 
+delete 0 
+find 1 
+find 1 
+find 2 
+delete 2 
+find 1 
+insert 2 691377374
+delete 1 
+delete 4 
+insert 2 731159243
+delete 3 
+insert 1 670558006
+find 1 
+delete 2 
+insert 0 39669662
+delete 0 
+insert 1 234473014
+find 3 
+insert 2 437974496
+insert 1 566627082
+delete 3 
+find 1 
+find 0 
+insert 4 596701025
+delete 4 
+find 4 
+insert 2 597417008
+delete 4 
+delete 3 
+find 4 
+insert 2 465619644
+delete 0 
+insert 1 985078199
+delete 4 
+insert 1 297952993
+delete 2 
+insert 2 456977805
+find 1 
+delete 2 
+find 3 
+insert 2 646933153
+insert 3 492267782
+insert 0 876765841
+delete 0 
+find 1 
+find 3 
+find 1 
+find 1 
+insert 3 742137169
+find 4 
+find 2 
+find 4 
+delete 4 
+delete 1 
+find 1 
+find 0 
+delete 3 
+delete 1 
+find 2 
+find 2 
+find 0 
+find 2 
+find 0 
+delete 4 
+delete 0 
+find 3 
+find 3 
+insert 1 20437435
+find 4 
+insert 4 667099645
+insert 1 455741306
+find 1 
+insert 1 248510047
+delete 3 
+insert 4 660961554
+find 0 
+find 1 
+find 2 
+delete 3 
+find 4 
+insert 1 554871304
+find 2 
+delete 2 
+insert 0 880196212
+insert 2 227033975
+find 0 
+insert 4 217969285
+insert 0 643979387
+find 0 
+insert 4 406884184
+delete 3 
+delete 0 
+find 4 
+find 0 
+insert 4 142417851
+find 2 
+insert 1 747180416
+delete 1 
+insert 0 594432154
+find 0 
+find 0 
+delete 3 
+delete 2 
+delete 3 
+insert 3 950010979
+delete 1 
+delete 1 
+delete 4 
+find 3 
+insert 0 142865901
+find 0 
+find 0 
+insert 3 12084783
+insert 4 581530233
+find 2 
+insert 4 782527122
+insert 4 511742096
+find 3 
+find 1 
+find 4 
+find 1 
+delete 2 
+delete 3 
+delete 0 
+insert 2 266228434
+find 1 
+find 2 
+insert 4 677866227
+find 2 
+delete 0 
+insert 2 468777847
+delete 4 
+delete 4 
+delete 3 
+delete 3 
+delete 2 
+delete 3 
+delete 2 
+delete 1 
+delete 0 
+delete 0 
+insert 4 251915141
+find 1 
+insert 4 910390301
+find 0 
+find 2 
+insert 1 884694102
+insert 2 598608988
+find 0 
+insert 0 179502005
+find 1 
+find 2 
+delete 0 
+find 1 
+find 4 
+delete 0 
+delete 4 
+delete 4 
+find 0 
+delete 2 
+delete 2 
+insert 1 57083003
+find 1 
+delete 1 
+find 4 
+find 2 
+insert 4 186947690
+insert 0 371509337
+insert 0 793990254
+find 2 
+delete 3 
+insert 3 715556904
+delete 2 
+insert 2 588517188
+find 0 
+insert 4 338978450
+delete 0 
+delete 3 
+insert 4 922749922
+delete 4 
+delete 4 
+insert 4 325235061
+find 4 
+insert 0 926719147
+insert 1 296443697
+find 4 
+insert 2 87447044
+insert 4 596629850
+delete 0 
+insert 2 399366112
+insert 1 358056484
+find 3 
+delete 3 
+delete 0 
+delete 1 
+insert 2 664816529
+delete 2 
+find 4 
+delete 1 
+insert 2 325322087
+delete 3 
+find 4 
+find 0 
+delete 0 
+insert 1 952152496
+insert 3 415787156
+insert 3 443375782
+find 1 
+find 3 
+delete 1 
+insert 1 142344190
+delete 1 
+delete 1 
+find 2 
+insert 0 172828858
+find 4 
+insert 2 1849405
+find 0 
+delete 3 
+delete 0 
+insert 1 139430966
+delete 2 
+find 0 
+delete 3 
+insert 1 579102612
+find 2 
+delete 0 
+delete 3 
+insert 1 934152094
+find 2 
+insert 0 49407594
+insert 0 305756871
+insert 4 662593765
+delete 2 
+delete 0 
+insert 3 480243467
+delete 4 
+insert 4 774896565
+insert 4 738221400
+insert 4 643180434
+insert 1 769122549
+find 2 
+delete 2 
+delete 3 
+find 2 
+find 3 
+delete 0 
+delete 4 
+delete 1 
+delete 1 
+find 1 
+find 4 
+insert 2 321807571
+delete 0 
+delete 1 
+delete 2 
+find 1 
+find 0 
+insert 0 906026929
+delete 4 
+delete 1 
+insert 2 987289927
+find 4 
+insert 0 308849497
+delete 3 
+insert 1 221625124
+insert 3 741816980
+insert 1 783230701
+find 2 
+find 3 
+delete 3 
+insert 1 182143292
+delete 0 
+find 2 
+delete 3 
+insert 2 142534502
+find 1 
+delete 1 
+insert 2 862780477
+find 4 
+delete 4 
+find 3 
+insert 3 534925192
+insert 0 577957571
+find 0 
+find 0 
+insert 3 453967032
+insert 0 343834801
+find 0 
+find 1 
+delete 0 
+find 2 
+find 3 
+delete 3 
+delete 3 
+insert 1 155647897
+find 1 
+find 0 
+insert 0 514289865
+find 4 
+insert 2 920273254
+find 4 
+delete 3 
+delete 4 
+find 3 
+insert 1 833684039
+delete 2 
+find 1 
+delete 3 
+delete 3 
+find 3 
+insert 3 895669622
+delete 2 
+insert 4 426021013
+delete 0 
+insert 0 589135321
+insert 3 108949141
+find 1 
+insert 4 475740845
+find 0 
+delete 3 
+delete 2 
+delete 1 
+delete 3 
+find 0 
+find 3 
+find 1 
+find 2 
+find 4 
+insert 0 470325116
+insert 0 363419471
+insert 3 48847719
+delete 2 
+find 2 
+insert 2 322652074
+find 2 
+find 2 
+find 0 
+find 2 
+insert 0 404009305
+insert 3 814930556
+find 4 
+insert 3 628824923
+insert 1 618080353
+find 3 
+find 2 
+insert 2 689777072
+find 0 
+find 1 
+delete 4 
+find 2 
+find 3 
+delete 0 
+find 4 
+delete 0 
+delete 3 
+insert 3 563949419
+delete 3 
+find 1 
+delete 3 
+insert 2 330522583
+delete 4 
+delete 4 
+find 4 
+delete 2 
+find 1 
+find 0 
+find 2 
+insert 2 570580703
+find 4 
+find 4 
+delete 0 
+delete 0 
+delete 0 
+delete 1 
+insert 2 146325150
+delete 3 
+insert 2 296487780
+insert 1 989795307
+find 1 
+find 4 
+delete 3 
+delete 2 
+delete 4 
+find 2 
+find 3 
+delete 2 
+delete 3 
+delete 4 
+find 1 
+delete 4 
+find 0 
+delete 2 
+find 2 
+delete 0 
+find 3 
+insert 1 955021598
+delete 4 
+delete 1 
+insert 1 314652890
+delete 3 
+find 4 
+delete 2 
+insert 2 696012621
+insert 2 8686940
+find 3 
+delete 4 
+delete 4 
+insert 1 808627488
+delete 0 
+insert 0 771656510
+insert 2 717314610
+delete 0 
+find 4 
+find 4 
+insert 2 355918573
+find 1 
+delete 1 
+insert 4 526431345
+insert 0 865516207
+insert 3 820125656
+delete 0 
+delete 3 
+find 4 
+find 2 
+insert 3 383518152
+delete 2 
+insert 2 430068795
+insert 0 249069194
+insert 1 225179886
+insert 4 475787952
+insert 2 49492288
+delete 0 
+insert 3 784800723
+insert 1 114570047
+insert 2 651772094
+find 3 
+insert 2 433623915
+insert 1 212477898
+insert 3 649788381
+delete 1 
+insert 0 653388558
+delete 0 
+find 0 
+delete 2 
+find 4 
+delete 2 
+insert 1 484934696
+find 1 
+find 3 
+insert 3 250645443
+insert 3 371315549
+find 1 
+delete 4 
+delete 0 
+insert 3 663106043
+delete 2 
+delete 3 
+find 4 
+insert 2 413727572
+insert 0 937490192
+delete 2 
+delete 1 
+find 0 
+delete 4 
+find 3 
+delete 0 
+insert 3 678715689
+insert 2 294610816
+find 3 
+delete 4 
+find 2 
+find 0 
+delete 3 
+delete 0 
+find 0 
+delete 0 
+insert 4 441293979
+find 1 
+delete 1 
+insert 3 345061067
+delete 1 
+insert 1 293656956
+insert 1 468277055
+delete 3 
+delete 1 
+delete 4 
+delete 4 
+delete 4 
+insert 1 439979004
+find 1 
+delete 0 
+find 1 
+insert 1 488827804
+delete 1 
+find 4 
+find 4 
+find 0 
+insert 4 538071385
+insert 0 488663094
+insert 3 519612270
+insert 0 310631893
+insert 1 34711170
+insert 0 559759099
+insert 4 268746131
+delete 4 
+find 4 
+delete 4 
+insert 0 338333530
+find 2 
+find 0 
+find 0 
+delete 4 
+find 0 
+insert 2 842693547
+delete 0 
+find 1 
+find 1 
+insert 3 781850076
+insert 1 74304613
+delete 2 
+insert 0 241080074
+insert 2 657716111
+delete 2 
+delete 1 
+delete 4 
+find 3 
+find 3 
+find 0 
+find 1 
+delete 2 
+insert 4 129697755
+insert 0 355194295
+delete 2 
+insert 1 76323179
+find 2 
+delete 3 
+insert 0 214274744
+delete 0 
+delete 2 
+find 2 
+insert 0 453044306
+find 3 
+insert 3 20758249
+insert 4 107141967
+delete 2 
+find 3 
+insert 0 873486977
+delete 1 
+insert 0 410621904
+delete 1 
+insert 0 9081057
+insert 2 821511468
+delete 0 
+insert 1 14469406
+find 4 
+insert 4 105456811
+find 4 
+insert 1 219463952
+insert 4 385061042
+insert 3 876402049
+find 4 
+find 1 
+find 0 
+delete 1 
+find 4 
+find 0 
+insert 4 719745866
+insert 4 15600151
+delete 1 
+insert 1 341723444
+insert 2 413888501
+delete 1 
+delete 4 
+delete 4 
+delete 2 
+delete 3 
+find 0 
+find 2 
+insert 0 239985270
+delete 4 
+delete 3 
+insert 3 520809997
+find 3 
+delete 3 
+delete 3 
+delete 3 
+delete 2 
+find 1 
+insert 1 10536451
+insert 1 640462149
+delete 2 
+find 0 
+delete 2 
+delete 1 
+find 0 
+find 3 
+insert 3 548912428
+insert 1 650521557
+find 1 
+find 1 
+find 0 
+insert 3 256429391
+delete 3 
+delete 2 
+delete 0 
+find 3 
+delete 0 
+insert 0 437305280
+insert 2 905053026
+insert 1 959853136
+delete 4 
+insert 3 897810740
+insert 0 237409839
+delete 3 
+find 3 
+delete 2 
+find 0 
+insert 0 490957557
+insert 1 140907455
+delete 2 
+find 1 
+delete 2 
+find 2 
+find 0 
+insert 0 721985473
+delete 1 
+delete 0 
+insert 0 966042774
+find 0 
+delete 2 
+find 1 
+find 0 
+delete 0 
+delete 3 
+find 1 
+insert 0 994584268
+insert 0 214859312
+find 0 
+insert 3 12812108
+find 4 
+find 0 
+insert 3 823852919
+delete 0 
+insert 2 264759121
+delete 0 
+delete 4 
+delete 2 
+delete 3 
+insert 2 585545225
+find 0 
+delete 2 
+delete 3 
+insert 2 970525895
+delete 3 
+find 4 
+find 3 
+insert 0 354647258
+find 1 
+delete 3 
+find 1 
+insert 1 239097981
+delete 2 
+insert 4 932657794
+insert 3 351259799
+insert 2 638231468
+delete 4 
+find 4 
+find 1 
+insert 1 117537220
+delete 1 
+insert 4 647735530
+find 1 
+insert 0 143191418
+insert 1 648416381
+insert 3 275776854
+delete 0 
+find 1 
+insert 3 94136182
+find 4 
+find 1 
+find 0 
+delete 1 
+find 3 
+delete 2 
+find 4 
+insert 2 982782944
+delete 0 
+insert 2 298305590
+insert 1 889186050
+find 3 
+find 1 
+delete 3 
+delete 3 
+insert 1 628975735
+insert 4 791341237
+insert 2 124379464
+delete 2 
+delete 2 
+delete 1 
+delete 0 
+delete 3 
+insert 0 245520215
+delete 2 
+find 1 
+find 0 
+find 4 
+find 1 
+insert 1 16262798
+find 0 
+find 3 
+delete 0 
+find 3 
+insert 3 93665881
+insert 2 582684696
+delete 0 
+delete 1 
+insert 1 276131470
+delete 2 
+find 4 
+find 4 
+insert 1 65663439
+delete 1 
+delete 4 
+delete 2 
+insert 0 198035133
+delete 3 
+find 4 
+find 0 
+delete 3 
+find 0 
+find 3 
+delete 3 
+insert 1 86200757
+find 4 
+insert 4 549407049
+delete 4 
+delete 4 
+find 1 
+delete 2 
+find 2 
+delete 3 
+delete 2 
+find 2 
+delete 4 
+insert 4 844324168
+delete 1 
+delete 2 
+delete 1 
+insert 1 441350530
+delete 1 
+find 1 
+find 3 
+find 3 
+find 4 
+find 0 
+delete 0 
+delete 1 
+delete 3 
+find 3 
+find 2 
+delete 0 
+delete 4 
+find 0 
+insert 1 903571779
+delete 4 
+insert 4 588110323
+insert 0 605612243
+delete 0 
+insert 1 499352780
+insert 3 544472387
+delete 3 
+delete 4 
+find 2 
+find 4 
+insert 0 628110509
+delete 1 
+delete 1 
+find 2 
+find 3 
+find 4 
+delete 2 
+find 3 
+insert 4 714644024
+insert 4 55672476
+insert 4 998956748
+delete 4 
+delete 4 
+insert 4 727027825
+delete 0 
+insert 2 856962128
+delete 1 
+insert 0 982778197
+delete 3 
+delete 3 
+delete 2 
+insert 2 829986962
+insert 2 390318288
+insert 1 240874883
+insert 0 897242636
+find 0 
+insert 3 521320484
+find 1 
+insert 4 761062028
+delete 1 
+delete 3 
+find 3 
+delete 1 
+delete 4 
+find 3 
+delete 3 
+insert 1 815313431
+find 0 
+insert 0 149016449
+insert 3 471921662
+find 2 
+find 0 
+find 0 
+find 0 
+insert 3 672920080
+delete 1 
+insert 0 415648400
+find 1 
+find 1 
+find 3 
+find 1 
+delete 4 
+delete 1 
+insert 3 943786724
+delete 4 
+find 2 
+delete 1 
+delete 0 
+find 2 
+insert 2 257881758
+insert 0 275598191
+find 2 
+insert 0 362543472
+delete 1 
+delete 0 
+insert 3 267762436
+find 4 
+find 4 
+find 2 
+delete 1 
+find 4 
+delete 0 
+delete 2 
+delete 1 
+insert 4 248775921
+delete 2 
+delete 3 
+insert 2 93782257
+find 3 
+insert 0 14507584
+delete 4 
+find 0 
+insert 0 924848609
+find 2 
+delete 4 
+find 3 
+delete 0 
+delete 0 
+find 3 
+insert 3 524366388
+insert 3 230275611
+find 4 
+find 4 
+delete 3 
+insert 0 52302676
+insert 0 124089285
+insert 4 782360
+insert 4 786606202
+delete 1 
+delete 0 
+delete 0 
+insert 1 273571079
+find 2 
+insert 2 424209576
+insert 2 760059132
+insert 3 364165901
+insert 3 780396277
+insert 4 304835145
+insert 1 364664701
+find 3 
+delete 2 
+delete 4 
+find 1 
+insert 0 722570132
+find 1 
+delete 1 
+delete 4 
+delete 4 
+insert 2 150816066
+find 2 
+insert 4 949691379
+insert 1 577903278
+find 2 
+insert 0 547160898
+find 4 
+find 3 
+find 1 
+find 0 
+insert 2 135177669
+find 1 
+find 2 
+insert 3 64472391
+find 3 
+insert 4 276573251
+insert 3 846470317
+find 4 
+delete 0 
+delete 4 
+insert 4 108165736
+delete 4 
+delete 4 
+find 2 
+delete 0 
+delete 3 
+insert 1 677101301
+insert 0 619852336
+delete 1 
+find 1 
+insert 1 832096816
+delete 3 
+insert 4 487499462
+find 1 
+insert 4 81401177
+insert 0 493320292
+insert 2 630502660
+delete 0 
+insert 4 123202653
+delete 1 
+find 1 
+insert 3 11348562
+find 0 
+insert 4 434869157
+find 1 
+insert 3 526146476
+insert 3 612714865
+delete 1 
+find 4 
+delete 1 
+insert 0 714334220
+find 1 
+insert 3 701879067
+insert 3 442862506
+find 2 
+delete 1 
+find 0 
+find 2 
+find 0 
+delete 4 
+insert 0 812033173
+delete 3 
+find 3 
+delete 3 
+insert 0 168918143
+find 1 
+find 4 
+find 4 
+insert 4 564462199
+delete 4 
+insert 2 267983761
+find 1 
+find 1 
+insert 3 618373547
+insert 3 316145149
+insert 1 898054015
+delete 1 
+find 3 
+find 3 
+find 3 
+delete 0 
+find 4 
+insert 2 634662022
+find 0 
+insert 0 171542948
+find 3 
+delete 3 
+find 0 
+find 1 
+delete 1 
+insert 2 80670223
+insert 1 486572095
+find 2 
+delete 3 
+find 2 
+delete 2 
+find 2 
+find 3 
+find 3 
+delete 3 
+delete 0 
+delete 3 
+insert 0 581803026
+insert 3 887225632
+insert 4 576845912
+insert 3 778837025
+insert 3 480540073
+delete 2 
+insert 0 687482280
+find 1 
+find 2 
+delete 3 
+delete 0 
+delete 4 
+insert 1 993032359
+delete 1 
+find 3 
+find 4 
+find 2 
+delete 1 
+delete 3 
+delete 4 
+delete 2 
+find 3 
+delete 4 
+find 3 
+delete 3 
+insert 2 573567138
+delete 0 
+find 3 
+insert 0 676543314
+delete 2 
+delete 4 
+find 2 
+delete 3 
+delete 2 
+find 2 
+insert 0 727031316
+find 4 
+find 4 
+insert 2 791663597
+find 1 
+find 4 
+find 2 
+find 0 
+delete 0 
+find 0 
+find 1 
+find 3 
+delete 1 
+find 0 
+insert 4 526920691
+insert 1 628967813
+delete 4 
+insert 3 688257606
+delete 4 
+delete 3 
+insert 3 196699273
+delete 3 
+insert 1 649434902
+insert 0 72702472
+delete 1 
+delete 4 
+find 4 
+find 2 
+find 0 
+insert 1 131306009
+insert 1 699517591
+delete 2 
+insert 2 483432186
+delete 1 
+insert 0 217303577
+delete 3 
+delete 2 
+delete 2 
+insert 3 75359377
+find 3 
+insert 4 874735229
+insert 2 60012099
+delete 2 
+delete 2 
+find 3 
+insert 2 799327851
+delete 2 
+delete 2 
+find 1 
+find 2 
+insert 4 784989243
+delete 4 
+insert 1 159389322
+insert 1 835868309
+insert 0 257129161
+delete 0 
+delete 3 
+delete 4 
+insert 2 56461699
+insert 4 379830849
+insert 3 425960446
+insert 1 992882915
+delete 4 
+delete 4 
+insert 2 306908614
+find 4 
+find 4 
+find 3 
+find 3 
+insert 1 621006078
+insert 1 34522120
+insert 4 425703570
+delete 1 
+delete 2 
+delete 3 
+find 2 
+find 4 
+delete 1 
+find 1 
+find 2 
+find 2 
+delete 0 
+insert 1 485112556
+delete 4 
+find 2 
+delete 3 
+find 4 
+delete 3 
+find 2 
+find 2 
+find 1 
+delete 2 
+delete 1 
+insert 1 859889515
+delete 4 
+delete 4 
+insert 4 287185197
+find 3 
+find 4 
+find 4 
+find 2 
+delete 0 
+delete 0 
+find 0 
+find 1 
+delete 2 
+delete 4 
+find 4 
+delete 0 
+find 0 
+find 0 
+insert 2 397731076
+find 0 
+insert 0 755210853
+insert 1 429614135
+find 0 
+find 2 
+delete 3 
+find 1 
+delete 4 
+delete 2 
+insert 3 147170967
+insert 0 596186778
+find 0 
+find 1 
+insert 4 480408684
+delete 2 
+delete 4 
+find 4 
+delete 4 
+insert 2 395173897
+find 3 
+insert 2 72719316
+find 4 
+find 4 
+delete 2 
+insert 1 29959431
+delete 0 
+find 2 
+find 1 
+find 4 
+find 0 
+find 4 
+delete 2 
+find 1 
+insert 0 25846175
+find 0 
+insert 3 717486903
+delete 4 
+delete 2 
+insert 1 648784916
+insert 4 992965330
+insert 3 385453232
+delete 2 
+insert 1 288496041
+find 1 
+insert 3 342660739
+delete 0 
+insert 4 958431029
+insert 3 896250201
+delete 4 
+delete 0 
+find 0 
+find 3 
+delete 3 
+find 2 
+insert 2 25392842
+find 2 
+find 0 
+delete 1 
+find 1 
+delete 4 
+insert 4 671505235
+find 1 
+insert 3 367909013
+find 1 
+delete 2 
+find 0 
+find 0 
+find 3 
+delete 1 
+delete 0 
+find 4 
+delete 3 
+find 4 
+find 1 
+insert 1 696801327
+insert 3 895556130
+find 3 
+delete 2 
+delete 4 
+delete 0 
+delete 3 
+find 3 
+insert 2 756484226
+find 2 
+delete 0 
+delete 3 
+find 1 
+find 3 
+insert 2 819348730
+find 2 
+delete 4 
+insert 4 910002217
+insert 1 230064530
+insert 1 727126456
+find 3 
+insert 1 83509777
+delete 1 
+insert 4 208971123
+find 1 
+find 0 
+insert 0 447045119
+insert 4 68109451
+find 3 
+find 0 
+delete 1 
+find 3 
+delete 3 
+insert 3 243991035
+find 2 
+delete 4 
+find 2 
+delete 0 
+delete 4 
+find 3 
+find 1 
+find 3 
+insert 2 528221549
+find 0 
+find 3 
+delete 4 
+delete 0 
+find 0 
+find 1 
+delete 4 
+delete 4 
+find 0 
+insert 1 560981512
+find 2 
+insert 0 316364866
+delete 2 
+insert 2 851439081
+delete 2 
+find 0 
+find 0 
+find 0 
+delete 1 
+insert 2 360794607
+find 0 
+delete 4 
+find 4 
+find 2 
+find 4 
+delete 1 
+insert 0 383641070
+find 4 
+insert 1 368013276
+find 0 
+delete 3 
+find 0 
+delete 0 
+find 1 
+delete 0 
+insert 2 774157331
+find 2 
+delete 2 
+delete 2 
+insert 2 157918905
+delete 3 
+insert 3 966613380
+insert 2 922954042
+delete 2 
+delete 3 
+insert 0 320930482
+insert 2 1423313
+insert 0 497643898
+insert 2 128472997
+delete 0 
+find 1 
+find 4 
+insert 4 423188691
+find 1 
+insert 0 51623882
+delete 2 
+find 4 
+insert 4 417171043
+delete 0 
+delete 1 
+delete 4 
+insert 4 572038919
+find 2 
+delete 3 
+find 3 
+insert 0 916853613
+find 1 
+delete 0 
+delete 1 
+find 4 
+insert 0 920252371
+insert 1 855071664
+delete 4 
+find 0 
+insert 3 450835422
+find 0 
+insert 4 471012180
+insert 3 669707318
+insert 2 148767275
+delete 0 
+find 4 
+delete 0 
+insert 2 275782788
+insert 1 771173165
+insert 3 730959252
+delete 0 
+insert 0 10446653
+find 4 
+delete 2 
+delete 3 
+insert 2 408834159
+delete 3 
+delete 1 
+delete 2 
+delete 2 
+delete 2 
+delete 1 
+delete 4 
+delete 4 
+find 1 
+insert 0 401722587
+insert 4 49773279
+delete 2 
+find 1 
+find 4 
+insert 4 433886724
+delete 1 
+find 4 
+find 1 
+insert 4 350302761
+delete 0 
+insert 1 457207734
+insert 4 57228936
+delete 2 
+find 1 
+delete 4 
+find 4 
+delete 3 
+find 1 
+find 0 
+find 2 
+delete 2 
+delete 2 
+find 1 
+insert 3 332736506
+insert 1 158746911
+find 2 
+insert 0 979706702
+delete 2 
+delete 3 
+delete 1 
+insert 3 487853562
+insert 2 138394157
+insert 2 300406646
+delete 0 
+insert 0 404023348
+delete 1 
+find 0 
+find 0 
+delete 1 
+delete 4 
+delete 1 
+delete 3 
+delete 3 
+delete 1 
+insert 1 443156515
+find 1 
+delete 3 
+insert 1 368126063
+insert 3 124794878
+delete 4 
+insert 2 201670227
+delete 1 
+find 2 
+insert 4 36300917
+delete 2 
+delete 4 
+find 1 
+delete 4 
+find 0 
+find 4 
+delete 1 
+insert 0 38105748
+find 4 
+find 2 
+delete 2 
+find 0 
+delete 4 
+find 3 
+find 4 
+find 1 
+find 0 
+find 4 
+find 3 
+delete 1 
+find 0 
+delete 4 
+find 0 
+insert 1 595491659
+insert 1 955751140
+find 1 
+insert 3 238109369
+delete 0 
+delete 0 
+insert 1 903432912
+insert 4 359371703
+insert 0 199901060
+delete 2 
+insert 0 575865630
+find 4 
+find 0 
+delete 1 
+delete 1 
+delete 2 
+insert 2 255457255
+find 2 
+delete 2 
+find 0 
+insert 0 796974874
+find 4 
+find 4 
+find 2 
+find 4 
+find 3 
+find 0 
+find 0 
+insert 0 671987443
+insert 4 634531477
+find 2 
+insert 0 465783124
+find 1 
+delete 2 
+find 3 
+insert 4 43728056
+find 0 
+find 0 
+insert 2 398595358
+find 2 
+find 1 
+delete 3 
+find 0 
+insert 1 400086663
+delete 4 
+find 1 
+find 1 
+find 0 
+insert 3 541551752
+find 3 
+find 3 
+delete 3 
+insert 0 187111904
+insert 1 360369155
+find 2 
+delete 3 
+find 1 
+insert 4 897381590
+delete 3 
+insert 0 160119351
+find 0 
+delete 1 
+delete 2 
+delete 0 
+find 4 
+delete 4 
+insert 4 89160315
+find 0 
+insert 3 805252418
+insert 3 497566116
+find 0 
+delete 2 
+insert 2 738954134
+insert 2 980573106
+delete 2 
+delete 1 
+find 2 
+insert 2 418194479
+delete 1 
+insert 0 229893216
+delete 3 
+delete 1 
+insert 2 915623346
+delete 2 
+insert 2 930427758
+find 3 
+find 0 
+find 2 
+find 4 
+find 4 
+delete 4 
+delete 4 
+find 4 
+find 0 
+insert 2 303728637
+insert 4 796857938
+delete 2 
+delete 4 
+find 3 
+insert 1 692512565
+delete 3 
+find 4 
+delete 4 
+find 4 
+insert 1 248444126
+delete 3 
+delete 3 
+insert 1 688888466
+find 2 
+insert 1 157383419
+find 0 
+insert 1 742103341
+insert 1 897962020
+insert 1 723878677
+delete 0 
+find 1 
+find 3 
+insert 2 578248336
+insert 1 562520606
+delete 3 
+delete 1 
+delete 4 
+delete 3 
+delete 0 
+find 0 
+delete 0 
+find 0 
+insert 1 51129890
+find 2 
+insert 2 276798129
+delete 3 
+delete 2 
+find 0 
+find 1 
+insert 1 312921923
+insert 3 125073048
+insert 2 446770031
+find 4 
+delete 1 
+find 0 
+insert 2 337607601
+insert 3 234831717
+find 0 
+insert 1 458087043
+delete 0 
+insert 4 799796690
+insert 3 833406195
+find 1 
+insert 3 737933801
+find 4 
+find 2 
+delete 2 
+find 4 
+delete 3 
+delete 0 
+delete 0 
+insert 4 8902194
+delete 1 
+find 2 
+insert 2 75130833
+find 4 
+insert 0 831757059
+insert 2 571007057
+find 0 
+delete 0 
+find 3 
+delete 4 
+find 3 
+insert 2 524831042
+delete 3 
+find 3 
+find 1 
+delete 0 
+delete 4 
+insert 2 653559395
+insert 4 386036063
+find 1 
+delete 2 
+find 1 
+insert 1 780273801
+delete 1 
+delete 4 
+delete 3 
+insert 4 173400999
+delete 2 
+delete 2 
+insert 1 686875387
+insert 4 835828955
+delete 3 
+delete 2 
+find 2 
+insert 2 311497818
+insert 0 88780880
+find 3 
+delete 0 
+delete 2 
+delete 2 
+insert 3 736631189
+delete 2 
+find 0 
+find 0 
+delete 0 
+find 0 
+insert 2 955435761
+insert 2 110280586
+insert 0 255561144
+find 3 
+find 3 
+insert 3 697356939
+find 1 
+insert 0 371153289
+find 3 
+find 1 
+delete 0 
+delete 3 
+insert 3 357390389
+insert 4 402571092
+find 4 
+find 3 
+delete 4 
+delete 2 
+insert 1 467255786
+delete 2 
+delete 3 
+find 2 
+delete 1 
+find 1 
+find 3 
+find 3 
+delete 4 
+insert 4 436551093
+insert 2 747278002
+delete 4 
+insert 1 310993250
+find 4 
+delete 2 
+delete 1 
+insert 1 477117455
+find 3 
+find 2 
+find 4 
+find 0 
+insert 3 31389587
+delete 2 
+delete 1 
+find 4 
+find 2 
+find 3 
+delete 0 
+insert 0 949059013
+find 0 
+find 3 
+find 2 
+delete 2 
+find 3 
+find 2 
+find 4 
+insert 0 866881734
+find 2 
+delete 3 
+delete 1 
+delete 4 
+insert 4 233486258
+delete 4 
+delete 3 
+delete 4 
+find 4 
+insert 2 151903379
+insert 1 387936895
+find 2 
+insert 0 537607707
+delete 0 
+delete 0 
+delete 1 
+delete 0 
+delete 3 
+delete 4 
+insert 3 877719740
+find 0 
+insert 1 659543865
+insert 0 688489458
+delete 1 
+find 0 
+find 2 
+find 0 
+find 1 
+delete 4 
+find 1 
+find 2 
+insert 2 378690044
+insert 3 318559847
+find 3 
+insert 0 120553832
+insert 2 739342473
+insert 1 597750790
+find 3 
+find 0 
+delete 3 
+insert 4 547870610
+find 1 
+insert 2 926027248
+insert 2 965682308
+delete 2 
+delete 1 
+find 0 
+find 3 
+insert 1 675028799
+delete 3 
+find 4 
+find 4 
+find 2 
+find 2 
+delete 3 
+find 0 
+insert 4 7559173
+insert 3 88773176
+find 3 
+insert 0 664768630
+find 2 
+find 0 
+find 0 
+delete 1 
+insert 0 410533542
+find 0 
+find 3 
+find 4 
+insert 2 227027693
+find 1 
+delete 0 
+find 4 
+find 2 
+find 4 
+find 0 
+delete 4 
+delete 2 
+insert 4 860352261
+find 1 
+delete 0 
+insert 3 870890842
+find 0 
+insert 1 539692074
+delete 3 
+insert 4 606013354
+insert 1 925099912
+insert 2 340983380
+delete 1 
+delete 4 
+find 0 
+insert 0 985456490
+delete 1 
+insert 4 594303519
+insert 4 842567463
+insert 2 363281569
+find 1 
+find 0 
+insert 0 216906474
+insert 3 885414561
+find 0 
+insert 3 151630184
+insert 0 102703939
+delete 4 
+find 3 
+delete 3 
+find 0 
+find 2 
+find 1 
+delete 2 
+find 3 
+delete 4 
+insert 2 646764626
+find 3 
+insert 2 163551884
+find 3 
+insert 3 138513049
+insert 4 842886681
+find 2 
+delete 4 
+insert 4 8146188
+find 2 
+find 4 
+find 3 
+insert 4 400513739
+find 1 
+find 0 
+delete 0 
+delete 4 
+insert 0 342477068
+delete 4 
+delete 0 
+delete 3 
+insert 0 292919146
+find 1 
+find 3 
+find 2 
+delete 2 
+insert 1 335999380
+delete 1 
+find 2 
+find 1 
+delete 2 
+delete 4 
+find 0 
+delete 4 
+delete 2 
+find 3 
+find 3 
+delete 1 
+insert 1 83557479
+find 0 
+insert 3 345121162
+find 4 
+delete 3 
+insert 2 946229660
+insert 3 266439862
+delete 3 
+delete 0 
+insert 0 701099200
+insert 0 137734412
+insert 3 832160868
+delete 3 
+insert 0 20112295
+delete 2 
+insert 1 938878106
+find 4 
+delete 2 
+insert 0 849726633
+insert 2 652730142
+delete 3 
+delete 4 
+find 1 
+insert 3 79757081
+find 4 
+delete 0 
+delete 1 
+find 3 
+insert 3 448215383
+insert 1 378414463
+find 4 
+delete 0 
+delete 3 
+delete 1 
+delete 0 
+delete 3 
+find 3 
+find 1 
+insert 4 404745438
+find 4 
+insert 2 510777808
+find 3 
+insert 0 29407954
+delete 3 
+delete 4 
+find 0 
+delete 3 
+insert 3 334218631
+find 4 
+find 3 
+delete 2 
+find 4 
+insert 1 920245923
+insert 4 117379449
+find 0 
+delete 3 
+find 4 
+delete 3 
+find 3 
+insert 0 468028954
+delete 0 
+insert 3 710249646
+insert 3 499019481
+find 3 
+find 4 
+delete 0 
+insert 0 358861841
+insert 0 584974178
+delete 0 
+insert 1 29928296
+insert 0 416534959
+find 4 
+insert 1 125719834
+find 4 
+find 4 
+insert 2 89438654
+insert 3 127056303
+find 1 
+delete 4 
+delete 3 
+insert 3 688693099
+find 2 
+delete 3 
+insert 0 447147762
+find 4 
+delete 4 
+find 4 
+insert 1 710309970
+delete 1 
+insert 2 514488720
+delete 3 
+find 0 
+insert 1 122331322
+find 0 
+delete 2 
+find 0 
+find 2 
+find 2 
+insert 0 968935184
+insert 1 432522250
+delete 1 
+insert 0 847597378
+insert 3 252650877
+delete 0 
+find 1 
+delete 4 
+delete 3 
+find 3 
+insert 1 293514925
+find 1 
+find 4 
+find 4 
+delete 2 
+delete 2 
+delete 3 
+insert 2 809832707
+find 1 
+delete 3 
+find 0 
+insert 4 144682437
+delete 3 
+delete 1 
+find 4 
+find 3 
+insert 3 772198609
+find 1 
+find 2 
+delete 4 
+delete 1 
+find 1 
+insert 1 216202880
+delete 0 
+find 4 
+find 1 
+insert 1 810214851
+find 2 
+insert 0 646591248
+find 4 
+find 3 
+insert 1 743091031
+find 1 
+insert 3 63517346
+find 2 
+delete 2 
+insert 2 323499865
+delete 3 
+insert 3 239123833
+find 0 
+insert 0 533583651
+delete 0 
+find 2 
+insert 3 536360429
+insert 4 788083949
+delete 0 
+delete 4 
+insert 3 659013106
+delete 2 
+delete 3 
+delete 3 
+find 4 
+find 1 
+delete 3 
+insert 1 421255269
+delete 4 
+insert 2 985482837
+find 2 
+insert 1 204118909
+insert 3 981725922
+delete 2 
+find 3 
+insert 0 648533291
+find 1 
+delete 1 
+find 1 
+delete 1 
+find 0 
+insert 0 622096698
+find 0 
+insert 0 383011490
+delete 1 
+insert 2 607640638
+find 4 
+find 4 
+insert 2 209753897
+find 2 
+delete 4 
+find 0 
+find 4 
+find 0 
+insert 0 639775606
+delete 3 
+delete 4 
+delete 3 
+delete 4 
+insert 1 843004555
+find 4 
+insert 4 887438592
+find 3 
+delete 0 
+find 2 
+delete 2 
+insert 0 147476084
+delete 3 
+insert 2 640655777
+delete 3 
+find 0 
+insert 4 356699371
+delete 1 
+insert 3 288762962
+delete 2 
+insert 2 471003099
+find 0 
+delete 2 
+delete 2 
+find 3 
+insert 4 322315854
+find 2 
+delete 3 
+find 0 
+insert 4 116820739
+delete 3 
+delete 1 
+insert 1 76657062
+find 2 
+delete 1 
+delete 2 
+insert 1 101426136
+insert 0 29266856
+insert 2 911702472
+delete 0 
+insert 3 200880545
+insert 2 323158160
+find 2 
+find 1 
+delete 2 
+find 2 
+insert 2 946084099
+find 4 
+find 4 
+find 0 
+find 3 
+find 4 
+insert 2 763392817
+find 1 
+delete 4 
+delete 4 
+insert 3 483620789
+insert 1 871234081
+insert 3 620006718
+delete 2 
+delete 2 
+delete 0 
+delete 4 
+find 1 
+find 2 
+find 1 
+insert 4 608854649
+insert 3 283042067
+insert 3 390776911
+delete 4 
+insert 2 234852643
+find 2 
+delete 3 
+find 4 
+insert 2 762411087
+insert 0 807347173
+delete 4 
+find 4 
+insert 1 621742479
+find 0 
+find 1 
+delete 3 
+insert 3 762411379
+find 1 
+insert 3 48546748
+delete 3 
+insert 3 59290342
+find 3 
+insert 4 992282626
+insert 1 779828037
+insert 4 682705959
+delete 1 
+find 2 
+delete 1 
+find 3 
+find 4 
+delete 2 
+delete 1 
+delete 1 
+find 4 
+delete 2 
+insert 3 321618843
+delete 4 
+insert 0 844106261
+insert 3 118839174
+find 0 
+find 1 
+insert 1 92107788
+insert 1 148273883
+find 1 
+insert 2 724804158
+delete 1 
+insert 3 515381621
+find 2 
+insert 0 850869765
+delete 4 
+find 3 
+insert 1 410124936
+insert 3 177207361
+insert 3 176117070
+delete 4 
+delete 0 
+delete 4 
+delete 4 
+insert 4 77195988
+insert 0 213231144
+find 1 
+delete 4 
+delete 1 
+find 3 
+find 2 
+find 0 
+find 1 
+find 2 
+find 4 
+find 4 
+insert 0 192681234
+find 4 
+insert 1 338673496
+find 1 
+find 4 
+insert 3 68160431
+delete 3 
+find 3 
+find 2 
+delete 4 
+find 3 
+find 2 
+find 1 
+find 0 
+find 1 
+find 0 
+find 2 
+delete 1 
+find 0 
+delete 2 
+find 4 
+insert 4 965412457
+delete 2 
+insert 1 599266038
+insert 3 108860792
+delete 0 
+delete 2 
+insert 3 281431895
+find 3 
+delete 0 
+delete 4 
+insert 2 253140819
+delete 1 
+find 0 
+delete 3 
+delete 2 
+delete 4 
+insert 1 524688526
+find 4 
+insert 2 587409526
+find 2 
+find 0 
+find 2 
+insert 1 177432382
+delete 2 
+find 0 
+find 0 
+delete 3 
+insert 0 105385117
+find 3 
+insert 2 797259727
+insert 1 165239783
+delete 4 
+insert 3 687556521
+find 4 
+delete 2 
+delete 1 
+delete 0 
+delete 4 
+delete 1 
+find 1 
+insert 2 513059320
+insert 2 327042855
+delete 0 
+insert 4 128714450
+delete 1 
+find 3 
+find 2 
+find 2 
+find 1 
+insert 1 670379575
+insert 3 874212121
+find 4 
+insert 1 252658939
+delete 3 
+insert 2 340940311
+delete 2 
+delete 3 
+insert 4 704751369
+find 1 
+insert 2 355947758
+find 0 
+insert 1 935120269
+insert 0 702566800
+find 3 
+delete 1 
+delete 4 
+insert 0 992371072
+insert 1 683441575
+delete 4 
+insert 4 985704221
+insert 0 579878587
+find 3 
+find 4 
+insert 2 559611095
+find 3 
+find 2 
+insert 1 447488550
+insert 4 890547304
+delete 4 
+insert 1 441235902
+delete 1 
+find 4 
+find 2 
+insert 1 703983063
+insert 4 545210580
+delete 1 
+insert 0 848839260
+insert 0 785062743
+find 0 
+find 1 
+delete 3 
+find 3 
+insert 0 963515637
+delete 2 
+delete 3 
+insert 4 410245549
+insert 4 869357364
+insert 3 685875945
+insert 0 416607357
+delete 0 
+find 1 
+delete 4 
+find 2 
+delete 1 
+delete 0 
+delete 4 
+find 0 
+insert 2 824559197
+insert 4 900060873
+find 3 
+delete 3 
+find 3 
+delete 1 
+insert 1 930183527
+find 2 
+insert 2 910794335
+find 4 
+insert 0 434260982
+delete 1 
+delete 3 
+delete 0 
+find 3 
+find 4 
+insert 0 400810224
+find 2 
+insert 0 34847484
+insert 2 12689323
+find 0 
+find 0 
+delete 0 
+insert 4 185549339
+find 0 
+delete 4 
+find 2 
+insert 3 441244301
+delete 2 
+find 0 
+insert 4 904641173
+find 3 
+delete 1 
+delete 4 
+delete 0 
+find 0 
+insert 0 196599720
+delete 0 
+find 4 
+delete 1 
+delete 1 
+insert 1 349212158
+delete 4 
+delete 1 
+find 4 
+insert 0 560297348
+delete 0 
+insert 3 982184000
+find 1 
+delete 1 
+delete 1 
+delete 2 
+insert 2 891576723
+find 4 
+find 4 
+delete 0 
+find 2 
+delete 4 
+delete 1 
+insert 3 178175594
+delete 1 
+delete 2 
+delete 2 
+delete 4 
+find 3 
+find 2 
+delete 0 
+delete 0 
+insert 0 578487787
+find 1 
+insert 1 969861269
+find 2 
+delete 4 
+insert 0 689150460
+delete 4 
+insert 3 639485988
+delete 0 
+delete 1 
+insert 1 429620078
+find 4 
+insert 4 931421637
+find 0 
+insert 3 793651021
+delete 1 
+insert 4 82123099
+find 2 
+find 0 
+delete 4 
+delete 4 
+find 3 
+insert 4 392022734
+delete 3 
+insert 1 971385677
+delete 1 
+insert 4 535234421
+delete 0 
+find 4 
+insert 2 892637089
+find 3 
+delete 3 
+delete 3 
+find 3 
+insert 2 137343299
+delete 3 
+find 4 
+delete 3 
+find 2 
+delete 1 
+find 3 
+insert 4 368838778
+delete 4 
+find 4 
+insert 3 382424902
+insert 2 771202000
+insert 1 521794
+find 0 
+find 0 
+delete 3 
+find 3 
+insert 3 13910289
+insert 3 340670376
+insert 4 938249146
+find 2 
+delete 2 
+delete 3 
+insert 0 296755125
+find 4 
+insert 2 711292544
+insert 4 335262591
+insert 2 660381217
+delete 4 
+delete 3 
+delete 0 
+insert 2 2884164
+delete 4 
+delete 0 
+find 3 
+delete 2 
+find 3 
+delete 0 
+find 0 
+insert 1 747251970
+insert 1 790053568
+find 2 
+find 4 
+delete 1 
+insert 2 197573471
+insert 1 322014335
+insert 2 577850901
+delete 2 
+delete 4 
+find 3 
+insert 4 657195789
+find 0 
+delete 3 
+delete 2 
+insert 4 161817411
+insert 0 49322224
+delete 4 
+insert 1 141887373
+insert 3 69382355
+delete 3 
+insert 3 28563931
+insert 3 391468310
+find 1 
+find 4 
+find 0 
+find 4 
+delete 4 
+insert 3 572532753
+delete 3 
+find 3 
+insert 0 484624720
+find 2 
+find 0 
+delete 0 
+find 3 
+insert 3 96024793
+find 4 
+insert 0 684330791
+insert 1 337338854
+find 2 
+insert 4 998217268
+delete 0 
+insert 4 480104086
+delete 3 
+find 0 
+delete 3 
+find 1 
+find 0 
+find 2 
+delete 1 
+insert 1 651846816
+find 4 
+delete 2 
+delete 1 
+insert 4 86818108
+find 4 
+find 4 
+find 4 
+insert 1 454634917
+delete 2 
+delete 0 
+delete 1 
+find 4 
+find 0 
+delete 1 
+delete 4 
+delete 0 
+find 4 
+find 4 
+delete 3 
+insert 3 125069834
+insert 2 322274684
+delete 4 
+delete 0 
+find 0 
+delete 2 
+delete 1 
+find 1 
+delete 3 
+find 4 
+find 0 
+delete 4 
+find 2 
+insert 0 109997581
+find 3 
+delete 1 
+insert 0 477210092
+insert 3 774225216
+find 2 
+delete 1 
+find 3 
+find 3 
+delete 1 
+delete 1 
+find 1 
+delete 0 
+delete 2 
+insert 3 86072404
+insert 1 197067669
+insert 3 102790799
+delete 3 
+insert 2 472782653
+insert 0 488122207
+find 3 
+delete 2 
+delete 1 
+find 1 
+find 2 
+find 0 
+delete 2 
+delete 4 
+insert 4 772179363
+find 1 
+find 3 
+delete 1 
+find 1 
+insert 3 70194391
+delete 3 
+delete 1 
+find 1 
+insert 3 103868633
+insert 4 599707803
+find 1 
+find 4 
+find 0 
+delete 1 
+find 0 
+find 2 
+insert 4 519603643
+find 4 
+insert 3 227538926
+insert 4 326486468
+delete 1 
+insert 3 396514752
+insert 1 105067304
+delete 3 
+delete 4 
+delete 0 
+insert 4 771175063
+delete 2 
+insert 1 713732265
+find 1 
+insert 0 93914084
+insert 0 452610645
+find 4 
+delete 0 
+find 0 
+delete 2 
+insert 0 645870786
+insert 2 885590656
+delete 1 
+insert 3 750996503
+delete 4 
+find 2 
+find 0 
+insert 1 164300569
+insert 3 256579192
+find 2 
+insert 0 915754076
+delete 0 
+delete 3 
+delete 4 
+insert 3 968195376
+find 3 
+insert 1 129583201
+insert 1 659954141
+delete 3 
+find 2 
+find 0 
+find 1 
+delete 2 
+insert 2 771192927
+insert 0 505762990
+insert 4 20521556
+delete 4 
+insert 0 619020873
+find 0 
+delete 3 
+delete 3 
+find 1 
+find 4 
+delete 1 
+delete 1 
+delete 4 
+insert 1 703496094
+find 4 
+insert 1 194713736
+delete 3 
+find 3 
+find 4 
+find 4 
+insert 1 622626780
+delete 1 
+find 4 
+find 4 
+find 3 
+insert 2 294083936
+delete 3 
+delete 1 
+delete 0 
+find 0 
+insert 4 479205781
+delete 4 
+find 2 
+find 1 
+insert 0 365919543
+insert 0 384367130
+delete 4 
+delete 4 
+find 3 
+find 4 
+find 2 
+find 4 
+insert 0 596589716
+insert 3 383008833
+delete 3 
+find 0 
+delete 2 
+find 3 
+find 3 
+insert 3 554128649
+insert 2 427519124
+insert 4 137905435
+delete 0 
+find 1 
+find 1 
+delete 0 
+find 2 
+insert 4 328951010
+find 1 
+insert 3 489187180
+find 3 
+insert 4 667104934
+insert 4 877197040
+insert 2 985457096
+find 2 
+delete 2 
+find 4 
+delete 4 
+delete 3 
+delete 1 
+insert 4 853302603
+delete 4 
+insert 0 386659253
+delete 2 
+delete 0 
+delete 4 
+delete 1 
+insert 0 45751877
+insert 1 398128970
+delete 1 
+insert 0 430712923
+find 1 
+find 1 
+delete 1 
+find 0 
+insert 1 159206846
+find 0 
+insert 2 258374601
+find 1 
+delete 3 
+insert 1 468241451
+delete 4 
+insert 1 229194777
+delete 3 
+insert 0 679756270
+delete 2 
+find 4 
+delete 0 
+insert 0 931648644
+find 0 
+delete 3 
+insert 3 712692497
+find 0 
+find 2 
+insert 0 335136732
+find 4 
+find 2 
+insert 4 639208690
+insert 4 112395629
+find 1 
+find 1 
+find 2 
+insert 4 626554343
+insert 1 276666968
+find 2 
+insert 3 435861019
+insert 0 667370455
+insert 4 801657319
+insert 0 546121352
+insert 4 752555001
+delete 3 
+insert 3 771258813
+delete 0 
+find 4 
+delete 3 
+delete 0 
+find 0 
+find 0 
+delete 1 
+find 0 
+insert 2 137877996
+find 1 
+find 0 
+insert 2 867396427
+delete 4 
+delete 1 
+delete 2 
+find 0 
+delete 4 
+find 4 
+find 4 
+delete 2 
+find 0 
+insert 3 917957774
+delete 1 
+delete 0 
+insert 4 75450316
+insert 4 488487855
+delete 1 
+find 3 
+find 2 
+insert 1 705974345
+find 3 
+delete 4 
+find 3 
+find 1 
+insert 0 817374424
+delete 0 
+find 3 
+delete 3 
+insert 2 413931683
+delete 2 
+delete 4 
+find 2 
+insert 2 672512253
+insert 0 869000656
+insert 2 829957925
+find 4 
+delete 1 
+insert 3 288667100
+insert 1 751217937
+find 2 
+insert 2 756940418
+find 0 
+insert 2 688073321
+delete 2 
+find 1 
+find 0 
+delete 4 
+insert 2 512560438
+find 4 
+insert 1 725181822
+insert 1 994494095
+delete 2 
+insert 3 868609642
+find 3 
+find 4 
+find 4 
+delete 0 
+insert 0 71058181
+insert 3 298362820
+delete 0 
+delete 0 
+find 2 
+find 2 
+insert 2 983254380
+insert 3 530254571
+insert 4 960136838
+delete 1 
+insert 2 513966063
+delete 3 
+insert 2 712112966
+delete 1 
+delete 1 
+insert 3 11298192
+find 0 
+find 2 
+insert 2 511778985
+find 1 
+find 1 
+delete 0 
+find 4 
+find 4 
+delete 1 
+insert 3 255258656
+insert 3 257899303
+find 0 
+insert 4 405189748
+find 0 
+delete 2 
+find 4 
+insert 0 535218567
+delete 2 
+delete 4 
+find 2 
+find 2 
+delete 4 
+insert 4 417597047
+find 0 
+delete 2 
+insert 4 358388954
+delete 4 
+delete 3 
+find 4 
+delete 3 
+delete 2 
+insert 3 7184901
+delete 0 
+find 0 
+delete 1 
+find 0 
+find 0 
+delete 2 
+find 0 
+find 0 
+delete 2 
+find 0 
+insert 0 763667587
+delete 4 
+delete 2 
+insert 0 936936058
+find 2 
+insert 0 995634424
+find 4 
+find 4 
+find 3 
+find 2 
+delete 0 
+delete 2 
+find 4 
+insert 4 578326288
+delete 3 
+find 0 
+insert 3 766174343
+delete 0 
+insert 2 792359401
+find 3 
+delete 1 
+delete 1 
+find 2 
+find 2 
+find 4 
+delete 0 
+delete 4 
+find 3 
+insert 1 854242274
+find 0 
+find 3 
+delete 2 
+delete 3 
+insert 4 461262365
+delete 3 
+insert 2 523120794
+find 4 
+delete 3 
+delete 2 
+insert 4 291364125
+insert 1 812073335
+delete 2 
+insert 0 472418758
+delete 0 
+insert 0 207347142
+find 3 
+insert 4 887386701
+find 4 
+find 3 
+insert 1 582355186
+find 4 
+delete 2 
+delete 3 
+insert 0 268574809
+insert 1 124183351
+delete 4 
+delete 2 
+insert 4 888335618
+delete 0 
+delete 0 
+find 2 
+insert 1 395804861
+delete 3 
+delete 4 
+insert 2 861268983
+delete 4 
+delete 1 
+insert 4 849570097
+find 2 
+find 3 
+insert 3 647171591
+find 0 
+delete 4 
+find 1 
+insert 2 882537357
+insert 0 565847638
+insert 2 958571028
+find 4 
+delete 4 
+insert 2 362309820
+insert 3 567337598
+insert 1 992926979
+find 4 
+find 4 
+insert 3 180214843
+delete 4 
+delete 2 
+find 1 
+find 1 
+find 2 
+delete 4 
+insert 0 317729880
+delete 3 
+find 2 
+find 2 
+delete 1 
+insert 2 389373139
+delete 4 
+delete 4 
+delete 4 
+find 1 
+find 4 
+delete 2 
+find 2 
+find 1 
+insert 2 742581560
+delete 4 
+delete 2 
+find 3 
+find 4 
+delete 4 
+insert 4 594630934
+delete 4 
+delete 2 
+find 3 
+delete 0 
+find 4 
+find 4 
+find 3 
+delete 1 
+insert 4 136707075
+delete 0 
+delete 2 
+insert 1 93388662
+delete 2 
+delete 3 
+find 3 
+delete 0 
+insert 4 9226350
+find 0 
+find 1 
+find 2 
+insert 4 41205394
+insert 3 198723814
+delete 4 
+find 1 
+find 0 
+insert 3 541832698
+delete 2 
+insert 3 589689901
+insert 4 65621549
+delete 2 
+find 2 
+find 0 
+find 4 
+delete 0 
+insert 4 123735804
+delete 3 
+find 1 
+delete 3 
+insert 3 231135814
+delete 4 
+insert 2 672427403
+delete 4 
+find 0 
+find 2 
+delete 3 
+find 1 
+find 1 
+delete 3 
+delete 1 
+insert 0 925980146
+insert 3 768775196
+delete 1 
+find 1 
+insert 2 554187662
+delete 2 
+find 4 
+delete 2 
+find 3 
+find 2 
+insert 2 625639261
+find 4 
+find 3 
+delete 4 
+insert 0 849543321
+find 1 
+delete 0 
+delete 2 
+find 4 
+find 1 
+insert 4 634107309
+insert 4 737920105
+find 4 
+insert 0 364052648
+find 4 
+delete 3 
+insert 1 954314284
+delete 2 
+find 1 
+insert 1 272521378
+find 3 
+find 0 
+insert 3 864808130
+insert 3 970185608
+delete 4 
+delete 4 
+delete 3 
+find 3 
+insert 3 682778277
+insert 4 240152173
+find 2 
+find 4 
+delete 0 
+delete 4 
+find 3 
+insert 0 926216630
+delete 0 
+find 3 
+find 3 
+find 0 
+find 4 
+insert 2 339776740
+insert 0 122461975
+find 1 
+find 0 
+delete 3 
+find 2 
+find 3 
+insert 1 410811540
+insert 0 151224442
+delete 1 
+find 2 
+insert 2 48576514
+delete 2 
+insert 3 452747840
+insert 0 836481970
+find 0 
+insert 4 586924659
+delete 2 
+delete 0 
+insert 1 412630106
+insert 1 83053911
+find 1 
+find 1 
+find 4 
+insert 1 65023627
+find 4 
+insert 4 338811724
+insert 1 610262251
+insert 3 263293602
+delete 3 
+find 0 
+delete 3 
+insert 4 631781178
+find 3 
+delete 0 
+insert 4 802231055
+find 2 
+insert 4 647697376
+insert 0 877452031
+find 3 
+delete 0 
+insert 1 86471403
+find 2 
+find 4 
+insert 1 278598587
+find 0 
+insert 2 148288224
+find 0 
+delete 4 
+insert 0 127843229
+find 0 
+delete 4 
+find 3 
+insert 3 50839955
+delete 2 
+delete 0 
+delete 0 
+insert 3 707546846
+insert 2 827852192
+insert 4 823630563
+insert 1 613374555
+delete 3 
+delete 3 
+find 2 
+delete 0 
+insert 2 291896593
+find 4 
+insert 1 946186442
+find 0 
+delete 4 
+delete 2 
+insert 3 317660904
+insert 4 975935923
+insert 1 77842017
+insert 2 127922957
+insert 4 572767331
+delete 0 
+find 1 
+find 4 
+insert 4 447735382
+insert 0 855243739
+insert 1 462594672
+insert 1 224256121
+find 2 
+find 2 
+delete 0 
+find 3 
+insert 1 688746043
+delete 3 
+find 4 
+insert 3 927647732
+find 4 
+insert 0 987511630
+find 1 
+insert 3 811771823
+delete 1 
+delete 0 
+find 2 
+insert 1 728739007
+delete 3 
+find 3 
+find 3 
+delete 0 
+delete 0 
+delete 1 
+find 1 
+delete 3 
+insert 4 289380980
+insert 4 267878504
+insert 3 646807547
+find 3 
+delete 3 
+delete 3 
+insert 2 635130348
+find 3 
+insert 4 461620208
+insert 0 291777045
+insert 4 589950922
+find 1 
+find 4 
+find 1 
+delete 3 
+delete 2 
+find 4 
+delete 4 
+insert 4 805713704
+find 1 
+find 3 
+delete 3 
+delete 2 
+find 0 
+insert 3 354427602
+find 4 
+find 1 
+insert 4 745970283
+delete 4 
+find 1 
+find 1 
+insert 1 926957444
+insert 0 337066374
+find 1 
+insert 2 301297103
+insert 0 543968205
+find 1 
+delete 0 
+insert 4 445624883
+delete 3 
+insert 1 359312248
+find 0 
+find 2 
+insert 0 617916717
+find 3 
+insert 1 10140775
+find 0 
+find 2 
+delete 2 
+delete 4 
+insert 1 466754871
+insert 4 916888573
+delete 2 
+find 1 
+delete 3 
+delete 2 
+delete 4 
+insert 1 655023191
+find 0 
+delete 0 
+find 1 
+find 4 
+find 2 
+find 4 
+find 4 
+delete 0 
+delete 0 
+find 0 
+delete 4 
+delete 2 
+delete 1 
+find 4 
+delete 3 
+find 2 
+insert 2 389842622
+delete 4 
+delete 0 
+insert 0 766958891
+insert 3 427748159
+insert 1 940540769
+find 0 
+delete 4 
+delete 2 
+delete 1 
+delete 2 
+delete 0 
+insert 1 9466114
+find 0 
+delete 1 
+insert 1 519095928
+delete 2 
+find 4 
+insert 3 664065935
+find 3 
+insert 1 166370829
+find 3 
+find 3 
+insert 0 27932441
+find 4 
+delete 3 
+insert 4 182583681
+delete 1 
+insert 1 134555700
+insert 0 723786037
+find 0 
+delete 0 
+delete 0 
+delete 4 
+insert 3 776285121
+insert 3 86410558
+delete 0 
+insert 0 554803630
+insert 4 552801401
+find 1 
+delete 4 
+delete 3 
+insert 4 686590972
+insert 3 186021311
+delete 0 
+find 4 
+delete 1 
+delete 2 
+insert 3 800980999
+insert 2 410596543
+find 1 
+insert 1 139819606
+delete 3 
+insert 0 625650188
+find 1 
+insert 3 802316055
+insert 2 917560482
+insert 2 950677972
+find 0 
+find 3 
+insert 2 986239737
+find 0 
+delete 0 
+find 0 
+insert 2 975323532
+find 0 
+find 4 
+insert 1 948516281
+insert 4 175534584
+delete 2 
+find 0 
+find 2 
+insert 0 257295797
+delete 2 
+delete 0 
+insert 2 125177852
+insert 0 971398824
+delete 3 
+find 0 
+insert 3 85789046
+insert 1 741069656
+delete 4 
+find 0 
+find 0 
+find 2 
+insert 0 478768359
+insert 0 21027093
+insert 0 695722173
+insert 4 882182678
+insert 0 420641333
+delete 4 
+insert 4 663959076
+find 3 
+find 2 
+insert 3 118196049
+delete 3 
+insert 4 305215468
+delete 3 
+insert 4 705656221
+delete 1 
+insert 2 881089910
+find 1 
+delete 2 
+insert 3 53365383
+insert 0 169353098
+delete 4 
+insert 1 64260518
+find 1 
+find 2 
+find 1 
+delete 2 
+find 2 
+find 3 
+delete 4 
+delete 3 
+find 1 
+insert 0 655279591
+find 3 
+find 0 
+find 3 
+delete 4 
+delete 0 
+insert 4 199691211
+find 3 
+find 2 
+insert 4 528873361
+find 4 
+find 2 
+insert 4 394184593
+delete 1 
+find 1 
+find 3 
+find 2 
+find 1 
+delete 2 
+insert 2 602403239
+insert 3 80052717
+insert 4 695909235
+insert 1 553925445
+find 1 
+find 3 
+find 4 
+find 3 
+delete 4 
+insert 1 206574326
+delete 4 
+find 3 
+delete 1 
+insert 0 327960794
+find 0 
+delete 2 
+delete 1 
+delete 4 
+find 4 
+delete 2 
+delete 4 
+delete 3 
+insert 0 426431647
+find 3 
+find 1 
+insert 3 424758649
+insert 3 354564408
+delete 3 
+find 1 
+find 0 
+delete 2 
+delete 4 
+insert 2 365795562
+insert 1 784693037
+delete 0 
+find 2 
+delete 4 
+find 4 
+delete 0 
+delete 1 
+delete 4 
+insert 4 872430905
+insert 3 514483216
+delete 4 
+insert 3 287598276
+insert 2 760740955
+insert 4 250951764
+find 4 
+delete 4 
+insert 4 9758356
+find 1 
+delete 2 
+insert 1 981515443
+insert 4 926511357
+find 0 
+insert 0 403787104
+insert 3 489975184
+find 2 
+find 3 
+insert 3 890883037
+insert 3 586197848
+insert 0 535515106
+find 3 
+find 2 
+delete 4 
+find 1 
+delete 3 
+find 4 
+insert 1 420211532
+insert 2 965489666
+insert 2 428429034
+delete 4 
+delete 4 
+insert 2 291876099
+find 3 
+insert 0 188671696
+delete 0 
+find 0 
+insert 1 141168799
+find 2 
+find 0 
+find 2 
+find 4 
+delete 0 
+find 0 
+find 4 
+insert 4 313468884
+insert 2 247813603
+find 1 
+delete 1 
+delete 4 
+find 0 
+delete 2 
+insert 2 720311349
+delete 0 
+find 0 
+find 4 
+insert 1 204124090
+delete 0 
+delete 2 
+insert 0 849428428
+insert 2 562461496
+delete 3 
+insert 0 891489895
+insert 4 510081147
+delete 1 
+insert 3 974000394
+insert 0 912562038
+find 2 
+find 3 
+delete 2 
+find 3 
+insert 2 914514780
+delete 3 
+delete 0 
+delete 3 
+delete 4 
+find 3 
+delete 2 
+find 0 
+insert 4 598313632
+insert 2 701728901
+insert 0 849867914
+find 0 
+insert 2 641377194
+find 1 
+find 4 
+insert 2 46607696
+find 2 
+insert 0 482351471
+insert 4 334127595
+insert 4 309342858
+find 3 
+delete 4 
+delete 0 
+find 4 
+find 2 
+insert 1 955019073
+delete 3 
+insert 0 979329818
+delete 2 
+insert 4 720527066
+find 1 
+delete 2 
+delete 2 
+insert 0 995925620
+delete 1 
+find 1 
+delete 4 
+delete 2 
+delete 3 
+insert 1 942531562
+find 3 
+insert 4 874573479
+insert 1 445394675
+delete 1 
+find 3 
+find 3 
+insert 4 732982277
+find 0 
+find 2 
+find 0 
+insert 1 736316637
+insert 4 902582449
+insert 4 50429628
+delete 0 
+find 3 
+find 2 
+delete 1 
+delete 3 
+delete 4 
+find 2 
+insert 0 327754912
+find 3 
+insert 1 550715428
+delete 2 
+find 4 
+delete 3 
+find 1 
+insert 2 10585463
+insert 4 493952867
+find 4 
+find 4 
+delete 4 
+delete 2 
+delete 2 
+insert 3 244383116
+insert 3 486525328
+find 1 
+delete 4 
+delete 3 
+find 3 
+find 2 
+find 1 
+find 1 
+delete 2 
+delete 2 
+find 1 
+find 1 
+find 2 
+find 0 
+find 2 
+insert 4 657699643
+insert 0 420694897
+find 0 
+find 2 
+insert 2 201471686
+insert 4 583087175
+delete 0 
+insert 1 248494074
+delete 1 
+delete 2 
+insert 0 446052500
+delete 2 
+insert 1 734074198
+find 2 
+delete 1 
+insert 0 82947022
+delete 3 
+insert 4 904515350
+find 3 
+find 1 
+delete 1 
+find 0 
+delete 2 
+find 0 
+find 4 
+delete 1 
+find 0 
+insert 1 95627891
+find 2 
+find 2 
+delete 4 
+insert 3 756230366
+delete 0 
+insert 1 534225867
+insert 0 596913621
+find 4 
+find 1 
+insert 3 568354723
+delete 0 
+delete 4 
+find 4 
+delete 3 
+delete 0 
+find 3 
+find 2 
+delete 0 
+find 3 
+find 2 
+delete 1 
+find 3 
+delete 3 
+find 2 
+insert 4 681375479
+insert 0 505089184
+insert 1 512587729
+insert 2 990664747
+delete 4 
+insert 2 820303000
+find 2 
+insert 3 653365313
+delete 3 
+insert 1 633271750
+find 3 
+insert 1 900422377
+find 0 
+insert 4 49424132
+delete 0 
+find 4 
+insert 3 16312289
+delete 3 
+delete 4 
+delete 4 
+insert 1 342774664
+delete 2 
+find 4 
+find 2 
+delete 0 
+find 1 
+delete 1 
+find 0 
+find 3 
+find 3 
+find 4 
+delete 0 
+insert 0 882378765
+insert 3 98140861
+find 4 
+find 0 
+delete 4 
+find 4 
+delete 4 
+find 1 
+delete 4 
+insert 4 640058671
+insert 2 366656324
+find 1 
+delete 2 
+find 1 
+find 0 
+find 1 
+find 1 
+find 0 
+find 3 
+insert 4 77973628
+find 1 
+delete 1 
+find 1 
+find 4 
+insert 0 492920105
+find 3 
+delete 2 
+find 0 
+delete 4 
+delete 3 
+insert 0 399594622
+find 1 
+find 1 
+delete 0 
+find 3 
+delete 4 
+insert 4 311009602
+delete 4 
+find 0 
+delete 1 
+insert 4 545947139
+insert 3 544543531
+insert 0 852646727
+find 2 
+insert 2 202845183
+insert 4 176320410
+find 2 
+find 1 
+delete 3 
+find 4 
+find 0 
+insert 0 758147652
+insert 1 106927125
+delete 2 
+insert 1 32120013
+insert 0 356692937
+delete 3 
+delete 4 
+insert 0 639903960
+insert 2 846457119
+find 2 
+insert 2 314777859
+find 0 
+find 4 
+delete 1 
+delete 0 
+insert 2 190465257
+delete 2 
+insert 3 580747593
+insert 1 454259105
+delete 0 
+delete 4 
+insert 2 526493676
+insert 1 652366193
+find 2 
+insert 2 468478195
+insert 4 472179630
+insert 3 307517432
+insert 4 701669450
+delete 4 
+find 1 
+insert 3 363720240
+find 1 
+delete 1 
+delete 4 
+find 4 
+insert 0 846950833
+delete 3 
+find 1 
+delete 1 
+find 0 
+delete 1 
+insert 4 603110116
+find 3 
+insert 4 443635920
+delete 0 
+find 2 
+insert 1 286223789
+find 1 
+delete 4 
+delete 1 
+delete 0 
+delete 0 
+insert 4 11866946
+delete 2 
+find 1 
+delete 2 
+delete 0 
+delete 0 
+delete 2 
+insert 2 135934736
+find 3 
+find 3 
+insert 3 273961105
+insert 0 930080208
+delete 2 
+find 4 
+delete 1 
+find 1 
+insert 1 145863390
+delete 2 
+delete 3 
+insert 4 242649011
+insert 3 512396329
+find 0 
+delete 2 
+find 0 
+delete 1 
+find 0 
+delete 2 
+find 1 
+delete 4 
+insert 3 606015530
+delete 1 
+find 4 
+insert 1 590965115
+insert 2 486693837
+find 1 
+find 4 
+insert 2 20512590
+find 0 
+find 1 
+find 0 
+delete 0 
+insert 4 934415395
+find 2 
+find 4 
+find 3 
+delete 1 
+find 0 
+find 2 
+find 2 
+delete 2 
+find 0 
+delete 3 
+find 1 
+delete 2 
+find 4 
+delete 3 
+insert 4 662424256
+find 4 
+delete 4 
+find 3 
+find 3 
+delete 3 
+delete 2 
+find 1 
+delete 1 
+find 0 
+insert 3 257807588
+find 1 
+find 3 
+delete 3 
+find 4 
+find 3 
+insert 0 591066347
+insert 3 108095993
+insert 2 187570408
+find 4 
+find 0 
+insert 3 166306555
+find 3 
+delete 4 
+insert 2 878245558
+insert 0 29895115
+delete 1 
+find 2 
+insert 2 483009495
+insert 3 350951492
+insert 2 658655464
+delete 1 
+delete 4 
+delete 1 
+find 2 
+insert 2 947677310
+find 1 
+find 4 
+delete 4 
+delete 1 
+insert 3 641232614
+find 3 
+insert 0 385335966
+insert 3 4217898
+find 1 
+find 3 
+insert 4 480137178
+find 3 
+delete 1 
+delete 1 
+delete 3 
+find 4 
+insert 3 764204422
+delete 2 
+find 1 
+find 3 
+find 3 
+delete 3 
+insert 2 95222704
+delete 4 
+insert 0 143479573
+find 3 
+delete 0 
+find 3 
+delete 1 
+insert 1 214051632
+insert 4 777625660
+find 1 
+find 0 
+find 2 
+insert 2 343647883
+insert 2 376786034
+find 1 
+insert 2 309945537
+delete 1 
+delete 2 
+delete 3 
+find 3 
+insert 2 659899438
+insert 4 211765162
+find 4 
+insert 1 47202856
+delete 0 
+insert 4 643875188
+delete 4 
+insert 0 515970042
+delete 1 
+delete 0 
+find 3 
+find 0 
+find 1 
+delete 1 
+find 2 
+insert 1 116266990
+find 2 
+insert 4 930302398
+delete 2 
+delete 4 
+find 3 
+find 4 
+insert 4 49740578
+insert 2 405176534
+delete 2 
+delete 0 
+delete 3 
+insert 0 999235424
+insert 2 869348459
+insert 3 767539449
+insert 4 272988012
+find 2 
+insert 2 836674058
+insert 2 106366772
+insert 1 107787138
+find 4 
+delete 3 
+insert 1 160446643
+insert 0 158836722
+find 2 
+insert 2 909530864
+find 2 
+insert 3 872752208
+delete 3 
+find 3 
+insert 0 496555230
+find 2 
+find 3 
+delete 3 
+insert 4 874193734
+delete 1 
+insert 0 932304558
+delete 0 
+insert 0 948444110
+insert 0 797316658
+find 0 
+delete 3 
+delete 4 
+delete 1 
+insert 2 83778993
+delete 3 
+delete 3 
+find 2 
+delete 4 
+insert 2 266817735
+insert 2 770249579
+insert 3 737559842
+insert 0 332515675
+insert 0 188139775
+find 3 
+delete 0 
+insert 4 796976860
+find 1 
+delete 0 
+find 1 
+find 4 
+delete 0 
+find 4 
+find 1 
+insert 0 136992527
+insert 0 765612753
+insert 0 105596846
+find 1 
+insert 0 289498916
+find 2 
+delete 4 
+delete 2 
+insert 3 471637240
+delete 0 
+insert 1 430435002
+find 2 
+insert 2 967614118
+find 1 
+insert 0 822669238
+insert 1 896335069
+delete 3 
+find 2 
+delete 4 
+find 1 
+find 3 
+find 3 
+find 4 
+find 3 
+insert 1 588195314
+delete 3 
+insert 4 997236584
+insert 2 47574433
+insert 3 634691356
+find 2 
+insert 2 421334249
+insert 4 759428775
+delete 0 
+find 2 
+delete 2 
+delete 2 
+insert 1 240289365
+insert 2 252158747
+delete 4 
+insert 0 76629206
+delete 4 
+insert 4 622267500
+find 2 
+delete 0 
+find 0 
+find 4 
+delete 1 
+insert 4 581409174
+insert 2 39341468
+delete 4 
+insert 0 122190915
+insert 0 736532907
+find 1 
+delete 4 
+find 0 
+delete 3 
+find 3 
+find 3 
+insert 2 121496167
+find 0 
+insert 4 658178998
+delete 0 
+find 1 
+find 2 
+find 0 
+find 0 
+delete 3 
+delete 1 
+find 3 
+find 4 
+insert 2 220857504
+find 3 
+find 0 
+delete 1 
+delete 2 
+find 4 
+insert 3 324201897
+insert 3 206614429
+find 1 
+find 0 
+find 3 
+insert 4 604102238
+find 0 
+find 1 
+insert 0 175946471
+delete 3 
+delete 2 
+delete 4 
+find 0 
+insert 2 558534372
+insert 0 319869635
+find 1 
+delete 1 
+delete 3 
+delete 1 
+delete 3 
+find 0 
+find 4 
+find 2 
+insert 3 486289605
+insert 4 291444538
+find 1 
+find 2 
+delete 1 
+find 4 
+delete 3 
+find 0 
+delete 4 
+delete 2 
+find 0 
+delete 2 
+find 0 
+find 1 
+delete 0 
+find 0 
+insert 1 405091505
+insert 0 375329541
+delete 2 
+insert 4 92831489
+find 4 
+insert 2 901898784
+insert 2 6170632
+find 3 
+insert 4 592902005
+insert 1 91434888
+find 3 
+find 1 
+insert 3 667788907
+insert 4 959565078
+delete 0 
+delete 2 
+find 2 
+insert 1 804220690
+insert 4 146113456
+delete 3 
+find 3 
+delete 3 
+find 1 
+find 2 
+find 1 
+insert 1 797006947
+find 4 
+insert 0 219674176
+find 4 
+find 1 
+delete 3 
+delete 2 
+find 1 
+insert 0 421503376
+find 4 
+insert 1 282069544
+find 3 
+delete 4 
+delete 1 
+find 0 
+find 0 
+insert 0 686882734
+find 3 
+insert 4 880004869
+find 3 
+insert 2 371580739
+delete 1 
+delete 3 
+insert 1 32559618
+insert 3 549659401
+find 3 
+insert 1 24485198
+delete 0 
+find 3 
+insert 4 200838144
+delete 1 
+insert 2 203849332
+delete 4 
+find 2 
+find 4 
+insert 0 974259192
+find 3 
+insert 4 643151571
+delete 4 
+delete 1 
+delete 0 
+find 0 
+insert 0 277740150
+insert 4 337566642
+delete 0 
+find 2 
+insert 4 253966410
+find 2 
+delete 2 
+insert 4 961853607
+find 2 
+insert 3 605041119
+find 4 
+delete 2 
+insert 0 451417063
+insert 3 265394106
+delete 4 
+insert 0 65467998
+insert 3 709583671
+insert 3 319475051
+insert 3 190067233
+delete 3 
+insert 4 218102365
+delete 4 
+insert 1 445788869
+delete 1 
+insert 1 472066405
+find 4 
+find 3 
+delete 4 
+delete 3 
+find 0 
+find 4 
+delete 3 
+find 2 
+insert 3 609304453
+insert 2 759791835
+insert 4 350264735
+delete 0 
+delete 2 
+insert 2 22408195
+delete 4 
+find 3 
+delete 2 
+delete 4 
+find 0 
+delete 2 
+find 3 
+insert 0 215414619
+find 2 
+insert 0 329914561
+insert 2 945962876
+delete 1 
+find 3 
+find 3 
+delete 2 
+insert 2 662866050
+find 1 
+delete 1 
+delete 2 
+delete 3 
+insert 0 816928856
+find 2 
+insert 0 37878385
+find 4 
+delete 3 
+insert 2 59138606
+find 4 
+find 1 
+delete 2 
+delete 4 
+insert 0 693432001
+insert 2 48090650
+find 2 
+insert 0 626180304
+find 3 
+insert 1 912848547
+delete 2 
+delete 3 
+insert 0 570111293
+delete 0 
+insert 3 539018840
+delete 2 
+delete 0 
+delete 3 
+delete 3 
+insert 0 61318546
+delete 4 
+insert 1 509252916
+find 3 
+find 3 
+find 3 
+find 2 
+delete 0 
+insert 1 994716193
+delete 1 
+insert 3 495178303
+find 0 
+find 1 
+insert 0 29715426
+delete 4 
+find 1 
+delete 4 
+find 1 
+delete 4 
+delete 3 
+find 1 
+delete 0 
+find 3 
+find 3 
+delete 3 
+insert 0 717338598
+find 4 
+insert 1 94366690
+find 3 
+find 3 
+delete 3 
+delete 3 
+insert 4 87378568
+delete 0 
+insert 4 709178729
+insert 3 736437386
+find 2 
+delete 1 
+find 4 
+insert 0 222058420
+insert 3 803227434
+delete 0 
+delete 0 
+delete 3 
+insert 4 272494320
+insert 2 523996283
+delete 3 
+find 1 
+insert 0 686445469
+find 0 
+find 4 
+insert 0 955144177
+insert 4 12767939
+insert 0 797119567
+insert 1 646142204
+delete 2 
+find 1 
+delete 0 
+find 2 
+delete 1 
+delete 0 
+find 3 
+find 3 
+find 3 
+insert 2 697111130
+delete 2 
+insert 4 849737538
+insert 4 342969441
+find 3 
+insert 1 639211298
+delete 1 
+delete 4 
+delete 0 
+find 0 
+delete 3 
+insert 2 752507048
+find 4 
+insert 3 636329179
+insert 0 447056400
+delete 4 
+insert 4 490010171
+delete 4 
+insert 0 834597535
+find 0 
+delete 2 
+insert 2 946751463
+insert 0 568727713
+find 4 
+find 3 
+insert 4 826963529
+insert 1 675006122
+delete 4 
+insert 1 815958265
+insert 2 455123482
+insert 1 903521410
+find 1 
+find 1 
+insert 1 425109814
+delete 4 
+delete 3 
+insert 0 853275303
+insert 3 754182058
+delete 1 
+insert 4 286811650
+delete 1 
+insert 1 959598235
+delete 1 
+insert 4 755875677
+find 1 
+find 3 
+delete 0 
+find 4 
+insert 0 121002386
+find 3 
+delete 1 
+insert 2 557464255
+insert 1 288906733
+find 2 
+insert 3 514087954
+insert 3 474716035
+insert 0 524757232
+delete 2 
+find 3 
+delete 1 
+delete 2 
+insert 3 228435822
+find 1 
+find 2 
+insert 0 814924117
+find 2 
+delete 3 
+find 3 
+delete 1 
+insert 4 425755500
+delete 2 
+delete 3 
+find 4 
+insert 0 18739355
+delete 0 
+find 3 
+delete 4 
+insert 4 437706276
+delete 1 
+find 4 
+insert 3 776279029
+delete 3 
+insert 2 241062513
+find 1 
+find 1 
+insert 4 488602580
+find 3 
+insert 0 960452008
+insert 0 70282640
+find 0 
+insert 2 941577139
+insert 4 802610168
+find 2 
+find 2 
+find 1 
+delete 1 
+find 0 
+find 0 
+insert 1 86957595
+delete 3 
+insert 3 229173518
+insert 2 58948696
+find 3 
+find 3 
+delete 2 
+find 4 
+insert 4 715964848
+insert 3 514939138
+insert 3 520585127
+find 4 
+insert 4 350678365
+insert 0 327795160
+delete 3 
+delete 0 
+find 1 
+insert 2 627772371
+insert 3 806338121
+delete 3 
+delete 4 
+delete 3 
+insert 4 18311987
+find 2 
+insert 4 815989694
+find 1 
+find 2 
+delete 3 
+insert 2 454425914
+delete 2 
+delete 0 
+insert 1 15351456
+delete 2 
+delete 0 
+insert 3 769792389
+find 2 
+find 2 
+insert 4 631504688
+find 4 
+find 2 
+delete 3 
+insert 2 800168075
+delete 1 
+insert 3 90913446
+find 2 
+find 4 
+insert 1 819082272
+insert 2 428410795
+find 0 
+delete 4 
+insert 4 475440408
+insert 1 266093742
+delete 4 
+insert 0 622587077
+find 2 
+delete 0 
+insert 3 188520952
+insert 3 852488586
+find 3 
+insert 1 156290366
+delete 0 
+delete 1 
+delete 1 
+delete 3 
+find 0 
+delete 4 
+delete 0 
+find 1 
+delete 2 
+find 2 
+find 1 
+find 1 
+delete 4 
+delete 3 
+delete 0 
+delete 1 
+find 0 
+delete 1 
+find 3 
+find 2 
+insert 1 11302828
+delete 2 
+find 4 
+delete 4 
+find 2 
+insert 0 812608756
+insert 2 345992396
+find 3 
+find 0 
+insert 3 247059998
+insert 4 185066088
+insert 2 840874902
+find 4 
+find 0 
+insert 3 57472902
+delete 0 
+insert 3 65902256
+insert 3 807046211
+insert 4 101393737
+delete 3 
+find 4 
+delete 2 
+insert 3 492814251
+insert 4 51830727
+find 2 
+insert 4 292379999
+delete 1 
+delete 1 
+insert 1 867857054
+find 3 
+insert 4 825183643
+delete 2 
+insert 0 157416983
+find 2 
+find 2 
+find 2 
+delete 3 
+delete 3 
+find 1 
+insert 3 528518095
+insert 1 426690487
+delete 2 
+insert 1 74342362
+find 4 
+find 4 
+find 2 
+insert 0 702392916
+delete 2 
+insert 3 26867550
+find 2 
+delete 0 
+insert 2 930278085
+insert 4 737369351
+find 2 
+find 3 
+insert 0 416549226
+insert 0 637624065
+insert 4 846271853
+insert 2 105344449
+delete 3 
+delete 4 
+insert 0 229420393
+insert 4 288960129
+delete 4 
+insert 2 326128315
+find 4 
+insert 2 234990880
+delete 4 
+delete 0 
+find 3 
+find 0 
+insert 0 377823568
+insert 0 802648923
+delete 0 
+insert 2 684951400
+insert 4 759916881
+find 2 
+find 0 
+find 0 
+delete 0 
+delete 4 
+delete 1 
+find 4 
+delete 2 
+find 0 
+find 0 
+delete 3 
+insert 4 912994917
+insert 1 668861178
+insert 2 377968973
+insert 3 876719128
+insert 3 416815212
+insert 4 598804128
+find 3 
+delete 3 
+delete 3 
+delete 2 
+delete 3 
+delete 4 
+delete 4 
+find 4 
+find 2 
+delete 4 
+find 4 
+insert 0 112801608
+find 0 
+insert 3 573681032
+insert 3 243029409
+insert 4 761562934
+find 0 
+find 3 
+find 1 
+find 4 
+find 0 
+find 2 
+find 1 
+find 0 
+insert 1 708430918
+delete 1 
+find 3 
+delete 0 
+insert 4 968364164
+delete 2 
+find 0 
+find 3 
+find 3 
+insert 2 435912489
+insert 0 129455292
+insert 4 42357108
+insert 0 52595304
+insert 0 192538197
+insert 1 510669661
+insert 1 841986519
+insert 3 237457718
+insert 2 337486417
+insert 0 83403147
+delete 3 
+delete 1 
+find 4 
+delete 4 
+delete 1 
+find 3 
+insert 2 967398328
+delete 4 
+delete 2 
+insert 4 408163126
+delete 2 
+insert 3 617717679
+insert 1 944537605
+insert 2 501306438
+find 3 

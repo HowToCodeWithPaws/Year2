@@ -1,0 +1,7 @@
+C:\Users\Natalya\Desktop\InvisibleJoin\InvisibleJoin\bin\Debug\InvisibleJoin.exe.config
+C:\Users\Natalya\Desktop\InvisibleJoin\InvisibleJoin\bin\Debug\InvisibleJoin.exe
+C:\Users\Natalya\Desktop\InvisibleJoin\InvisibleJoin\bin\Debug\InvisibleJoin.pdb
+C:\Users\Natalya\Desktop\InvisibleJoin\InvisibleJoin\obj\Debug\InvisibleJoin.csprojAssemblyReference.cache
+C:\Users\Natalya\Desktop\InvisibleJoin\InvisibleJoin\obj\Debug\InvisibleJoin.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\Desktop\InvisibleJoin\InvisibleJoin\obj\Debug\InvisibleJoin.exe
+C:\Users\Natalya\Desktop\InvisibleJoin\InvisibleJoin\obj\Debug\InvisibleJoin.pdb

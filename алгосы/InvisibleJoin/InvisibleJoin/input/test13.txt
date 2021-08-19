@@ -1,0 +1,4 @@
+FactResellerSales.CarrierTrackingNumber,FactResellerSales.CustomerPONumber,DimReseller.NumberEmployees,DimPromotion.MinQty
+2
+FactResellerSales.CarrierTrackingNumber = '4A7D-4B66-95'
+FactResellerSales.CustomerPONumber <> 'PO9222138547'

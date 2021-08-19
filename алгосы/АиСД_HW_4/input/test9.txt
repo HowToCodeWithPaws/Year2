@@ -1,0 +1,122 @@
+delete 33841 
+find 24340 
+find 22741 
+delete 26404 
+insert 37352 38
+insert 39389 96
+insert 29781 82
+find 10108 
+find 40873 
+delete 35252 
+find 19069 
+find 15195 
+delete 28630 
+delete 21832 
+delete 16988 
+find 34240 
+find 37713 
+insert 39857 19
+delete 34178 
+find 27815 
+delete 354 
+delete 25 
+insert 15697 98
+insert 37416 44
+delete 8755 
+find 41162 
+insert 31013 85
+delete 32291 
+insert 3444 27
+delete 5358 
+delete 1790 
+insert 28477 18
+insert 21354 84
+insert 12698 56
+delete 1599 
+insert 15998 40
+find 36815 
+delete 18420 
+delete 22707 
+find 25786 
+insert 33709 86
+delete 2946 
+find 18564 
+insert 14926 86
+delete 20394 
+find 13644 
+find 25453 
+delete 12881 
+insert 32917 2
+delete 39731 
+find 12675 
+find 11829 
+delete 41279 
+find 26151 
+insert 29724 23
+insert 29727 61
+insert 31976 23
+delete 27318 
+find 528 
+insert 39370 9
+delete 12466 
+insert 4276 20
+insert 33002 63
+delete 34089 
+find 36838 
+insert 11827 16
+insert 28586 45
+find 18635 
+insert 32481 82
+insert 27930 5
+find 40400 
+find 42009 
+find 8962 
+find 26625 
+delete 26571 
+delete 41622 
+find 22475 
+delete 154 
+delete 37300 
+delete 11232 
+delete 7392 
+delete 19173 
+find 32162 
+delete 2250 
+delete 37947 
+find 16090 
+delete 39724 
+find 24756 
+delete 38092 
+find 38859 
+delete 20309 
+insert 15391 36
+delete 12343 
+delete 5174 
+find 23119 
+delete 7067 
+insert 749 19
+delete 32584 
+find 26751 
+find 37193 
+delete 9444 
+delete 36803 
+delete 16948 
+find 5181 
+find 23204 
+insert 25044 50
+find 20956 
+find 38229 
+insert 9130 63
+insert 9462 15
+find 1071 
+delete 2599 
+delete 36488 
+find 7166 
+insert 13398 50
+find 19821 
+find 33323 
+find 10602 
+insert 827 66
+insert 32771 57
+delete 19027 
+delete 27456 

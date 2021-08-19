@@ -1,0 +1,4 @@
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-debug/CMakeFiles/Rtree.dir
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-debug/CMakeFiles/Rtree_main.dir

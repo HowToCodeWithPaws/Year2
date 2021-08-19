@@ -1,0 +1,40 @@
+find 16
+find 17 
+find 102
+find 77 
+find 56 
+find 51 
+find 9 
+find 74 
+find 84
+find 59 
+insert 93 1124
+find 16 
+insert 76 1190
+insert 120 966
+find 111 
+insert 121 1332
+find 52 
+find 92 
+find 13 
+find 36 
+find 102 
+find 104 
+insert 106 613
+find 27 
+find 82 
+insert 94 82
+find 14 
+insert 54 882
+find 104 
+find 21 
+insert 58 982
+find 119 
+insert 27 862
+insert 85 216
+insert 43 809
+find 53 
+insert 24 681
+insert 11 843
+find 107 
+insert 30 428

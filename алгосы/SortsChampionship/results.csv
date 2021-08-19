@@ -1,0 +1,320 @@
+SelectionSort;rand 0 to 5;50;13297
+SelectionSort;rand 0 to 5;100;52214
+SelectionSort;rand 0 to 5;150;119501
+SelectionSort;rand 0 to 5;200;202752
+SelectionSort;rand 0 to 5;250;317017
+SelectionSort;rand 0 to 5;300;451286
+SelectionSort;rand 0 to 5;1100;5967212
+SelectionSort;rand 0 to 5;2100;22267291
+SelectionSort;rand 0 to 5;3100;47949375
+SelectionSort;rand 0 to 5;4100;83335063
+SelectionSort;rand 0 to 4000;50;14237
+SelectionSort;rand 0 to 4000;100;50917
+SelectionSort;rand 0 to 4000;150;114458
+SelectionSort;rand 0 to 4000;200;202809
+SelectionSort;rand 0 to 4000;250;320288
+SelectionSort;rand 0 to 4000;300;454401
+SelectionSort;rand 0 to 4000;1100;6113814
+SelectionSort;rand 0 to 4000;2100;22051505
+SelectionSort;rand 0 to 4000;3100;47807519
+SelectionSort;rand 0 to 4000;4100;88355455
+SelectionSort;almost sorted 1 to 4100;50;13640
+SelectionSort;almost sorted 1 to 4100;100;50599
+SelectionSort;almost sorted 1 to 4100;150;122452
+SelectionSort;almost sorted 1 to 4100;200;212290
+SelectionSort;almost sorted 1 to 4100;250;329301
+SelectionSort;almost sorted 1 to 4100;300;454069
+SelectionSort;almost sorted 1 to 4100;1100;6182711
+SelectionSort;almost sorted 1 to 4100;2100;23147311
+SelectionSort;almost sorted 1 to 4100;3100;48490074
+SelectionSort;almost sorted 1 to 4100;4100;86629753
+SelectionSort;reverse sorted 1 to 4100;50;16879
+SelectionSort;reverse sorted 1 to 4100;100;53198
+SelectionSort;reverse sorted 1 to 4100;150;119487
+SelectionSort;reverse sorted 1 to 4100;200;290836
+SelectionSort;reverse sorted 1 to 4100;250;453363
+SelectionSort;reverse sorted 1 to 4100;300;486549
+SelectionSort;reverse sorted 1 to 4100;1100;6343737
+SelectionSort;reverse sorted 1 to 4100;2100;22379719
+SelectionSort;reverse sorted 1 to 4100;3100;47935751
+SelectionSort;reverse sorted 1 to 4100;4100;83683409
+BinInsertionSort;rand 0 to 5;50;5322
+BinInsertionSort;rand 0 to 5;100;8784
+BinInsertionSort;rand 0 to 5;150;12443
+BinInsertionSort;rand 0 to 5;200;16411
+BinInsertionSort;rand 0 to 5;250;21024
+BinInsertionSort;rand 0 to 5;300;23209
+BinInsertionSort;rand 0 to 5;1100;111013
+BinInsertionSort;rand 0 to 5;2100;223781
+BinInsertionSort;rand 0 to 5;3100;353967
+BinInsertionSort;rand 0 to 5;4100;492256
+BinInsertionSort;rand 0 to 4000;50;3784
+BinInsertionSort;rand 0 to 4000;100;7163
+BinInsertionSort;rand 0 to 4000;150;12624
+BinInsertionSort;rand 0 to 4000;200;16893
+BinInsertionSort;rand 0 to 4000;250;20362
+BinInsertionSort;rand 0 to 4000;300;24805
+BinInsertionSort;rand 0 to 4000;1100;101432
+BinInsertionSort;rand 0 to 4000;2100;335459
+BinInsertionSort;rand 0 to 4000;3100;396200
+BinInsertionSort;rand 0 to 4000;4100;605603
+BinInsertionSort;almost sorted 1 to 4100;50;4715
+BinInsertionSort;almost sorted 1 to 4100;100;9144
+BinInsertionSort;almost sorted 1 to 4100;150;17035
+BinInsertionSort;almost sorted 1 to 4100;200;15472
+BinInsertionSort;almost sorted 1 to 4100;250;20154
+BinInsertionSort;almost sorted 1 to 4100;300;22908
+BinInsertionSort;almost sorted 1 to 4100;1100;103596
+BinInsertionSort;almost sorted 1 to 4100;2100;225017
+BinInsertionSort;almost sorted 1 to 4100;3100;353442
+BinInsertionSort;almost sorted 1 to 4100;4100;480409
+BinInsertionSort;reverse sorted 1 to 4100;50;4667
+BinInsertionSort;reverse sorted 1 to 4100;100;9024
+BinInsertionSort;reverse sorted 1 to 4100;150;12899
+BinInsertionSort;reverse sorted 1 to 4100;200;16514
+BinInsertionSort;reverse sorted 1 to 4100;250;20722
+BinInsertionSort;reverse sorted 1 to 4100;300;25101
+BinInsertionSort;reverse sorted 1 to 4100;1100;99654
+BinInsertionSort;reverse sorted 1 to 4100;2100;227002
+BinInsertionSort;reverse sorted 1 to 4100;3100;352099
+BinInsertionSort;reverse sorted 1 to 4100;4100;477463
+BubbleSort;rand 0 to 5;50;11678
+BubbleSort;rand 0 to 5;100;42774
+BubbleSort;rand 0 to 5;150;96630
+BubbleSort;rand 0 to 5;200;162208
+BubbleSort;rand 0 to 5;250;254080
+BubbleSort;rand 0 to 5;300;360383
+BubbleSort;rand 0 to 5;1100;4873772
+BubbleSort;rand 0 to 5;2100;18158710
+BubbleSort;rand 0 to 5;3100;39114276
+BubbleSort;rand 0 to 5;4100;69297527
+BubbleSort;rand 0 to 4000;50;11900
+BubbleSort;rand 0 to 4000;100;42498
+BubbleSort;rand 0 to 4000;150;103976
+BubbleSort;rand 0 to 4000;200;169001
+BubbleSort;rand 0 to 4000;250;250232
+BubbleSort;rand 0 to 4000;300;361717
+BubbleSort;rand 0 to 4000;1100;4721634
+BubbleSort;rand 0 to 4000;2100;17499939
+BubbleSort;rand 0 to 4000;3100;37867590
+BubbleSort;rand 0 to 4000;4100;66217825
+BubbleSort;almost sorted 1 to 4100;50;13985
+BubbleSort;almost sorted 1 to 4100;100;42385
+BubbleSort;almost sorted 1 to 4100;150;92352
+BubbleSort;almost sorted 1 to 4100;200;162424
+BubbleSort;almost sorted 1 to 4100;250;249172
+BubbleSort;almost sorted 1 to 4100;300;362732
+BubbleSort;almost sorted 1 to 4100;1100;4695088
+BubbleSort;almost sorted 1 to 4100;2100;17503728
+BubbleSort;almost sorted 1 to 4100;3100;38224946
+BubbleSort;almost sorted 1 to 4100;4100;66984256
+BubbleSort;reverse sorted 1 to 4100;50;12518
+BubbleSort;reverse sorted 1 to 4100;100;40375
+BubbleSort;reverse sorted 1 to 4100;150;94111
+BubbleSort;reverse sorted 1 to 4100;200;162528
+BubbleSort;reverse sorted 1 to 4100;250;248868
+BubbleSort;reverse sorted 1 to 4100;300;366738
+BubbleSort;reverse sorted 1 to 4100;1100;4769548
+BubbleSort;reverse sorted 1 to 4100;2100;17227289
+BubbleSort;reverse sorted 1 to 4100;3100;37540403
+BubbleSort;reverse sorted 1 to 4100;4100;66224575
+CountSort;rand 0 to 5;50;4159
+CountSort;rand 0 to 5;100;9157
+CountSort;rand 0 to 5;150;11629
+CountSort;rand 0 to 5;200;13993
+CountSort;rand 0 to 5;250;18568
+CountSort;rand 0 to 5;300;21022
+CountSort;rand 0 to 5;1100;58217
+CountSort;rand 0 to 5;2100;114886
+CountSort;rand 0 to 5;3100;165163
+CountSort;rand 0 to 5;4100;229391
+CountSort;rand 0 to 4000;50;7662
+CountSort;rand 0 to 4000;100;11734
+CountSort;rand 0 to 4000;150;12017
+CountSort;rand 0 to 4000;200;17788
+CountSort;rand 0 to 4000;250;22175
+CountSort;rand 0 to 4000;300;25223
+CountSort;rand 0 to 4000;1100;91686
+CountSort;rand 0 to 4000;2100;170283
+CountSort;rand 0 to 4000;3100;245782
+CountSort;rand 0 to 4000;4100;325958
+CountSort;almost sorted 1 to 4100;50;7953
+CountSort;almost sorted 1 to 4100;100;11072
+CountSort;almost sorted 1 to 4100;150;14546
+CountSort;almost sorted 1 to 4100;200;17656
+CountSort;almost sorted 1 to 4100;250;21438
+CountSort;almost sorted 1 to 4100;300;24773
+CountSort;almost sorted 1 to 4100;1100;83082
+CountSort;almost sorted 1 to 4100;2100;156824
+CountSort;almost sorted 1 to 4100;3100;242969
+CountSort;almost sorted 1 to 4100;4100;307362
+CountSort;reverse sorted 1 to 4100;50;6062
+CountSort;reverse sorted 1 to 4100;100;13010
+CountSort;reverse sorted 1 to 4100;150;19585
+CountSort;reverse sorted 1 to 4100;200;22120
+CountSort;reverse sorted 1 to 4100;250;33246
+CountSort;reverse sorted 1 to 4100;300;33622
+CountSort;reverse sorted 1 to 4100;1100;127149
+CountSort;reverse sorted 1 to 4100;2100;185871
+CountSort;reverse sorted 1 to 4100;3100;230417
+CountSort;reverse sorted 1 to 4100;4100;298831
+RadixSort;rand 0 to 5;50;7994
+RadixSort;rand 0 to 5;100;12681
+RadixSort;rand 0 to 5;150;15253
+RadixSort;rand 0 to 5;200;25865
+RadixSort;rand 0 to 5;250;24827
+RadixSort;rand 0 to 5;300;27162
+RadixSort;rand 0 to 5;1100;94413
+RadixSort;rand 0 to 5;2100;181727
+RadixSort;rand 0 to 5;3100;378385
+RadixSort;rand 0 to 5;4100;428412
+RadixSort;rand 0 to 4000;50;11283
+RadixSort;rand 0 to 4000;100;19811
+RadixSort;rand 0 to 4000;150;26807
+RadixSort;rand 0 to 4000;200;29208
+RadixSort;rand 0 to 4000;250;30133
+RadixSort;rand 0 to 4000;300;32567
+RadixSort;rand 0 to 4000;1100;150480
+RadixSort;rand 0 to 4000;2100;241384
+RadixSort;rand 0 to 4000;3100;315404
+RadixSort;rand 0 to 4000;4100;362225
+RadixSort;almost sorted 1 to 4100;50;8701
+RadixSort;almost sorted 1 to 4100;100;13209
+RadixSort;almost sorted 1 to 4100;150;17607
+RadixSort;almost sorted 1 to 4100;200;22033
+RadixSort;almost sorted 1 to 4100;250;25497
+RadixSort;almost sorted 1 to 4100;300;32552
+RadixSort;almost sorted 1 to 4100;1100;99815
+RadixSort;almost sorted 1 to 4100;2100;189680
+RadixSort;almost sorted 1 to 4100;3100;273338
+RadixSort;almost sorted 1 to 4100;4100;438899
+RadixSort;reverse sorted 1 to 4100;50;7668
+RadixSort;reverse sorted 1 to 4100;100;11771
+RadixSort;reverse sorted 1 to 4100;150;17790
+RadixSort;reverse sorted 1 to 4100;200;23409
+RadixSort;reverse sorted 1 to 4100;250;26352
+RadixSort;reverse sorted 1 to 4100;300;52750
+RadixSort;reverse sorted 1 to 4100;1100;104218
+RadixSort;reverse sorted 1 to 4100;2100;199585
+RadixSort;reverse sorted 1 to 4100;3100;272669
+RadixSort;reverse sorted 1 to 4100;4100;362961
+HeapSort;rand 0 to 5;50;5477
+HeapSort;rand 0 to 5;100;9060
+HeapSort;rand 0 to 5;150;10541
+HeapSort;rand 0 to 5;200;12548
+HeapSort;rand 0 to 5;250;17206
+HeapSort;rand 0 to 5;300;15445
+HeapSort;rand 0 to 5;1100;217715
+HeapSort;rand 0 to 5;2100;697603
+HeapSort;rand 0 to 5;3100;1269050
+HeapSort;rand 0 to 5;4100;1923752
+HeapSort;rand 0 to 4000;50;24227
+HeapSort;rand 0 to 4000;100;33454
+HeapSort;rand 0 to 4000;150;49894
+HeapSort;rand 0 to 4000;200;77261
+HeapSort;rand 0 to 4000;250;95973
+HeapSort;rand 0 to 4000;300;121493
+HeapSort;rand 0 to 4000;1100;539474
+HeapSort;rand 0 to 4000;2100;1060457
+HeapSort;rand 0 to 4000;3100;1629124
+HeapSort;rand 0 to 4000;4100;2237956
+HeapSort;almost sorted 1 to 4100;50;21294
+HeapSort;almost sorted 1 to 4100;100;39766
+HeapSort;almost sorted 1 to 4100;150;57203
+HeapSort;almost sorted 1 to 4100;200;72100
+HeapSort;almost sorted 1 to 4100;250;98311
+HeapSort;almost sorted 1 to 4100;300;119773
+HeapSort;almost sorted 1 to 4100;1100;693882
+HeapSort;almost sorted 1 to 4100;2100;1099519
+HeapSort;almost sorted 1 to 4100;3100;1656503
+HeapSort;almost sorted 1 to 4100;4100;2183398
+HeapSort;reverse sorted 1 to 4100;50;13427
+HeapSort;reverse sorted 1 to 4100;100;32492
+HeapSort;reverse sorted 1 to 4100;150;51697
+HeapSort;reverse sorted 1 to 4100;200;77247
+HeapSort;reverse sorted 1 to 4100;250;97270
+HeapSort;reverse sorted 1 to 4100;300;147041
+HeapSort;reverse sorted 1 to 4100;1100;535818
+HeapSort;reverse sorted 1 to 4100;2100;1042102
+HeapSort;reverse sorted 1 to 4100;3100;1662939
+HeapSort;reverse sorted 1 to 4100;4100;2315585
+MergeSort;rand 0 to 5;50;55083
+MergeSort;rand 0 to 5;100;120480
+MergeSort;rand 0 to 5;150;202843
+MergeSort;rand 0 to 5;200;277829
+MergeSort;rand 0 to 5;250;298471
+MergeSort;rand 0 to 5;300;397296
+MergeSort;rand 0 to 5;1100;1458861
+MergeSort;rand 0 to 5;2100;2778647
+MergeSort;rand 0 to 5;3100;4608142
+MergeSort;rand 0 to 5;4100;5389934
+MergeSort;rand 0 to 4000;50;56290
+MergeSort;rand 0 to 4000;100;149099
+MergeSort;rand 0 to 4000;150;243272
+MergeSort;rand 0 to 4000;200;252272
+MergeSort;rand 0 to 4000;250;330631
+MergeSort;rand 0 to 4000;300;491923
+MergeSort;rand 0 to 4000;1100;1484537
+MergeSort;rand 0 to 4000;2100;2815802
+MergeSort;rand 0 to 4000;3100;4347086
+MergeSort;rand 0 to 4000;4100;5611315
+MergeSort;almost sorted 1 to 4100;50;57952
+MergeSort;almost sorted 1 to 4100;100;118404
+MergeSort;almost sorted 1 to 4100;150;188783
+MergeSort;almost sorted 1 to 4100;200;251259
+MergeSort;almost sorted 1 to 4100;250;304978
+MergeSort;almost sorted 1 to 4100;300;391967
+MergeSort;almost sorted 1 to 4100;1100;1455266
+MergeSort;almost sorted 1 to 4100;2100;3032250
+MergeSort;almost sorted 1 to 4100;3100;4351945
+MergeSort;almost sorted 1 to 4100;4100;5547028
+MergeSort;reverse sorted 1 to 4100;50;57432
+MergeSort;reverse sorted 1 to 4100;100;119616
+MergeSort;reverse sorted 1 to 4100;150;195960
+MergeSort;reverse sorted 1 to 4100;200;254441
+MergeSort;reverse sorted 1 to 4100;250;326560
+MergeSort;reverse sorted 1 to 4100;300;512661
+MergeSort;reverse sorted 1 to 4100;1100;1456336
+MergeSort;reverse sorted 1 to 4100;2100;2760122
+MergeSort;reverse sorted 1 to 4100;3100;4563089
+MergeSort;reverse sorted 1 to 4100;4100;5476611
+QuickSort;rand 0 to 5;50;5233
+QuickSort;rand 0 to 5;100;13111
+QuickSort;rand 0 to 5;150;17754
+QuickSort;rand 0 to 5;200;25966
+QuickSort;rand 0 to 5;250;33793
+QuickSort;rand 0 to 5;300;40461
+QuickSort;rand 0 to 5;1100;190387
+QuickSort;rand 0 to 5;2100;321166
+QuickSort;rand 0 to 5;3100;599911
+QuickSort;rand 0 to 5;4100;642498
+QuickSort;rand 0 to 4000;50;5876
+QuickSort;rand 0 to 4000;100;9334
+QuickSort;rand 0 to 4000;150;14753
+QuickSort;rand 0 to 4000;200;14170
+QuickSort;rand 0 to 4000;250;20889
+QuickSort;rand 0 to 4000;300;21955
+QuickSort;rand 0 to 4000;1100;104120
+QuickSort;rand 0 to 4000;2100;191383
+QuickSort;rand 0 to 4000;3100;292003
+QuickSort;rand 0 to 4000;4100;389117
+QuickSort;almost sorted 1 to 4100;50;4772
+QuickSort;almost sorted 1 to 4100;100;6710
+QuickSort;almost sorted 1 to 4100;150;10906
+QuickSort;almost sorted 1 to 4100;200;16485
+QuickSort;almost sorted 1 to 4100;250;14195
+QuickSort;almost sorted 1 to 4100;300;17952
+QuickSort;almost sorted 1 to 4100;1100;72131
+QuickSort;almost sorted 1 to 4100;2100;149788
+QuickSort;almost sorted 1 to 4100;3100;236348
+QuickSort;almost sorted 1 to 4100;4100;313053
+QuickSort;reverse sorted 1 to 4100;50;5022
+QuickSort;reverse sorted 1 to 4100;100;8577
+QuickSort;reverse sorted 1 to 4100;150;10987
+QuickSort;reverse sorted 1 to 4100;200;14541
+QuickSort;reverse sorted 1 to 4100;250;16017
+QuickSort;reverse sorted 1 to 4100;300;19907
+QuickSort;reverse sorted 1 to 4100;1100;70088
+QuickSort;reverse sorted 1 to 4100;2100;141116
+QuickSort;reverse sorted 1 to 4100;3100;234566
+QuickSort;reverse sorted 1 to 4100;4100;285867

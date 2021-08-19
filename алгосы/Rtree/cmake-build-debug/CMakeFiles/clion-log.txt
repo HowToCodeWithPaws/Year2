@@ -1,0 +1,6 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree
+/usr/lib/libgdal.so
+/usr/lib/libgdal.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/Р°Р»РіРѕСЃС‹/РґР·/Rtree/cmake-build-debug

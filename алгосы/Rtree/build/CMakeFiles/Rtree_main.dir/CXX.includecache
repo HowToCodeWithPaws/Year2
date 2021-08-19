@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/main.cpp
+gdal/gdal.h
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/gdal/gdal.h
+gdal/ogrsf_frmts.h
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/gdal/ogrsf_frmts.h
+boost/geometry/geometry.hpp
+-
+fstream
+-
+iostream
+-
+set
+-
+

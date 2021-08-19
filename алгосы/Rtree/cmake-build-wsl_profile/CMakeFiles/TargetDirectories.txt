@@ -1,0 +1,4 @@
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/CMakeFiles/Rtree.dir
+/mnt/c/Users/Natalya/Desktop/TheCodeSoFar/HSE/алгосы/дз/Rtree/cmake-build-wsl_profile/CMakeFiles/Rtree_main.dir

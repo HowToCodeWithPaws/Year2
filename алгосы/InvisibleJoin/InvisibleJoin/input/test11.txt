@@ -1,0 +1,2 @@
+DimProduct.ProductAlternateKey
+0

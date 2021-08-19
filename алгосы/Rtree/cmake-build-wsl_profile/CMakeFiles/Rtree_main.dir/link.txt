@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -Wextra -O3 -DNDEBUG   CMakeFiles/Rtree_main.dir/main.cpp.o  -o Rtree_main  /usr/lib/libgdal.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -Wextra -g   CMakeFiles/Rtree.dir/main.cpp.o  -o Rtree 

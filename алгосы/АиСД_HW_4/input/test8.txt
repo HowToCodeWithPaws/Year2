@@ -1,0 +1,4919 @@
+find 79 
+find 71 
+insert 57 99544261
+find 65 
+insert 19 286834127
+find 86 
+find 77 
+insert 53 316736590
+insert 85 151286828
+find 22 
+find 29 
+find 69 
+insert 21 201532294
+insert 14 221410113
+insert 55 161470184
+insert 58 190869401
+insert 16 201231337
+find 31 
+find 97 
+insert 74 302380537
+insert 70 70074906
+find 37 
+find 63 
+find 94 
+find 51 
+insert 95 282489413
+find 48 
+find 0 
+find 93 
+insert 40 43223837
+insert 62 268138524
+insert 24 69393549
+insert 59 173662598
+insert 29 41090352
+find 23 
+insert 35 327535600
+insert 10 104371087
+find 35 
+find 39 
+insert 96 79471301
+insert 27 151640555
+insert 12 24214374
+find 33 
+find 34 
+insert 39 213630159
+find 43 
+insert 81 12842499
+insert 44 1024042
+insert 91 51707251
+insert 59 27988473
+find 17 
+find 12 
+find 65 
+find 47 
+find 26 
+insert 76 48364039
+insert 97 207065733
+insert 74 112888904
+insert 84 316114490
+find 94 
+insert 44 112130835
+insert 26 63381862
+find 91 
+insert 92 16086872
+insert 78 2320010
+insert 5 64223631
+find 3 
+insert 17 103315584
+insert 83 128300218
+find 94 
+find 47 
+find 94 
+find 82 
+find 76 
+find 15 
+find 62 
+insert 27 60783570
+insert 64 260314115
+insert 68 317461678
+insert 81 211070551
+find 70 
+insert 27 103059140
+insert 25 267023228
+find 17 
+find 91 
+find 39 
+find 17 
+find 78 
+insert 24 246426681
+insert 91 121144412
+find 64 
+find 49 
+insert 49 49954313
+insert 43 43309470
+find 96 
+find 43 
+find 35 
+insert 2 323389079
+find 54 
+find 97 
+insert 18 157066327
+insert 29 187887965
+insert 89 100265407
+insert 42 173635220
+find 31 
+insert 82 216014688
+find 52 
+insert 94 85399049
+find 5 
+insert 6 215246464
+insert 27 172121850
+insert 17 46055044
+insert 53 214721618
+insert 30 204473045
+find 39 
+insert 53 124886003
+insert 23 112480199
+insert 44 6692954
+insert 74 218589704
+insert 44 22775825
+insert 52 159480195
+find 38 
+find 23 
+insert 83 132659429
+find 84 
+insert 75 312730035
+find 24 
+find 72 
+insert 62 71958524
+find 7 
+insert 82 273986739
+insert 62 140397740
+find 83 
+find 76 
+find 61 
+find 36 
+insert 0 79754294
+find 99 
+find 66 
+insert 74 286160369
+find 54 
+find 71 
+find 15 
+find 52 
+insert 37 96277535
+insert 34 233943491
+insert 22 160398444
+find 8 
+find 76 
+insert 59 317746155
+insert 75 330219898
+find 70 
+find 88 
+find 76 
+find 36 
+find 29 
+insert 85 291595827
+insert 25 64624318
+insert 40 276755600
+insert 18 95042520
+insert 78 127869382
+find 90 
+insert 5 243406519
+insert 74 125216327
+insert 98 300950227
+find 65 
+insert 71 236695466
+insert 98 181614206
+find 92 
+insert 93 60475683
+find 3 
+find 86 
+insert 53 222553057
+insert 17 42867812
+insert 90 255833944
+find 28 
+find 49 
+find 56 
+insert 7 223643576
+insert 10 183474325
+insert 21 283323038
+insert 49 161838831
+insert 56 151106514
+insert 55 266850123
+find 39 
+insert 60 35242697
+find 31 
+insert 70 116368297
+find 69 
+insert 98 150033674
+find 73 
+find 80 
+insert 67 240653390
+insert 29 75068153
+find 99 
+find 1 
+find 97 
+insert 90 257463412
+insert 65 53287696
+find 2 
+insert 26 242796461
+find 30 
+insert 29 221166220
+insert 2 57826011
+insert 52 245807098
+find 71 
+insert 86 166805033
+find 25 
+find 9 
+find 53 
+find 4 
+find 25 
+insert 18 246553591
+find 5 
+insert 7 211158907
+insert 7 223392687
+insert 85 132369608
+find 35 
+find 84 
+find 93 
+find 5 
+insert 76 333881539
+insert 63 231191646
+insert 22 172198363
+find 91 
+insert 13 62861826
+insert 28 113723631
+find 58 
+find 7 
+insert 89 172903466
+insert 71 181036286
+insert 82 141840444
+find 11 
+insert 65 22868040
+insert 42 240907286
+insert 61 192416544
+insert 2 34193656
+insert 22 251323385
+insert 23 83693155
+insert 39 228022179
+find 20 
+insert 78 204128364
+insert 21 80621705
+insert 45 78846644
+find 69 
+find 9 
+find 32 
+find 61 
+find 95 
+insert 0 237529558
+find 92 
+insert 72 172773842
+find 42 
+insert 64 304665022
+insert 43 143246083
+insert 17 150755104
+insert 73 4940801
+insert 81 268723579
+insert 27 11313061
+insert 92 139575341
+insert 67 201639784
+find 69 
+find 38 
+find 99 
+find 26 
+insert 91 44579303
+find 51 
+insert 89 282666974
+find 90 
+find 66 
+find 23 
+find 69 
+find 62 
+insert 70 35152703
+find 43 
+find 74 
+find 97 
+insert 77 94195842
+insert 32 81514671
+insert 0 234436185
+insert 77 88925753
+find 54 
+find 77 
+insert 9 203029924
+find 46 
+insert 53 16422779
+insert 48 258222547
+insert 15 132418322
+find 11 
+insert 35 200018216
+insert 25 144647697
+insert 95 298020771
+find 97 
+find 67 
+insert 70 60484113
+find 16 
+insert 68 73989329
+find 78 
+insert 47 151707015
+find 4 
+find 30 
+find 30 
+find 32 
+insert 99 290744938
+find 81 
+insert 56 274900399
+find 90 
+find 34 
+find 39 
+insert 43 267564264
+insert 31 35957234
+find 56 
+insert 83 185413835
+find 3 
+insert 40 91477381
+find 66 
+find 93 
+find 25 
+insert 1 72021768
+find 64 
+insert 52 2444496
+find 59 
+find 86 
+find 88 
+insert 14 55325960
+find 10 
+insert 82 22354478
+insert 13 298718350
+insert 76 61728613
+find 63 
+find 43 
+insert 85 241259237
+insert 84 241392742
+find 58 
+insert 1 40233763
+find 78 
+find 24 
+insert 5 101292852
+insert 59 149094884
+insert 15 198776396
+insert 27 84852055
+find 50 
+insert 79 28904873
+find 94 
+find 40 
+find 77 
+find 92 
+find 34 
+find 10 
+insert 54 8130835
+find 20 
+find 86 
+find 27 
+insert 88 334889155
+find 10 
+find 0 
+insert 79 73786785
+find 65 
+insert 61 26741990
+insert 23 310111001
+find 36 
+find 71 
+insert 49 59722273
+insert 67 54270653
+find 19 
+insert 83 30017563
+insert 82 246715349
+insert 68 296188296
+insert 15 147432281
+find 48 
+find 3 
+insert 27 335038713
+insert 92 27423705
+find 52 
+find 0 
+find 87 
+find 0 
+find 22 
+insert 9 63310712
+find 87 
+find 87 
+insert 14 186525688
+find 9 
+find 58 
+insert 80 162362464
+find 27 
+insert 66 261099011
+insert 14 159882332
+find 96 
+find 72 
+find 15 
+insert 17 339713611
+insert 58 243968158
+insert 28 190864009
+find 46 
+insert 87 223910792
+find 72 
+insert 75 245585360
+find 30 
+find 47 
+insert 58 335636338
+insert 46 40493608
+insert 81 54927832
+insert 40 31907490
+find 99 
+insert 79 244488709
+insert 95 97226111
+insert 89 79140247
+insert 41 224678583
+insert 27 251191804
+find 35 
+find 15 
+insert 78 282220994
+insert 20 312562457
+insert 40 33645257
+insert 89 153968567
+find 83 
+insert 16 59519750
+find 65 
+find 47 
+find 47 
+insert 18 172137622
+find 13 
+find 61 
+insert 86 66374007
+insert 89 235130514
+insert 4 293078911
+find 30 
+find 39 
+find 58 
+insert 20 243236725
+find 52 
+find 54 
+insert 84 252929971
+insert 28 260552695
+insert 53 104838902
+find 55 
+find 48 
+find 93 
+insert 72 163166130
+insert 28 230227940
+insert 60 149342213
+find 36 
+find 19 
+insert 79 91241938
+insert 44 121913393
+find 43 
+insert 57 85546789
+insert 14 179015366
+insert 31 268266470
+find 17 
+insert 31 116898963
+insert 63 169581055
+insert 93 9416712
+find 30 
+insert 31 107618722
+insert 60 98105509
+insert 87 287306139
+find 27 
+find 17 
+find 44 
+insert 13 297167351
+find 9 
+find 26 
+find 84 
+insert 39 232424180
+insert 72 160665138
+find 14 
+find 95 
+insert 38 162943524
+find 15 
+insert 63 137482225
+find 27 
+insert 48 274418635
+find 52 
+insert 23 155736779
+insert 71 189772041
+insert 80 62808293
+insert 80 210654962
+insert 45 322866231
+insert 25 123725863
+find 37 
+find 15 
+insert 24 58974329
+insert 37 295799640
+insert 11 237332261
+find 35 
+insert 45 160667995
+insert 42 136831035
+find 39 
+insert 97 304196745
+find 52 
+find 9 
+insert 67 203835759
+find 9 
+find 72 
+find 3 
+find 64 
+find 3 
+find 46 
+insert 12 105624070
+find 28 
+insert 80 112840911
+insert 31 15491577
+insert 13 142185654
+find 10 
+insert 1 104450894
+find 3 
+insert 92 115236681
+insert 47 27957260
+find 77 
+find 80 
+find 90 
+insert 38 3182943
+insert 75 253962313
+insert 36 210818071
+insert 56 288565652
+insert 44 272629219
+insert 10 282930507
+find 86 
+find 20 
+find 75 
+find 20 
+insert 29 103909568
+find 72 
+insert 15 45455210
+find 23 
+insert 20 27451528
+insert 73 283565757
+insert 35 34864350
+find 82 
+find 24 
+find 70 
+find 43 
+find 58 
+insert 84 97796456
+find 2 
+insert 35 136419299
+find 79 
+insert 31 17683854
+find 34 
+find 11 
+find 73 
+insert 28 210567843
+find 88 
+find 0 
+find 94 
+find 59 
+insert 80 271082129
+insert 99 109196156
+insert 53 320244995
+find 22 
+find 38 
+insert 27 288495774
+insert 3 38362341
+insert 29 218005086
+find 37 
+find 49 
+insert 38 301644577
+insert 46 330170281
+insert 49 152422881
+find 50 
+insert 49 134827600
+insert 17 100869881
+insert 69 155017493
+find 1 
+insert 10 163188612
+insert 45 153563028
+insert 83 251081019
+find 60 
+find 29 
+insert 91 132263177
+insert 98 10258456
+insert 73 258361517
+find 64 
+insert 92 55408165
+insert 93 221338978
+insert 28 97369281
+insert 2 261925731
+insert 51 120287056
+insert 96 70938988
+find 71 
+insert 39 168721850
+insert 8 99295496
+find 21 
+find 32 
+insert 79 271003830
+find 9 
+find 46 
+insert 64 189706076
+find 12 
+find 5 
+insert 63 167454911
+insert 23 328923687
+insert 19 118322297
+find 31 
+find 2 
+find 75 
+find 97 
+find 69 
+find 99 
+find 95 
+insert 32 56540244
+insert 74 136604783
+find 27 
+insert 67 51031995
+find 61 
+find 31 
+find 59 
+find 75 
+insert 25 242927098
+find 45 
+insert 74 40631027
+find 71 
+find 2 
+find 77 
+insert 60 160186210
+find 87 
+find 26 
+insert 95 320340530
+find 71 
+find 2 
+insert 97 136356951
+insert 42 300471986
+find 29 
+insert 21 119157791
+find 60 
+insert 11 261183013
+find 56 
+insert 89 116561982
+find 88 
+insert 97 184296903
+find 73 
+find 18 
+find 69 
+find 56 
+find 5 
+find 82 
+find 80 
+insert 70 194363281
+find 78 
+find 60 
+insert 77 53154092
+find 11 
+insert 61 104514312
+find 64 
+insert 63 71342619
+find 5 
+insert 18 25154951
+find 68 
+find 57 
+insert 32 277866520
+find 88 
+insert 34 86497740
+find 26 
+find 77 
+find 11 
+insert 65 215806404
+insert 55 200445279
+find 9 
+insert 24 129340046
+insert 12 117877683
+find 0 
+insert 12 216345591
+find 44 
+insert 85 207928095
+insert 53 125844829
+find 21 
+find 90 
+find 32 
+insert 90 203767045
+insert 93 36106444
+find 54 
+find 44 
+find 76 
+insert 87 60030896
+insert 86 268156591
+find 94 
+find 89 
+find 12 
+insert 95 30308286
+find 79 
+insert 75 247527393
+find 98 
+find 3 
+find 96 
+insert 30 131592930
+insert 24 98092214
+insert 61 233580634
+find 6 
+find 52 
+find 2 
+insert 78 160154757
+find 85 
+insert 19 110436536
+find 88 
+insert 34 255657752
+insert 5 35402277
+find 23 
+find 12 
+insert 47 262392804
+find 57 
+find 41 
+find 35 
+insert 1 201371801
+find 48 
+insert 93 70191024
+insert 80 211521709
+insert 21 39328256
+insert 46 252445560
+insert 52 339872138
+insert 58 14842095
+insert 76 305460238
+find 20 
+find 0 
+find 52 
+find 11 
+insert 28 281369232
+insert 16 335008933
+insert 96 268776531
+find 61 
+find 87 
+insert 1 137862806
+find 94 
+find 96 
+find 10 
+insert 16 258194241
+find 53 
+find 60 
+find 0 
+insert 56 277048521
+insert 50 69923413
+find 58 
+find 90 
+find 88 
+find 33 
+find 12 
+insert 97 81409570
+find 85 
+find 95 
+find 17 
+insert 64 118756837
+find 2 
+insert 74 261038920
+find 32 
+insert 16 212010799
+insert 68 173077786
+insert 74 266359083
+insert 23 233352602
+insert 12 77088056
+insert 82 162926331
+find 50 
+find 48 
+find 92 
+find 18 
+find 34 
+insert 87 335154760
+find 79 
+find 46 
+insert 79 11243655
+insert 74 247118229
+insert 36 297791437
+find 16 
+insert 19 329709811
+insert 97 126778521
+insert 17 17117027
+find 81 
+insert 28 64164072
+insert 66 117947044
+insert 36 202214916
+find 9 
+insert 85 115807646
+insert 89 246317897
+insert 89 250410129
+find 85 
+insert 81 37709485
+insert 59 216485179
+find 23 
+find 71 
+find 18 
+insert 27 323019551
+insert 69 303518489
+insert 13 267826675
+insert 9 320414641
+find 9 
+insert 22 79558426
+find 16 
+find 35 
+insert 29 235251172
+insert 51 194775329
+find 60 
+find 92 
+insert 73 297539241
+find 44 
+find 16 
+insert 10 38525097
+find 39 
+insert 20 72715866
+find 35 
+insert 60 69472504
+insert 39 28439943
+insert 83 52566728
+insert 78 112168532
+find 71 
+insert 33 21551420
+find 16 
+find 96 
+insert 83 264240373
+insert 20 30825113
+insert 13 63436524
+find 36 
+insert 65 272531239
+insert 82 153430913
+find 51 
+insert 91 275875463
+find 83 
+insert 96 295056877
+insert 52 193794122
+insert 82 153827786
+insert 42 227788946
+insert 22 74035125
+find 26 
+find 85 
+find 9 
+insert 18 159582986
+find 9 
+find 87 
+find 79 
+find 26 
+insert 40 260230719
+insert 39 92518935
+insert 96 228413674
+insert 48 11337696
+insert 34 295063191
+find 37 
+find 54 
+insert 26 160780409
+find 14 
+insert 59 192188199
+insert 72 240817016
+insert 48 226016374
+insert 90 315008331
+insert 55 29467354
+insert 19 162160099
+insert 34 334315330
+find 5 
+insert 26 23415069
+find 17 
+insert 82 104885081
+find 62 
+find 4 
+find 77 
+insert 84 263332125
+insert 15 82281197
+insert 92 230320720
+insert 67 106226414
+find 82 
+find 40 
+insert 36 69843106
+find 73 
+find 46 
+find 78 
+insert 8 29703248
+find 5 
+find 12 
+insert 66 233076441
+insert 10 172823571
+insert 77 112255082
+insert 43 233347780
+insert 70 271653465
+find 37 
+insert 52 273315525
+find 43 
+find 99 
+insert 26 282168581
+find 85 
+find 62 
+insert 67 332631018
+find 57 
+find 80 
+find 77 
+insert 19 221153102
+insert 5 131754768
+insert 23 227619138
+insert 71 23506568
+find 40 
+find 3 
+insert 69 115573715
+find 51 
+find 54 
+find 61 
+find 64 
+find 86 
+find 44 
+find 15 
+find 96 
+insert 41 181375662
+insert 32 332144158
+find 92 
+find 74 
+find 47 
+insert 16 259356751
+insert 30 157754917
+insert 75 43188952
+insert 67 81534061
+find 56 
+find 3 
+insert 63 137363868
+insert 77 9427604
+find 59 
+find 61 
+insert 66 248515931
+find 0 
+find 81 
+find 71 
+find 78 
+insert 36 328630054
+insert 20 79923576
+find 14 
+insert 75 98369682
+insert 57 316435808
+insert 37 110915243
+find 19 
+find 51 
+insert 57 168668748
+find 35 
+insert 2 296467571
+find 37 
+find 3 
+insert 18 307714198
+insert 88 307139952
+find 39 
+insert 8 154751179
+insert 50 281793596
+insert 74 28735527
+find 0 
+insert 68 32009993
+find 21 
+insert 45 271615946
+insert 84 246772840
+insert 73 74595399
+insert 82 47505840
+insert 45 145071692
+insert 54 111781637
+insert 59 264550215
+insert 25 235377385
+insert 14 300182701
+find 84 
+insert 98 139041350
+insert 80 309358357
+insert 37 130530950
+find 11 
+insert 3 180868648
+insert 36 200659540
+insert 42 323051116
+find 23 
+find 88 
+insert 67 119066608
+insert 61 36051868
+find 91 
+insert 39 106658966
+find 86 
+find 13 
+find 66 
+insert 51 161773607
+find 91 
+insert 70 126503250
+insert 92 340214397
+insert 60 26242009
+find 76 
+insert 8 87244091
+find 32 
+find 76 
+find 73 
+find 43 
+insert 9 209154768
+insert 26 105490404
+insert 84 2182304
+insert 41 42792174
+insert 13 241426692
+find 45 
+find 1 
+insert 42 241828802
+insert 77 314207476
+insert 36 32696864
+insert 75 189053174
+insert 2 160034710
+insert 13 122778146
+insert 22 301242074
+insert 23 47582644
+find 7 
+insert 32 53626430
+insert 96 176442434
+find 12 
+insert 59 259409608
+find 44 
+find 74 
+find 94 
+find 67 
+insert 7 119607018
+insert 48 20002087
+find 50 
+insert 76 129287833
+insert 55 259200684
+insert 0 68543473
+insert 78 58051830
+find 55 
+find 2 
+insert 62 296634485
+find 49 
+find 91 
+insert 51 255373282
+insert 17 97866332
+insert 49 65606075
+find 81 
+find 93 
+find 30 
+find 70 
+insert 97 47358750
+find 56 
+find 58 
+find 91 
+insert 11 292110159
+insert 79 120664748
+insert 73 165649626
+insert 11 150901550
+find 17 
+find 27 
+find 36 
+insert 8 3480983
+find 37 
+insert 75 136120403
+find 94 
+find 81 
+insert 47 196300241
+find 72 
+insert 67 234484554
+find 21 
+insert 78 214876997
+find 26 
+find 38 
+find 7 
+find 11 
+find 83 
+find 59 
+find 4 
+find 55 
+insert 5 87902327
+find 38 
+insert 42 193844270
+insert 10 9433617
+find 40 
+insert 31 132896916
+insert 85 27155139
+insert 81 278405505
+find 65 
+insert 58 281355394
+insert 57 138293715
+find 31 
+insert 88 229498543
+insert 98 104605036
+insert 78 256537263
+find 54 
+insert 64 139743353
+find 12 
+insert 51 3250951
+find 86 
+find 92 
+find 48 
+insert 43 186836771
+insert 95 272186176
+find 24 
+insert 98 186062710
+find 66 
+insert 40 235188521
+insert 43 93388615
+insert 68 88953098
+insert 47 144221077
+find 13 
+insert 65 219285972
+find 30 
+find 61 
+find 81 
+insert 63 224334160
+find 70 
+find 68 
+insert 34 59401026
+insert 61 114057269
+insert 62 239840753
+find 65 
+insert 26 169551616
+insert 13 70709990
+insert 67 127159051
+insert 46 279564689
+insert 8 326293562
+find 73 
+find 22 
+find 55 
+insert 38 74449998
+insert 65 234636254
+insert 61 278050626
+find 64 
+insert 20 21992494
+find 35 
+insert 57 300094970
+insert 1 300607788
+find 85 
+find 27 
+insert 35 56049260
+find 80 
+find 83 
+find 17 
+insert 19 98356482
+insert 58 113832294
+insert 48 283951772
+insert 74 279703444
+find 90 
+find 70 
+insert 7 173288821
+find 65 
+find 64 
+insert 13 67318001
+find 70 
+insert 1 281027296
+find 77 
+find 73 
+find 17 
+insert 86 8315122
+insert 41 161159568
+insert 94 310018085
+find 77 
+find 87 
+find 8 
+insert 13 300791536
+find 53 
+find 32 
+find 23 
+find 91 
+insert 38 27429347
+insert 57 288397410
+find 34 
+find 62 
+insert 13 225492200
+find 63 
+insert 9 129289730
+insert 11 411447
+insert 50 121497930
+find 30 
+find 94 
+insert 96 260959370
+find 97 
+insert 89 249835877
+find 95 
+find 8 
+insert 77 218300860
+find 65 
+insert 41 323053352
+find 62 
+find 92 
+insert 39 274803365
+insert 98 282074731
+insert 16 269317781
+find 69 
+insert 81 52827640
+find 0 
+find 22 
+insert 6 4848594
+insert 5 120526756
+insert 19 104771434
+find 39 
+find 37 
+insert 23 30331642
+insert 54 90928215
+insert 33 1144863
+insert 18 73183576
+find 28 
+insert 16 114602547
+find 93 
+find 47 
+find 42 
+insert 76 131780387
+insert 30 39946316
+insert 89 280937454
+find 48 
+insert 8 93280394
+find 93 
+find 86 
+find 36 
+find 0 
+insert 99 294114628
+insert 7 68387781
+find 91 
+find 39 
+find 24 
+insert 22 178172166
+insert 83 143574478
+insert 79 8896595
+insert 90 58137401
+find 81 
+insert 4 300574372
+find 29 
+insert 84 37327491
+insert 4 316246906
+find 87 
+insert 16 49858247
+find 87 
+insert 87 117976600
+insert 37 258842317
+find 43 
+insert 64 319073168
+insert 0 106293401
+find 65 
+find 55 
+insert 57 199598972
+insert 64 261564649
+find 54 
+insert 50 303286281
+find 1 
+find 7 
+insert 32 143047888
+insert 7 319760892
+find 98 
+find 44 
+find 47 
+insert 15 43792142
+insert 95 82977009
+insert 74 15124558
+find 2 
+insert 87 329881103
+find 39 
+find 93 
+find 86 
+insert 68 177061664
+find 99 
+insert 49 321298789
+insert 24 295593398
+find 80 
+insert 18 178333885
+find 30 
+insert 49 86979550
+insert 46 205613274
+find 42 
+find 78 
+insert 21 278046182
+find 29 
+insert 77 172016092
+insert 4 259991610
+find 78 
+insert 5 249743412
+find 48 
+find 88 
+find 56 
+find 83 
+find 66 
+insert 25 55730888
+insert 90 233025404
+insert 10 281728418
+find 7 
+insert 6 151964233
+find 4 
+insert 46 67289688
+find 85 
+insert 72 117350600
+insert 12 140606044
+insert 17 236984995
+find 95 
+insert 8 240223818
+find 89 
+insert 41 25939928
+insert 4 307560351
+insert 12 62919324
+find 49 
+insert 79 93206300
+find 7 
+insert 31 169660998
+find 5 
+find 94 
+find 69 
+find 93 
+find 56 
+insert 70 122597041
+insert 81 143181896
+insert 52 284978720
+find 42 
+find 93 
+insert 88 183626931
+insert 88 253386968
+insert 37 115906484
+find 30 
+insert 72 9326356
+find 22 
+find 5 
+find 22 
+insert 71 292524602
+find 43 
+insert 34 247673796
+insert 58 105823707
+insert 5 253305544
+insert 69 147215700
+find 48 
+insert 6 152681349
+insert 89 258533366
+find 93 
+find 56 
+find 39 
+insert 96 307797651
+find 97 
+find 6 
+find 54 
+find 0 
+find 51 
+insert 57 255839578
+find 12 
+insert 49 193085747
+insert 71 87575903
+find 52 
+insert 55 191181980
+find 19 
+find 97 
+find 24 
+find 71 
+find 22 
+insert 52 49034534
+find 20 
+find 21 
+insert 68 146196656
+insert 35 275872085
+insert 34 154866763
+find 11 
+insert 51 127667061
+find 83 
+find 30 
+insert 62 138554307
+insert 34 199557864
+find 81 
+insert 17 95471407
+find 66 
+find 29 
+insert 44 37688803
+find 90 
+find 67 
+insert 23 78247123
+find 31 
+insert 50 163432248
+insert 65 182335715
+insert 6 145338561
+insert 67 59703553
+find 96 
+find 61 
+find 12 
+insert 94 228414685
+insert 87 156187946
+find 83 
+find 18 
+insert 94 25950538
+insert 88 8936434
+find 18 
+find 69 
+insert 80 32945138
+find 29 
+insert 94 311329574
+find 6 
+find 34 
+insert 7 316703047
+find 73 
+find 25 
+find 16 
+find 41 
+find 66 
+find 80 
+find 70 
+insert 80 292800702
+find 79 
+insert 72 305346675
+find 11 
+insert 29 182192745
+find 29 
+insert 60 214884293
+insert 26 255338625
+insert 5 51049765
+find 17 
+find 24 
+insert 14 210672019
+find 83 
+insert 86 116663441
+find 4 
+find 62 
+insert 75 272571954
+find 21 
+find 58 
+find 29 
+insert 64 63617321
+find 87 
+insert 83 43945449
+find 19 
+find 44 
+find 15 
+find 99 
+find 65 
+find 34 
+insert 54 45436821
+insert 68 109743961
+find 34 
+find 79 
+find 82 
+insert 21 318433118
+insert 2 257365481
+insert 37 162831693
+insert 96 236435197
+insert 58 248185898
+find 28 
+find 15 
+insert 26 284874893
+insert 11 250947279
+find 12 
+insert 86 26502739
+find 75 
+insert 1 16246230
+insert 46 30412027
+find 37 
+insert 60 317404246
+insert 75 127753588
+insert 48 108646790
+insert 48 267495962
+find 18 
+insert 46 85800577
+insert 59 171878052
+find 8 
+insert 50 9422280
+find 87 
+find 37 
+insert 72 233236410
+find 57 
+insert 76 215373119
+insert 18 212873200
+insert 4 307616996
+find 20 
+insert 77 220749238
+find 9 
+insert 96 336712914
+insert 80 299434684
+insert 59 206937190
+find 66 
+find 4 
+find 32 
+insert 84 1748377
+insert 10 264949172
+find 10 
+insert 34 215066398
+insert 26 149743546
+find 24 
+insert 14 133404950
+find 56 
+insert 59 275932401
+insert 83 173116036
+find 41 
+find 56 
+find 80 
+insert 70 21657990
+insert 83 40711441
+find 77 
+find 63 
+find 9 
+find 22 
+find 92 
+insert 69 318473794
+find 61 
+find 19 
+find 84 
+find 52 
+insert 48 10004783
+insert 5 83747499
+insert 50 228113801
+insert 8 181448376
+insert 54 293411483
+insert 34 183986911
+insert 69 259699637
+insert 53 87864772
+insert 92 70288573
+insert 32 227013032
+insert 76 297524601
+find 58 
+insert 47 177239402
+find 68 
+insert 97 29195001
+insert 87 148688130
+insert 74 194103192
+insert 38 133556162
+find 15 
+insert 93 18261161
+find 46 
+find 27 
+insert 37 30586133
+find 70 
+insert 61 145147980
+insert 18 14085751
+find 23 
+insert 9 170005958
+insert 95 91513680
+insert 85 48935209
+insert 28 89733413
+find 79 
+find 25 
+find 84 
+insert 69 279496755
+insert 41 86039430
+insert 76 200694915
+insert 54 193072854
+insert 78 9470791
+find 72 
+insert 63 154353234
+find 28 
+find 81 
+find 47 
+insert 8 200833137
+find 31 
+find 0 
+insert 27 59718890
+find 67 
+find 9 
+insert 85 303851889
+find 21 
+find 50 
+find 84 
+find 47 
+insert 61 110216086
+insert 19 238263545
+find 93 
+insert 41 151071229
+find 73 
+insert 96 17716948
+insert 81 252006414
+find 50 
+find 79 
+find 70 
+find 34 
+find 42 
+insert 43 146139099
+insert 91 327203911
+find 53 
+insert 98 132509392
+insert 27 294906720
+insert 30 210271941
+insert 45 332473968
+insert 9 34245134
+insert 37 10459026
+insert 27 13385416
+find 15 
+find 30 
+insert 64 44830375
+find 53 
+find 18 
+insert 87 163939244
+insert 99 32930339
+insert 54 259911937
+find 68 
+find 35 
+insert 62 58181602
+insert 88 332688911
+insert 16 51035959
+find 32 
+find 4 
+find 67 
+find 6 
+find 25 
+find 64 
+find 91 
+find 46 
+find 14 
+insert 76 271867224
+find 89 
+insert 65 244123635
+find 1 
+find 28 
+insert 63 78750116
+find 21 
+find 68 
+find 80 
+insert 7 153923667
+insert 28 20383540
+insert 57 317919035
+insert 41 122757259
+find 99 
+find 25 
+insert 82 3196341
+find 27 
+insert 47 116413761
+insert 89 40502415
+insert 48 97310652
+insert 92 2622182
+insert 84 223909490
+find 98 
+insert 5 335950799
+find 29 
+insert 45 224056162
+find 13 
+insert 38 28652913
+insert 93 36790206
+find 33 
+insert 80 253959766
+insert 62 27842186
+insert 62 267785368
+insert 17 193031821
+find 49 
+insert 42 332108365
+insert 82 275298171
+find 89 
+insert 86 339620090
+find 83 
+find 39 
+insert 59 216104102
+find 27 
+insert 54 54585975
+find 3 
+insert 47 285355080
+insert 10 328601446
+insert 94 224112340
+insert 10 124544947
+find 1 
+insert 57 125703462
+insert 66 292389279
+find 71 
+find 13 
+find 83 
+find 24 
+find 48 
+find 37 
+insert 69 223066239
+insert 9 60818588
+insert 83 66048155
+insert 89 3650229
+find 42 
+insert 72 14957441
+insert 25 97158637
+insert 64 140455788
+insert 83 335857828
+insert 78 311942682
+insert 35 161673194
+insert 8 22676599
+insert 53 116545308
+insert 15 68521728
+insert 63 170950427
+find 41 
+insert 48 4044347
+insert 1 209616932
+insert 5 334793445
+find 45 
+find 22 
+insert 65 228248146
+insert 24 2105469
+find 73 
+insert 44 237309215
+find 92 
+find 68 
+insert 69 4057079
+insert 28 246066211
+find 30 
+find 19 
+insert 65 229298773
+insert 91 81466724
+find 73 
+find 32 
+insert 2 4953929
+find 0 
+insert 58 145434536
+insert 33 51428997
+insert 36 115192545
+find 8 
+find 91 
+find 69 
+insert 72 299923791
+insert 55 24708727
+insert 29 10952343
+insert 89 142794566
+find 82 
+insert 63 222794249
+insert 21 307174984
+find 30 
+find 55 
+insert 87 186731837
+insert 36 44774469
+insert 80 180701323
+insert 23 82267741
+find 8 
+find 36 
+insert 12 225387750
+find 77 
+find 76 
+insert 49 221704509
+insert 79 178070462
+find 93 
+find 5 
+insert 14 141997093
+insert 0 182427156
+find 49 
+find 8 
+insert 90 273983202
+find 96 
+insert 47 245971996
+find 24 
+find 31 
+find 98 
+find 58 
+find 85 
+insert 77 194652929
+insert 46 152097189
+find 45 
+insert 48 83345681
+find 95 
+find 66 
+insert 13 335952155
+find 91 
+insert 74 27829107
+insert 10 319335195
+insert 18 95143325
+insert 65 173303214
+find 74 
+insert 20 118594757
+insert 65 495085
+insert 96 320546014
+find 97 
+find 36 
+find 25 
+find 86 
+insert 89 132819617
+find 44 
+insert 25 65408401
+insert 45 124537070
+find 71 
+insert 84 313936754
+insert 39 239291832
+insert 78 318838054
+insert 95 205783594
+find 55 
+insert 89 312905475
+find 65 
+find 96 
+insert 73 307677425
+find 80 
+find 26 
+find 8 
+find 63 
+find 77 
+find 47 
+insert 16 18813311
+insert 40 273281135
+find 22 
+insert 6 272688555
+find 73 
+find 35 
+insert 78 121375829
+find 11 
+find 42 
+insert 42 94940161
+find 64 
+find 10 
+find 97 
+insert 85 156577837
+insert 58 2357956
+insert 16 328551945
+insert 8 248421495
+insert 82 25613799
+find 73 
+insert 93 213829939
+find 50 
+find 67 
+find 63 
+find 44 
+insert 66 208818806
+find 95 
+find 80 
+find 87 
+insert 19 302091235
+insert 98 41392622
+insert 32 79462463
+find 82 
+find 5 
+find 37 
+find 55 
+find 60 
+insert 74 321058303
+find 95 
+find 50 
+insert 82 239595077
+find 93 
+insert 1 276567875
+insert 50 21561
+find 94 
+find 18 
+find 8 
+insert 79 225213407
+find 3 
+insert 21 282318139
+insert 33 294396031
+find 36 
+find 43 
+find 32 
+find 27 
+find 92 
+find 90 
+insert 29 159197952
+find 46 
+insert 94 234059492
+find 83 
+find 58 
+insert 26 250199606
+insert 9 87191261
+insert 4 128329352
+find 93 
+insert 1 280568884
+insert 27 285741615
+find 56 
+insert 50 275548428
+insert 80 264823811
+insert 83 154488427
+insert 62 114392069
+find 99 
+insert 56 57128639
+insert 7 15226006
+insert 77 132256397
+find 56 
+insert 15 144327284
+insert 18 320765801
+insert 32 121958255
+insert 50 169194635
+find 2 
+find 84 
+insert 41 38157014
+insert 50 160591616
+insert 82 142737727
+find 41 
+find 91 
+insert 22 263045334
+insert 22 70016826
+find 24 
+insert 99 160143511
+insert 87 171477552
+find 0 
+find 49 
+find 70 
+insert 46 87747115
+insert 6 59414783
+find 23 
+find 47 
+insert 97 240213528
+insert 74 161946280
+insert 44 54526230
+insert 51 69480937
+find 59 
+find 90 
+find 30 
+find 62 
+find 84 
+insert 44 76671358
+find 2 
+insert 22 124297884
+find 13 
+find 18 
+insert 29 262394638
+find 9 
+find 76 
+insert 94 264163135
+find 80 
+find 64 
+insert 9 29551336
+insert 76 241769340
+find 84 
+insert 70 279886402
+insert 39 269919188
+find 12 
+insert 75 159075882
+insert 70 23730960
+find 86 
+insert 1 140786881
+insert 96 181222670
+insert 0 99576746
+find 85 
+find 99 
+insert 73 118472997
+insert 19 157719898
+find 99 
+find 59 
+find 63 
+find 55 
+insert 45 193286346
+find 23 
+find 84 
+find 11 
+find 3 
+insert 50 159817059
+insert 3 133962706
+find 83 
+find 11 
+insert 49 25418714
+find 28 
+find 40 
+insert 60 160595001
+find 40 
+find 93 
+insert 20 80239394
+find 47 
+find 61 
+find 57 
+find 17 
+find 78 
+insert 66 122051145
+find 61 
+insert 90 178656140
+find 93 
+insert 87 107429017
+insert 11 273263013
+find 48 
+insert 89 193124522
+insert 76 315652804
+insert 21 245074222
+insert 63 55764187
+find 5 
+find 66 
+find 29 
+insert 89 106491632
+insert 7 291396633
+find 41 
+insert 64 242633241
+insert 87 177703276
+insert 81 257357373
+find 58 
+insert 52 157523439
+find 85 
+find 10 
+find 90 
+find 71 
+insert 76 276095508
+insert 6 135934900
+find 17 
+insert 77 96156303
+find 22 
+find 35 
+insert 0 244237105
+find 55 
+insert 99 97162523
+insert 94 117878766
+find 62 
+insert 16 76939350
+insert 99 179505337
+find 35 
+find 50 
+find 36 
+insert 42 33904900
+insert 98 308344759
+find 22 
+find 86 
+find 54 
+insert 80 212742677
+insert 54 91232802
+find 90 
+find 89 
+find 14 
+find 99 
+insert 51 188804561
+find 25 
+find 56 
+find 88 
+find 82 
+find 65 
+insert 74 27013231
+insert 73 223959902
+insert 85 30096812
+insert 42 340467718
+find 13 
+find 44 
+find 71 
+insert 91 58405205
+insert 11 29276339
+find 18 
+insert 5 308461004
+insert 70 141571973
+insert 32 304338005
+insert 60 327824621
+find 91 
+find 64 
+insert 60 104842374
+find 99 
+find 60 
+insert 69 62421687
+find 2 
+find 44 
+find 69 
+find 56 
+find 44 
+insert 85 308374987
+insert 5 321930757
+find 71 
+find 41 
+insert 18 152450616
+insert 30 200610868
+find 78 
+insert 16 7518653
+insert 71 310815083
+find 91 
+find 58 
+insert 56 304253718
+find 87 
+find 97 
+insert 65 8393905
+find 11 
+insert 38 120912422
+find 24 
+insert 10 295511744
+insert 90 247326957
+find 65 
+find 71 
+insert 10 310491144
+insert 33 295648176
+insert 72 3054929
+find 71 
+find 61 
+insert 76 245262288
+find 49 
+find 25 
+insert 59 273112968
+find 69 
+insert 68 20909691
+insert 27 161397558
+insert 72 149269914
+insert 31 135795564
+insert 25 290768764
+insert 9 9956843
+insert 88 293638746
+find 48 
+insert 99 28305368
+find 6 
+insert 67 281836123
+insert 7 255678563
+find 58 
+insert 32 340499959
+insert 53 290165271
+find 70 
+find 31 
+insert 21 286987785
+insert 32 314528296
+find 56 
+find 15 
+insert 54 227552483
+insert 77 290703025
+insert 22 176137561
+find 47 
+insert 15 139172406
+insert 68 68792232
+insert 62 247500444
+insert 35 175013081
+insert 40 225876880
+find 1 
+find 63 
+find 97 
+find 44 
+find 16 
+find 96 
+find 66 
+insert 64 327124756
+find 27 
+find 22 
+insert 57 59538793
+insert 94 106699167
+insert 6 171423566
+insert 28 276539833
+insert 90 43410546
+find 2 
+find 86 
+find 62 
+insert 42 99099895
+find 3 
+find 79 
+find 94 
+find 37 
+find 31 
+find 18 
+insert 96 324338436
+insert 36 108554169
+find 60 
+find 99 
+insert 27 13243027
+insert 79 292223459
+find 57 
+insert 22 300606734
+insert 40 48358439
+find 77 
+insert 18 248523050
+find 9 
+insert 27 208126697
+insert 96 72761339
+insert 94 294668758
+find 50 
+insert 1 191256521
+find 49 
+find 86 
+insert 47 249556127
+find 77 
+insert 20 129544317
+find 11 
+insert 17 44519124
+find 90 
+insert 13 228008635
+insert 80 83465225
+find 77 
+insert 58 78800633
+find 76 
+insert 25 68449529
+find 0 
+find 97 
+insert 95 49042457
+insert 22 1792815
+find 77 
+insert 63 85975337
+find 54 
+insert 36 68109645
+find 37 
+insert 53 269613420
+find 60 
+find 2 
+insert 57 273199277
+find 81 
+find 31 
+insert 68 95399655
+insert 43 68300621
+insert 91 185548784
+find 55 
+insert 85 7534629
+insert 97 331753468
+find 94 
+find 89 
+insert 2 60597837
+find 28 
+find 29 
+insert 53 307887063
+insert 98 12991939
+insert 46 172382032
+insert 83 69124585
+insert 72 295927431
+insert 6 235336773
+find 80 
+insert 34 265437919
+find 45 
+find 50 
+find 59 
+insert 0 159820284
+insert 93 167906698
+insert 97 211625595
+find 60 
+find 19 
+find 70 
+insert 59 221226215
+insert 86 201580255
+find 1 
+find 3 
+find 95 
+find 47 
+insert 36 156778916
+insert 13 295647519
+find 16 
+insert 94 327922812
+insert 72 60090296
+insert 68 253308125
+insert 62 51593334
+find 58 
+insert 26 49797027
+find 13 
+insert 23 275958162
+find 76 
+insert 25 319129606
+find 89 
+insert 39 159639354
+insert 40 137385822
+find 77 
+insert 49 83613564
+insert 63 189536781
+find 86 
+find 70 
+insert 21 319565434
+insert 87 99203543
+find 32 
+find 96 
+find 3 
+find 40 
+insert 58 191098100
+find 45 
+find 55 
+insert 14 120975031
+find 82 
+find 44 
+insert 86 203390302
+insert 7 115499301
+insert 96 90291233
+find 30 
+find 35 
+find 14 
+find 90 
+find 53 
+insert 1 4936258
+insert 8 8025474
+insert 82 202879169
+find 30 
+insert 21 273785363
+insert 88 300041318
+find 55 
+insert 50 124570563
+insert 55 147161417
+insert 70 77460675
+find 38 
+insert 72 271662145
+insert 38 205698181
+find 3 
+find 63 
+find 95 
+find 54 
+insert 4 55163678
+find 75 
+insert 80 247273143
+insert 27 261751825
+insert 69 312263568
+find 0 
+insert 5 304578772
+insert 40 111779322
+find 61 
+insert 55 117745432
+insert 69 181887464
+find 5 
+find 5 
+find 88 
+find 73 
+find 12 
+find 32 
+find 26 
+find 71 
+insert 5 143556877
+find 17 
+find 39 
+insert 36 3976987
+find 72 
+insert 12 167094437
+find 47 
+find 42 
+insert 20 285278315
+find 77 
+find 48 
+insert 34 179735525
+find 72 
+find 21 
+insert 12 286810756
+insert 66 335303252
+find 49 
+find 67 
+find 69 
+find 45 
+find 77 
+find 37 
+insert 39 52717155
+find 31 
+find 35 
+find 39 
+insert 54 233384068
+insert 23 132107904
+find 72 
+insert 18 312264936
+insert 68 233217249
+insert 74 122336630
+find 47 
+find 93 
+insert 4 186277687
+find 48 
+insert 52 76244783
+insert 4 167878143
+insert 62 322630539
+insert 4 131268757
+find 37 
+insert 75 89570796
+find 98 
+find 92 
+insert 15 243727092
+find 70 
+find 92 
+insert 33 298811364
+find 50 
+find 90 
+insert 96 224642555
+insert 70 340245588
+find 44 
+insert 33 289491783
+insert 32 144872721
+find 49 
+insert 57 283843924
+insert 37 203208826
+find 63 
+find 30 
+insert 79 130406325
+find 50 
+find 19 
+insert 67 292066074
+find 37 
+find 74 
+find 96 
+find 84 
+insert 84 97482902
+find 20 
+insert 31 289841391
+find 66 
+insert 66 16530675
+insert 57 166035010
+find 55 
+insert 99 130368852
+find 26 
+insert 79 185091281
+insert 54 285374394
+find 38 
+insert 1 317967792
+find 28 
+insert 45 244489183
+insert 63 308559281
+find 56 
+find 80 
+insert 60 201337160
+find 58 
+find 41 
+insert 26 225181063
+find 92 
+find 56 
+find 79 
+insert 38 264680508
+insert 69 309164351
+insert 56 189779662
+find 66 
+insert 94 287788527
+find 92 
+find 95 
+find 49 
+find 95 
+insert 0 179825382
+find 72 
+find 66 
+insert 18 320853139
+find 40 
+insert 44 65363060
+find 35 
+insert 83 124470326
+find 86 
+insert 78 295704823
+find 93 
+insert 93 219028792
+insert 74 188361763
+find 4 
+insert 18 180725877
+find 20 
+insert 82 8480577
+insert 47 83746565
+insert 17 36870051
+find 78 
+insert 73 320922229
+find 4 
+insert 96 124347723
+insert 55 262867374
+find 28 
+insert 74 54927916
+find 56 
+insert 52 77350118
+insert 7 109008190
+insert 10 270348075
+insert 65 188931139
+insert 57 211701975
+insert 19 196471552
+find 68 
+find 3 
+find 78 
+find 87 
+find 36 
+find 88 
+find 22 
+find 33 
+find 14 
+find 6 
+insert 44 103699570
+find 74 
+insert 42 265271592
+insert 49 134615296
+insert 4 179510457
+find 69 
+find 10 
+find 33 
+insert 80 123937811
+insert 68 299273236
+find 82 
+find 3 
+insert 2 49694820
+insert 0 19148655
+insert 18 267067057
+find 8 
+insert 64 1247631
+find 17 
+find 11 
+insert 85 273324496
+insert 82 31965538
+insert 88 280942416
+insert 2 49076463
+insert 69 28731686
+find 98 
+find 15 
+find 48 
+find 49 
+insert 21 183255850
+insert 25 333403828
+insert 66 238336359
+find 77 
+insert 68 199568142
+find 31 
+insert 83 156599590
+find 53 
+insert 20 159690558
+find 62 
+insert 43 97375693
+find 19 
+insert 50 283442312
+find 75 
+find 16 
+find 22 
+insert 12 61320204
+insert 19 120035193
+insert 55 11033366
+insert 80 262483787
+insert 78 17650946
+find 50 
+insert 91 155162617
+find 18 
+find 48 
+insert 24 48812643
+find 87 
+find 50 
+insert 94 237488075
+insert 45 80139402
+insert 15 22873150
+find 3 
+find 34 
+insert 57 153418212
+insert 44 183143581
+find 0 
+insert 43 44021906
+insert 44 115057152
+insert 30 339056171
+insert 15 144819981
+insert 58 254721714
+find 6 
+find 67 
+insert 69 190034425
+insert 68 2681940
+insert 13 59537199
+find 92 
+find 51 
+find 11 
+insert 12 98213494
+find 20 
+insert 23 278833459
+find 22 
+find 17 
+find 12 
+insert 66 8635072
+insert 94 314361960
+insert 67 51815605
+insert 42 155738108
+insert 32 155388507
+find 2 
+find 11 
+find 56 
+insert 60 300703845
+find 49 
+insert 55 73084256
+insert 21 310591069
+find 20 
+find 60 
+find 15 
+insert 82 298130448
+insert 58 240312273
+find 15 
+find 32 
+find 97 
+find 40 
+insert 45 79191833
+insert 38 263466386
+find 54 
+find 53 
+find 51 
+insert 25 196651188
+insert 10 297756121
+insert 29 103827448
+find 39 
+insert 87 65403426
+find 39 
+find 13 
+insert 60 33989652
+insert 12 313772596
+insert 41 217828485
+insert 23 168241104
+insert 63 272251790
+find 9 
+find 31 
+find 30 
+find 55 
+find 79 
+insert 37 339109960
+insert 43 182714205
+find 18 
+find 82 
+find 21 
+find 7 
+find 95 
+insert 79 298549501
+insert 29 52884049
+insert 87 43622741
+find 98 
+insert 65 322670017
+insert 37 127393049
+insert 11 295577889
+insert 19 246634147
+insert 27 307143118
+insert 3 83222172
+insert 40 91324650
+find 81 
+find 73 
+insert 87 31425868
+insert 46 855614
+find 15 
+find 94 
+insert 75 263030793
+find 38 
+find 72 
+insert 39 25499859
+insert 50 67169764
+insert 98 150866338
+insert 69 46045741
+insert 36 89642220
+insert 22 8828896
+find 53 
+insert 31 212750173
+find 0 
+insert 24 205816753
+insert 7 38410307
+insert 24 100328062
+find 26 
+find 21 
+insert 84 85046073
+insert 8 240482188
+insert 1 247686885
+insert 34 99153850
+insert 33 190895592
+insert 73 227519189
+insert 5 198280360
+find 1 
+insert 70 255304943
+find 4 
+find 56 
+find 15 
+insert 46 120950488
+find 8 
+insert 21 42062191
+insert 63 145835398
+find 82 
+insert 83 233721717
+find 78 
+insert 94 171108783
+insert 19 159833584
+insert 13 71440196
+find 81 
+insert 66 271358695
+find 8 
+insert 30 112707578
+insert 95 30681853
+find 51 
+insert 61 118291885
+insert 66 337741217
+insert 21 93105635
+find 18 
+find 67 
+find 95 
+insert 71 271457590
+find 59 
+find 57 
+insert 59 330881553
+find 50 
+insert 83 275080950
+insert 82 289069884
+insert 51 105845381
+insert 82 26466710
+find 97 
+insert 16 9806024
+insert 24 12695894
+insert 45 178560833
+find 23 
+insert 88 198026373
+insert 36 9923833
+insert 68 89442144
+find 9 
+insert 10 212789401
+insert 69 139702421
+insert 81 205413820
+find 5 
+insert 9 72600382
+insert 68 297678104
+find 10 
+insert 99 4893282
+find 23 
+find 44 
+insert 96 273469451
+find 27 
+find 62 
+find 97 
+find 61 
+find 15 
+find 42 
+find 5 
+find 50 
+find 25 
+insert 5 337472703
+find 61 
+insert 48 242739506
+insert 33 294142758
+find 83 
+insert 93 40107926
+find 11 
+find 74 
+find 50 
+find 72 
+find 70 
+insert 62 94911397
+insert 31 298029307
+insert 9 129963479
+find 2 
+insert 44 234476720
+insert 85 180751439
+find 73 
+find 77 
+find 20 
+find 61 
+insert 69 327892663
+insert 27 210218202
+insert 59 111884088
+find 42 
+find 85 
+find 4 
+insert 20 288834015
+insert 25 264814636
+insert 30 49954552
+insert 73 59025298
+find 56 
+insert 68 183402692
+insert 49 332303253
+insert 81 220677473
+insert 81 232513523
+insert 67 276860527
+find 92 
+insert 17 62727449
+find 49 
+find 96 
+insert 29 98403332
+insert 2 115306009
+find 60 
+find 8 
+insert 50 72539681
+insert 15 274663136
+insert 2 308639570
+find 10 
+insert 46 208995435
+insert 55 254880216
+insert 30 126559967
+insert 33 333072901
+find 0 
+find 35 
+insert 52 70805886
+find 77 
+insert 49 90003371
+insert 40 112502007
+insert 9 188147725
+insert 89 116445170
+insert 86 150824094
+insert 23 59051057
+find 97 
+find 20 
+insert 76 310445382
+insert 33 265732935
+insert 93 237169807
+find 29 
+find 55 
+find 12 
+find 56 
+find 12 
+find 69 
+insert 44 290468180
+insert 98 219658397
+insert 98 147327895
+insert 38 187701483
+find 62 
+insert 71 29595820
+insert 92 302558555
+find 83 
+find 35 
+find 63 
+insert 64 90757092
+insert 68 109526816
+find 79 
+find 5 
+find 88 
+insert 13 7153724
+find 19 
+insert 19 90194613
+insert 26 21291846
+find 56 
+insert 63 106865965
+insert 45 30738175
+insert 97 232248226
+find 54 
+find 94 
+insert 63 253318563
+insert 22 277440486
+find 75 
+find 4 
+insert 81 75737110
+find 53 
+insert 47 139085772
+insert 72 98041076
+insert 34 117964451
+find 23 
+insert 5 196344015
+insert 61 67513277
+find 91 
+insert 25 738983
+insert 51 146209887
+find 75 
+find 73 
+insert 84 118386313
+find 11 
+insert 56 273186676
+insert 14 98161739
+insert 2 281535967
+insert 80 267190466
+find 87 
+insert 68 178648343
+insert 19 184980061
+find 18 
+insert 33 260152123
+insert 99 40504700
+insert 76 291810795
+insert 54 23470964
+find 64 
+insert 5 37882320
+find 71 
+find 57 
+insert 79 20553313
+insert 58 210464178
+insert 87 175297579
+insert 18 57209746
+insert 42 239459743
+insert 28 177964769
+find 12 
+find 95 
+find 88 
+find 56 
+insert 39 105182844
+find 18 
+find 99 
+insert 30 143924717
+find 46 
+find 53 
+find 39 
+insert 34 127571500
+find 68 
+insert 9 161830173
+insert 60 296684086
+find 19 
+find 3 
+insert 36 179023610
+find 90 
+insert 56 120517320
+insert 26 47353309
+find 46 
+insert 58 10898188
+find 1 
+insert 26 25841326
+insert 58 208402119
+find 93 
+find 35 
+insert 94 251334229
+insert 68 130958537
+find 43 
+insert 63 27324259
+insert 34 217199120
+insert 99 146021178
+insert 47 297701589
+find 63 
+find 73 
+find 50 
+find 63 
+find 26 
+insert 39 312685795
+find 60 
+insert 36 225371252
+find 83 
+insert 34 339883517
+insert 22 209013809
+find 56 
+find 18 
+insert 88 160393143
+find 94 
+insert 95 35253378
+insert 8 337593570
+insert 29 16129140
+find 3 
+insert 1 62622779
+insert 24 325355022
+insert 16 333943405
+find 92 
+find 98 
+find 8 
+insert 93 91668238
+find 79 
+find 64 
+find 49 
+insert 36 182145473
+find 22 
+insert 95 221322525
+find 87 
+insert 41 277451159
+find 65 
+find 82 
+find 23 
+find 28 
+insert 39 3730411
+find 0 
+find 31 
+find 19 
+insert 80 222486907
+find 84 
+find 60 
+insert 83 305809081
+insert 90 257661794
+find 45 
+find 2 
+find 23 
+insert 6 218500103
+insert 55 235448588
+find 50 
+insert 10 209649342
+insert 55 270871666
+insert 1 61978134
+insert 59 123575986
+find 18 
+insert 73 162992798
+find 96 
+insert 96 73744253
+insert 93 321341761
+find 2 
+find 78 
+insert 30 163962731
+insert 80 12757558
+find 33 
+insert 63 34608575
+insert 53 312240126
+find 50 
+find 84 
+insert 41 283814085
+find 76 
+insert 31 265017772
+find 42 
+insert 9 463517
+insert 17 74078587
+insert 10 308936901
+find 82 
+insert 33 241437078
+find 37 
+find 72 
+insert 24 51870251
+insert 54 157826990
+insert 9 52776702
+find 84 
+insert 53 311674084
+find 72 
+find 62 
+find 43 
+insert 8 239206299
+find 56 
+find 78 
+insert 65 310360713
+insert 83 179768470
+insert 30 117566520
+find 94 
+find 11 
+insert 50 141688939
+find 92 
+find 62 
+insert 14 234469165
+find 64 
+insert 93 37667141
+find 27 
+find 1 
+find 49 
+insert 39 47151997
+insert 48 182048085
+find 32 
+insert 85 289631602
+find 79 
+insert 5 150484262
+find 21 
+insert 67 159709123
+find 15 
+find 85 
+find 12 
+insert 61 118939776
+insert 99 135864079
+find 17 
+find 23 
+find 48 
+insert 84 55576031
+find 38 
+insert 20 102628275
+insert 33 114606687
+find 33 
+insert 90 182712586
+insert 80 266182436
+find 14 
+find 42 
+find 21 
+find 98 
+insert 13 9476372
+find 56 
+insert 45 260209445
+insert 19 193762311
+find 63 
+insert 78 30109125
+find 9 
+insert 26 55005912
+insert 38 171750550
+insert 84 241167675
+insert 30 162643452
+insert 26 131330508
+find 65 
+find 10 
+insert 53 42326397
+insert 47 103445871
+insert 66 16652270
+find 63 
+find 69 
+find 85 
+insert 6 196279632
+insert 80 93868763
+find 51 
+insert 61 294093133
+insert 48 113799226
+find 40 
+insert 22 159736267
+insert 80 116151562
+insert 29 299526470
+find 98 
+find 42 
+insert 22 308294045
+insert 31 334091240
+insert 45 115958086
+insert 61 102249083
+find 58 
+find 76 
+find 87 
+find 1 
+insert 81 23349093
+insert 58 239733082
+find 19 
+insert 56 97992750
+find 13 
+find 75 
+find 13 
+insert 40 13690560
+insert 27 199417198
+insert 77 228206996
+find 13 
+insert 94 10454044
+insert 53 86537769
+find 54 
+insert 79 79211997
+insert 67 200345901
+insert 40 37141275
+find 56 
+insert 93 75406326
+insert 92 290684525
+find 48 
+insert 81 300235652
+insert 27 71387880
+find 40 
+insert 97 88897779
+insert 95 309511937
+find 68 
+insert 41 77808912
+find 29 
+insert 58 268806192
+find 33 
+find 64 
+insert 38 129472315
+insert 37 334549865
+insert 28 128995433
+insert 21 331320605
+find 89 
+find 22 
+insert 56 9444912
+find 55 
+find 66 
+insert 44 274502714
+find 18 
+insert 55 215243221
+find 68 
+insert 38 114212907
+insert 69 330369878
+find 59 
+find 47 
+find 23 
+find 91 
+find 78 
+insert 96 297892988
+insert 33 91683469
+insert 96 165658596
+find 60 
+find 77 
+insert 35 175190853
+insert 81 126988754
+insert 1 252726749
+find 25 
+find 66 
+find 52 
+find 91 
+insert 75 66756297
+insert 7 202942312
+find 64 
+insert 65 204846285
+find 45 
+insert 99 6473962
+insert 7 127748705
+find 8 
+find 8 
+insert 65 1738435
+find 70 
+insert 99 237384345
+insert 35 21955960
+find 49 
+insert 74 80271524
+insert 42 191394156
+find 11 
+find 81 
+find 0 
+find 89 
+find 65 
+insert 82 155940361
+insert 29 21340131
+find 72 
+find 62 
+insert 36 22182841
+insert 35 243178963
+find 76 
+find 27 
+insert 56 271963589
+insert 73 194945613
+find 68 
+insert 26 93017956
+insert 18 337328884
+find 9 
+find 45 
+insert 85 53329278
+insert 87 250223335
+insert 42 288057166
+find 74 
+insert 27 280799364
+find 56 
+insert 47 187179390
+insert 7 127667590
+insert 44 263332187
+find 61 
+insert 40 132117919
+insert 99 147901180
+find 62 
+insert 3 244092370
+insert 64 250515940
+insert 90 137505097
+find 81 
+insert 96 201302819
+insert 81 165913799
+insert 75 169804041
+insert 45 216671473
+find 19 
+find 14 
+find 65 
+find 92 
+find 44 
+insert 66 60900566
+find 87 
+find 91 
+insert 34 134513043
+insert 62 148206599
+find 42 
+insert 50 76121245
+find 69 
+find 11 
+insert 75 316466178
+find 89 
+insert 18 189298625
+insert 18 269579108
+find 66 
+find 52 
+insert 47 105516906
+insert 16 68218203
+find 72 
+find 77 
+insert 92 25810501
+find 28 
+find 13 
+find 85 
+insert 36 159020403
+find 41 
+find 83 
+find 29 
+find 24 
+find 71 
+insert 68 42913856
+find 26 
+find 76 
+insert 74 73574489
+insert 43 230733725
+find 49 
+insert 12 27168066
+insert 11 214906879
+find 52 
+find 44 
+find 37 
+find 34 
+find 47 
+insert 83 164893001
+find 78 
+find 61 
+find 96 
+find 5 
+find 83 
+find 75 
+find 43 
+find 44 
+find 19 
+find 10 
+insert 27 304930914
+find 48 
+find 80 
+insert 63 97535386
+find 57 
+find 10 
+insert 63 38305801
+insert 53 278975633
+insert 23 94067490
+insert 20 231479643
+insert 58 95889996
+find 60 
+insert 91 73703786
+insert 34 141634329
+find 52 
+insert 59 109809640
+find 73 
+insert 27 208855516
+insert 93 323080711
+find 56 
+insert 60 214765387
+insert 93 170462568
+find 57 
+insert 60 103753368
+find 55 
+find 99 
+insert 9 129353719
+find 32 
+insert 78 107521271
+find 72 
+find 93 
+insert 16 172278014
+insert 78 25044382
+insert 17 70209357
+insert 68 286752577
+insert 79 173733042
+insert 37 159679086
+find 7 
+find 34 
+insert 53 339162440
+find 21 
+find 57 
+insert 82 288673868
+find 45 
+insert 67 213800628
+find 39 
+insert 58 276764369
+find 53 
+insert 76 176537845
+insert 24 29019992
+find 44 
+find 91 
+find 93 
+find 38 
+find 2 
+insert 1 4462613
+insert 57 88850103
+insert 23 279562859
+find 59 
+insert 96 27867904
+find 50 
+find 98 
+find 25 
+insert 63 103079825
+insert 89 128475594
+insert 9 169131287
+insert 64 88631443
+find 44 
+insert 23 26461401
+insert 69 329995087
+find 12 
+find 7 
+insert 88 308074496
+insert 84 132256015
+find 90 
+find 56 
+insert 28 158252644
+insert 75 51679983
+find 14 
+find 14 
+insert 85 293090565
+insert 62 189246958
+find 20 
+find 38 
+insert 14 118070805
+find 0 
+insert 16 175720700
+find 30 
+insert 81 326669240
+find 63 
+insert 22 131621978
+find 66 
+find 35 
+find 94 
+find 95 
+find 91 
+find 69 
+insert 2 152998918
+find 11 
+insert 64 58786232
+insert 36 253138950
+find 78 
+find 11 
+find 54 
+find 88 
+insert 23 59016486
+insert 14 315783880
+find 0 
+find 37 
+find 34 
+insert 50 307296416
+insert 52 134827836
+insert 88 296937412
+find 37 
+find 27 
+find 59 
+insert 41 140943087
+find 48 
+insert 9 164878467
+find 89 
+insert 20 82729109
+insert 3 16135469
+find 41 
+find 86 
+insert 15 93332919
+insert 44 219097244
+find 6 
+insert 9 205777971
+find 7 
+find 33 
+find 11 
+find 67 
+find 45 
+insert 21 89263296
+find 24 
+find 59 
+find 60 
+find 5 
+find 78 
+find 74 
+insert 48 33099768
+find 21 
+find 95 
+find 74 
+find 96 
+find 11 
+find 22 
+find 19 
+insert 62 195455594
+find 92 
+insert 38 298358942
+find 75 
+insert 15 151542655
+find 93 
+find 36 
+find 48 
+insert 75 147161672
+insert 9 52113047
+find 24 
+insert 69 90451259
+find 65 
+insert 97 273571540
+insert 8 80775885
+insert 68 31277252
+find 12 
+find 79 
+insert 64 174627745
+insert 30 316984622
+insert 81 188512650
+insert 80 68703381
+find 91 
+insert 79 304573789
+insert 41 123939751
+insert 55 146005558
+insert 40 88388126
+insert 98 310209540
+insert 84 325321795
+insert 46 280120312
+find 6 
+insert 62 244912822
+insert 46 295632913
+find 2 
+find 61 
+find 69 
+insert 55 84731527
+insert 41 241164328
+insert 76 192720546
+find 72 
+find 95 
+find 74 
+find 97 
+find 8 
+insert 0 270439830
+insert 50 201772478
+find 24 
+find 50 
+find 42 
+insert 30 307845315
+insert 58 238771475
+find 51 
+insert 9 233475302
+insert 49 19021922
+insert 60 224627712
+insert 61 110145690
+insert 99 79368175
+insert 43 232649326
+insert 90 250736101
+find 85 
+find 81 
+insert 38 259431420
+find 9 
+find 6 
+find 88 
+insert 96 88289710
+find 39 
+find 28 
+find 89 
+find 27 
+find 89 
+find 70 
+insert 19 72140539
+insert 31 327026334
+insert 97 121203473
+insert 49 117471810
+insert 26 289047432
+insert 19 9357209
+insert 31 84201679
+insert 35 108731779
+find 76 
+find 30 
+insert 72 200329048
+find 42 
+find 68 
+insert 24 219756840
+find 9 
+find 89 
+find 80 
+find 1 
+insert 12 73863103
+find 28 
+insert 27 11734430
+find 82 
+insert 87 253335368
+find 70 
+insert 53 126633890
+find 19 
+insert 16 144430592
+find 18 
+find 32 
+find 67 
+insert 42 19226390
+insert 91 106771225
+find 86 
+find 28 
+find 86 
+find 76 
+find 60 
+insert 50 9369587
+find 85 
+find 2 
+insert 79 21301673
+find 10 
+find 88 
+find 75 
+insert 84 299243772
+find 39 
+find 64 
+insert 31 114250634
+find 16 
+insert 79 271330890
+find 82 
+find 74 
+find 36 
+insert 16 149197799
+insert 67 315714106
+find 28 
+insert 79 57340699
+insert 37 284182632
+insert 9 54442515
+find 48 
+insert 34 131532643
+insert 43 145804033
+insert 24 90087387
+insert 30 151177408
+find 80 
+insert 4 224731667
+find 59 
+find 48 
+find 50 
+find 28 
+find 74 
+find 10 
+insert 13 336381940
+find 44 
+find 81 
+insert 86 248174670
+find 81 
+find 46 
+find 58 
+find 64 
+insert 98 70724350
+find 59 
+insert 93 235953958
+find 27 
+find 93 
+find 25 
+find 25 
+insert 45 124592596
+insert 51 197036650
+insert 96 300725006
+find 7 
+insert 37 229444763
+find 12 
+find 62 
+find 96 
+insert 84 243144298
+insert 12 217798770
+insert 30 293355183
+find 4 
+find 83 
+find 28 
+find 20 
+find 12 
+insert 84 134658846
+insert 55 220988730
+insert 58 72435969
+find 37 
+insert 89 282799591
+insert 98 340419863
+insert 59 180808449
+insert 60 207856439
+find 55 
+insert 57 13956762
+insert 17 170139589
+insert 54 320928901
+insert 99 164502578
+insert 11 179543214
+insert 70 92479290
+insert 83 52483675
+find 37 
+insert 24 242701659
+find 92 
+find 27 
+find 20 
+find 44 
+insert 13 211832207
+insert 3 46647035
+find 49 
+find 80 
+find 53 
+find 41 
+find 38 
+find 58 
+find 60 
+insert 98 255767305
+insert 34 100587219
+find 69 
+insert 53 200967266
+find 63 
+insert 98 281919071
+insert 60 211085643
+find 41 
+insert 44 35557097
+insert 34 10620244
+insert 41 293083688
+find 99 
+insert 52 4766649
+insert 49 218395547
+insert 95 37537923
+find 97 
+insert 63 101468214
+insert 9 191027461
+find 90 
+insert 18 31863184
+find 88 
+find 13 
+find 89 
+find 97 
+find 75 
+find 44 
+insert 54 193730339
+find 30 
+find 15 
+insert 6 22192289
+insert 31 280984068
+find 83 
+insert 51 258860683
+insert 52 138528953
+find 78 
+insert 0 305757128
+insert 22 101850806
+find 15 
+insert 39 315005250
+find 43 
+insert 28 61010528
+find 27 
+insert 20 15025943
+insert 46 119489522
+insert 35 244535576
+insert 92 168658263
+insert 11 77841900
+find 66 
+insert 96 230053710
+find 50 
+find 68 
+insert 28 105405151
+find 89 
+insert 42 845939
+insert 20 204022042
+insert 79 74453967
+insert 68 115362291
+insert 4 152578371
+find 6 
+find 45 
+insert 55 255623278
+insert 93 244978668
+insert 25 212495059
+insert 51 249412935
+find 39 
+find 81 
+find 36 
+insert 66 233344730
+find 65 
+find 36 
+insert 72 174943720
+insert 20 101338518
+insert 26 98604319
+find 23 
+find 81 
+find 97 
+insert 1 90465928
+find 53 
+insert 59 78957412
+insert 79 78269617
+insert 16 16377688
+insert 97 279285965
+find 0 
+find 79 
+insert 60 104032422
+find 83 
+find 36 
+find 9 
+find 34 
+find 88 
+find 23 
+find 51 
+insert 96 298555143
+find 44 
+find 5 
+find 93 
+insert 33 133675826
+insert 88 62964514
+find 10 
+find 17 
+find 97 
+find 28 
+insert 81 22542889
+insert 65 319837631
+insert 39 85894474
+insert 49 196189087
+find 54 
+insert 35 283998592
+insert 84 123686903
+insert 10 283204809
+insert 2 284252605
+find 35 
+find 37 
+find 38 
+find 7 
+insert 11 65602862
+insert 75 65783840
+find 65 
+insert 88 262237467
+find 97 
+find 58 
+find 47 
+insert 2 222174907
+find 18 
+find 4 
+find 84 
+find 39 
+find 91 
+find 0 
+insert 32 45579396
+find 50 
+insert 45 15172944
+find 52 
+find 81 
+insert 94 296141603
+insert 51 193578372
+find 79 
+find 31 
+find 96 
+find 87 
+find 18 
+find 82 
+find 91 
+find 2 
+insert 19 177206458
+insert 48 145723611
+insert 7 260634207
+find 32 
+find 46 
+insert 29 39567420
+insert 61 277986785
+insert 7 235596666
+find 56 
+find 91 
+find 80 
+insert 73 205809214
+insert 38 288391775
+insert 89 143153389
+find 64 
+find 10 
+find 77 
+insert 4 89205246
+insert 10 61506207
+insert 72 269203170
+find 86 
+insert 34 264914901
+insert 66 264773193
+insert 99 274358062
+find 75 
+insert 42 135569229
+insert 26 157135383
+find 73 
+insert 37 160879557
+find 32 
+insert 79 81632205
+find 66 
+insert 56 298405349
+find 6 
+find 64 
+insert 70 125057656
+find 70 
+insert 77 258393027
+insert 12 136861603
+find 32 
+insert 63 258835426
+insert 40 98218135
+find 63 
+insert 30 85779597
+find 26 
+find 30 
+insert 99 92502871
+insert 34 278173981
+insert 29 270507345
+insert 54 281997726
+find 64 
+insert 23 281756942
+insert 77 273444268
+find 31 
+insert 23 269827188
+insert 79 33129404
+find 58 
+find 98 
+insert 98 5162253
+insert 46 112983832
+find 20 
+insert 57 154073707
+find 14 
+find 48 
+find 96 
+insert 44 301444450
+find 23 
+insert 55 303675654
+insert 12 265169837
+find 31 
+find 37 
+insert 11 284347634
+insert 60 289496098
+insert 69 95604505
+find 90 
+find 4 
+find 24 
+find 5 
+find 17 
+insert 95 20681503
+insert 39 174043985
+insert 42 127338375
+insert 85 36369193
+insert 56 238318077
+insert 33 330862414
+find 13 
+find 32 
+insert 51 18282461
+find 70 
+insert 82 3602713
+find 41 
+find 2 
+insert 17 144670038
+find 94 
+find 61 
+find 49 
+insert 3 47434369
+find 49 
+insert 50 71485367
+insert 79 60721024
+insert 9 88400947
+insert 62 334575120
+find 75 
+find 52 
+insert 49 321323509
+insert 24 330006328
+find 40 
+insert 97 198446889
+find 73 
+insert 61 285364331
+find 6 
+insert 38 333439650
+find 15 
+insert 84 230172161
+find 64 
+insert 27 115666597
+find 96 
+insert 80 77851542
+insert 76 81937738
+insert 35 27144485
+insert 20 198350565
+find 33 
+find 51 
+insert 53 82508941
+find 65 
+insert 28 60366870
+find 34 
+find 97 
+insert 67 242115264
+insert 70 91891174
+insert 66 202349092
+insert 80 55933034
+find 44 
+find 6 
+find 12 
+find 61 
+find 45 
+find 20 
+find 47 
+find 88 
+find 96 
+insert 35 182898070
+insert 41 225750907
+insert 4 107197472
+find 17 
+insert 14 1463207
+find 74 
+find 15 
+find 3 
+insert 46 227151138
+find 87 
+find 62 
+insert 32 220354636
+find 91 
+insert 26 25858697
+insert 56 66657787
+find 28 
+insert 2 35969968
+find 39 
+find 12 
+find 15 
+find 93 
+insert 60 339867546
+insert 5 140555612
+insert 40 234522022
+find 81 
+find 58 
+find 45 
+find 11 
+insert 61 89656064
+insert 63 120677313
+find 5 
+find 23 
+insert 52 121077484
+insert 22 177187456
+insert 67 40793436
+insert 9 317479683
+insert 68 323333790
+insert 38 135139122
+find 16 
+insert 84 302184673
+insert 23 26345518
+find 17 
+find 37 
+find 90 
+insert 32 50771766
+find 87 
+find 48 
+find 17 
+find 93 
+insert 23 333008793
+find 45 
+insert 83 236115369
+insert 10 152178215
+find 15 
+find 43 
+find 5 
+find 58 
+find 6 
+find 4 
+insert 52 43878294
+insert 65 64176887
+find 87 
+find 78 
+find 71 
+insert 88 197054456
+insert 9 61448082
+insert 70 322408846
+find 71 
+find 71 
+find 27 
+insert 31 25664115
+find 30 
+find 35 
+find 15 
+insert 88 84159789
+insert 91 151982386
+find 76 
+insert 6 152662606
+find 35 
+insert 48 163141876
+insert 17 288841522
+find 79 
+insert 60 64263322
+insert 68 320183686
+insert 92 158429407
+insert 47 160813768
+find 96 
+find 40 
+insert 47 69913987
+find 94 
+find 90 
+insert 70 301846902
+insert 64 66958593
+find 15 
+insert 55 168600047
+insert 84 291126766
+find 90 
+find 48 
+find 44 
+insert 0 18000909
+find 68 
+insert 36 221913723
+find 70 
+insert 83 181082943
+find 18 
+insert 2 338908070
+insert 49 73923992
+insert 69 203016327
+insert 87 109990331
+insert 53 35156405
+find 67 
+find 8 
+insert 90 267071248
+find 34 
+find 26 
+find 41 
+find 94 
+find 19 
+insert 96 108713083
+insert 39 315221639
+find 15 
+find 69 
+find 33 
+insert 2 37540200
+find 43 
+insert 16 250432785
+find 21 
+find 29 
+insert 99 30546416
+find 83 
+insert 6 28705185
+insert 11 170017422
+insert 70 222071244
+insert 24 48327102
+find 52 
+insert 8 31228484
+insert 23 100613309
+find 59 
+insert 12 234727997
+find 36 
+find 99 
+insert 58 200985219
+find 78 
+find 83 
+find 48 
+insert 64 57202501
+find 50 
+insert 23 224333225
+find 71 
+find 52 
+insert 38 161038899
+insert 1 277536232
+find 20 
+insert 88 208081274
+find 31 
+insert 29 205569583
+insert 21 19358426
+find 85 
+insert 43 47829660
+find 51 
+insert 36 328346661
+insert 59 159212127
+insert 10 46811333
+insert 33 330276674
+find 68 
+insert 89 288016878
+insert 57 252948877
+find 22 
+find 93 
+find 18 
+insert 43 83780516
+insert 66 94447649
+insert 47 16137039
+insert 9 70946224
+insert 39 175002436
+find 20 
+find 42 
+insert 63 181689460
+insert 1 236665251
+find 25 
+find 58 
+insert 29 324935649
+find 0 
+insert 42 46414010
+find 95 
+insert 65 331476553
+find 99 
+find 51 
+insert 55 301848204
+find 51 
+find 22 
+insert 45 219899596
+find 35 
+find 51 
+insert 55 315151263
+insert 68 166292618
+insert 19 83340370
+find 59 
+insert 25 18303532
+find 65 
+find 15 
+insert 52 82139319
+find 73 
+insert 26 126561061
+insert 14 126954998
+find 10 
+find 34 
+find 65 
+find 53 
+find 71 
+find 43 
+insert 80 172705530
+find 47 
+find 62 
+insert 24 70125778
+insert 69 19261570
+find 13 
+insert 6 17145224
+insert 48 235891233
+insert 9 241429252
+find 2 
+find 21 
+insert 26 111751896
+insert 4 13324835
+find 85 
+insert 28 335063612
+insert 50 18601861
+find 88 
+find 80 
+find 95 
+find 56 
+insert 60 52666757
+find 46 
+find 10 
+find 28 
+find 66 
+find 7 
+find 62 
+insert 49 163134425
+insert 4 189746534
+find 87 
+insert 85 268642514
+find 42 
+find 33 
+insert 75 274609588
+find 67 
+find 34 
+insert 56 144884147
+find 83 
+insert 17 218905965
+insert 33 118049958
+insert 22 104983049
+insert 12 213675918
+find 60 
+find 53 
+find 27 
+insert 55 19402947
+insert 42 312032722
+find 10 
+find 96 
+insert 45 257710606
+insert 20 56961486
+insert 15 36511274
+insert 81 309190853
+find 33 
+insert 35 17276653
+find 92 
+insert 49 124984940
+insert 82 262540243
+find 28 
+insert 60 179285781
+insert 61 44169190
+insert 83 233102189
+insert 80 16833101
+find 29 
+insert 56 134892559
+insert 3 306197720
+insert 3 171739424
+insert 31 261988270
+insert 42 180633415
+insert 6 39759183
+find 3 
+find 19 
+insert 42 213847375
+find 6 
+insert 57 222631277
+insert 57 111676338
+find 32 
+insert 74 5885104
+insert 75 139284234
+find 89 
+find 96 
+insert 73 46033050
+insert 45 246378930
+insert 90 140558008
+find 59 
+insert 78 90570043
+insert 76 116349206
+insert 70 208866030
+find 87 
+insert 32 57165851
+find 38 
+find 92 
+find 19 
+find 26 
+insert 29 72796521
+find 41 
+insert 99 250843748
+find 61 
+insert 37 40935509
+find 69 
+insert 3 332376374
+find 65 
+insert 54 225651431
+insert 59 283218899
+insert 61 27583120
+find 80 
+insert 99 339609378
+find 91 
+insert 72 338879465
+insert 96 156998173
+find 43 
+insert 21 41243919
+find 53 
+find 4 
+insert 17 325603542
+insert 35 252819487
+insert 67 171155759
+insert 68 223460018
+find 51 
+find 89 
+find 87 
+insert 20 332360233
+insert 38 70422464
+insert 84 216778667
+find 13 
+insert 48 96713006
+insert 13 238611226
+insert 15 209060626
+find 11 
+find 57 
+find 27 
+find 93 
+insert 56 155460369
+insert 80 234076310
+insert 70 137609324
+find 88 
+find 29 
+insert 72 280520837
+find 66 
+find 22 
+insert 31 237415657
+find 30 
+find 85 
+insert 74 72365499
+insert 39 88649215
+find 34 
+find 9 
+insert 99 120502699
+insert 23 314005009
+find 69 
+find 36 
+find 33 
+find 93 
+find 2 
+find 71 
+find 34 
+insert 90 230721011
+insert 13 65852100
+insert 93 10818327
+find 47 
+insert 8 139185560
+find 85 
+insert 22 41839561
+insert 66 151219970
+find 88 
+find 34 
+insert 12 333891755
+insert 65 321920814
+find 73 
+find 16 
+find 9 
+find 20 
+find 30 
+find 6 
+insert 48 107078509
+insert 43 188316361
+insert 50 266024042
+find 30 
+insert 40 311281344
+find 50 
+find 42 
+find 13 
+find 91 
+find 19 
+find 56 
+insert 66 322804218
+insert 46 198861385
+insert 46 275187974
+insert 13 138035438
+insert 48 52724224
+find 24 
+find 57 
+insert 2 92657877
+insert 88 253797609
+find 26 
+insert 19 208981080
+find 63 
+insert 77 132391472
+find 1 
+insert 44 121280440
+insert 22 219448555
+insert 23 196715138
+insert 82 102542570
+find 48 
+insert 46 182198884
+insert 15 96673320
+find 63 
+insert 84 19517929
+find 78 
+insert 55 294369712
+find 37 
+insert 67 33309513
+find 9 
+find 81 
+insert 87 73655453
+insert 10 187255792
+insert 66 272999124
+find 45 
+find 93 
+find 73 
+find 17 
+find 47 
+insert 7 317202783
+insert 71 100600634
+find 62 
+insert 72 189512015
+insert 6 33224134
+find 42 
+find 47 
+insert 40 70549891
+find 94 
+insert 58 231139480
+insert 51 249245900
+insert 70 132147104
+insert 14 33376695
+insert 12 73820604
+insert 10 34451726
+find 9 
+insert 55 29443360
+find 65 
+insert 45 252573819
+insert 80 196209532
+insert 0 239222997
+insert 44 318424598
+insert 97 186776167
+find 97 
+insert 53 331292556
+insert 22 22440116
+find 57 
+insert 61 30322354
+find 37 
+insert 37 10001445
+find 7 
+find 13 
+insert 81 230774656
+insert 48 221878001
+find 84 
+insert 95 230270635
+find 74 
+find 21 
+find 82 
+insert 72 48145928
+insert 7 97550038
+insert 23 33164003
+insert 49 232307080
+insert 7 77518378
+insert 12 3250272
+insert 74 297292941
+insert 41 14633775
+insert 91 247422835
+find 67 
+insert 3 122821653
+find 87 
+find 90 
+insert 47 132531830
+insert 14 175480716
+find 99 
+insert 9 223102335
+find 45 
+insert 41 227723523
+find 4 
+find 33 
+find 97 
+insert 62 8565082
+insert 93 243545678
+find 34 
+find 69 
+insert 13 87701262
+find 7 
+find 94 
+find 41 
+find 58 
+insert 35 93222245
+find 43 
+insert 75 250583670
+insert 69 129774943
+insert 65 327604770
+insert 52 66934292
+find 35 
+find 82 
+find 7 
+find 96 
+find 45 
+insert 6 219328892
+insert 29 60590107
+find 72 
+find 65 
+insert 34 251382883
+find 75 
+insert 62 3852381
+insert 98 194322425
+find 42 
+insert 75 274590239
+find 71 
+find 40 
+find 20 
+find 22 
+insert 99 215779919
+find 95 
+insert 57 295912256
+find 11 
+insert 87 338354719
+find 85 
+insert 44 141903624
+insert 4 122338857
+insert 89 33619860
+insert 88 89839576
+insert 94 152091824
+insert 21 104998917
+find 31 
+find 57 
+find 93 
+find 52 
+insert 12 221205958
+find 29 
+find 45 
+insert 34 247096923
+insert 93 44052527
+insert 76 125315916
+insert 60 198088883
+insert 18 40483761
+insert 31 94247324
+insert 56 276717099
+insert 62 209166217
+find 67 
+find 50 
+find 24 
+insert 89 29322786
+find 94 
+find 19 
+insert 68 94640662
+insert 41 191959587
+insert 23 145446885
+find 54 
+insert 7 72938547
+find 14 
+insert 90 65296531
+find 98 
+insert 87 52948892
+insert 32 266596028
+insert 12 240716989
+insert 48 239536054
+insert 32 68604096
+find 88 
+find 28 
+insert 47 298532960
+insert 50 50733996
+insert 92 186591165
+insert 68 73846293
+find 17 
+insert 94 322586280
+find 72 
+insert 57 56055568
+find 74 
+find 98 
+find 23 
+find 92 
+find 30 
+insert 75 303395479
+find 22 
+insert 97 232227331
+insert 52 217615826
+insert 24 70458635
+find 75 
+find 43 
+insert 9 266639244
+insert 88 288188565
+insert 81 221873991
+insert 53 186223053
+find 68 
+insert 98 53101673
+find 6 
+insert 61 18528015
+find 70 
+find 38 
+find 48 
+insert 51 68420801
+insert 92 45062224
+find 76 
+find 79 
+insert 18 23884691
+insert 65 220177857
+insert 24 62057980
+find 11 
+find 66 
+insert 46 68311637
+find 94 
+insert 26 178675937
+find 15 
+insert 8 241883274
+insert 29 94506315
+find 75 
+find 9 
+find 9 
+insert 12 131613802
+insert 29 139106858
+insert 77 252719983
+find 85 
+insert 46 164083278
+insert 32 318715058
+find 95 
+find 38 
+find 30 
+find 29 
+insert 31 226184351
+insert 88 103468091
+insert 94 150454467
+insert 86 47537719
+insert 52 202242863
+insert 55 318227539
+insert 62 88140329
+find 35 
+find 35 
+insert 83 168537938
+insert 14 152307512
+find 52 
+insert 93 136724926
+find 55 
+find 12 
+find 22 
+insert 64 201040330
+find 11 
+insert 38 235390408
+insert 47 231660163
+insert 35 296167369
+insert 54 146726454
+insert 51 207004795
+find 48 
+find 14 
+insert 87 137159611
+find 49 
+insert 78 7354759
+insert 53 112617477
+insert 44 58027690
+insert 56 298701499
+insert 25 284364276
+find 70 
+insert 79 20374984
+find 80 
+find 62 
+insert 66 236246124
+insert 84 241826743
+find 68 
+insert 19 277148346
+insert 39 113601917
+find 66 
+insert 65 103516896
+find 46 
+find 36 
+find 75 
+insert 49 100990246
+insert 46 127629801
+insert 45 110963534
+find 42 
+insert 79 187193678
+find 97 
+find 94 
+find 17 
+insert 0 315621567
+find 46 
+insert 24 175860659
+find 82 
+find 27 
+insert 29 69450704
+find 4 
+insert 74 228669104
+find 81 
+insert 23 190118487
+find 90 
+insert 10 173637893
+insert 4 291445538
+find 13 
+insert 45 183096275
+insert 71 254843318
+insert 25 318769569
+find 97 
+find 46 
+find 32 
+insert 86 160502890
+insert 75 257276749
+insert 30 44531408
+find 95 
+insert 57 205299458
+insert 80 135658302
+insert 90 53534411
+find 62 
+find 16 
+insert 11 306429575
+find 93 
+find 95 
+find 85 
+find 91 
+find 12 
+find 73 
+insert 39 111451517
+find 82 
+find 3 
+find 25 
+find 28 
+find 42 
+insert 36 120199426
+insert 25 338264293
+insert 25 88601628
+find 6 
+find 14 
+insert 71 226387462
+insert 79 169495227
+find 93 
+insert 62 26321705
+insert 30 338922396
+find 2 
+insert 30 324189322
+insert 69 312826194
+find 42 
+insert 53 48776500
+insert 59 133502644
+insert 18 2592841
+insert 74 323371920
+insert 6 314802450
+find 83 
+find 54 
+insert 64 42167181
+find 6 
+insert 57 66155232
+insert 13 25394510
+find 8 
+insert 44 315372826
+find 23 
+insert 60 68837433
+insert 45 157234347
+find 73 
+insert 73 61875436
+insert 61 257584593
+insert 22 173747751
+insert 1 47961881
+find 59 
+find 33 
+find 62 
+insert 27 246625933
+find 48 
+find 8 
+insert 94 190702082
+insert 29 53581266
+insert 76 61869505
+insert 89 266936045
+find 24 
+insert 57 304551164
+find 22 
+insert 83 270100162
+find 27 
+insert 14 11135327
+find 7 
+find 95 
+find 73 
+find 63 
+insert 66 223103608
+find 31 
+find 24 
+find 24 
+insert 33 232685008
+insert 4 339433121
+find 36 
+insert 6 85596197
+insert 97 91967605
+insert 20 51049881
+find 39 
+find 14 
+find 4 
+insert 77 151632850
+insert 65 265588724
+insert 26 15182766
+insert 35 159939899
+insert 46 55564972
+insert 43 60587898
+find 75 
+insert 51 330910759
+find 41 
+insert 94 169575761
+insert 57 153218203
+insert 61 97476587
+insert 94 52020200
+insert 10 208084111
+find 47 
+insert 98 251799810
+insert 39 30185494
+find 63 
+find 44 
+find 1 
+insert 93 131874215
+insert 11 295452874
+insert 13 183400459
+find 19 
+insert 29 270456433
+find 83 
+insert 29 243653804
+find 22 
+find 48 
+find 16 
+find 21 
+find 93 
+insert 61 335318379
+insert 35 202930022
+find 22 
+find 7 
+find 89 
+insert 6 166368742
+insert 15 73804394
+insert 27 332660655
+insert 82 212809288
+insert 64 156297594
+insert 3 308039269
+find 11 
+find 80 
+find 97 
+find 10 
+find 36 
+find 28 
+insert 2 50830417
+insert 76 112935220
+insert 0 84499558
+find 8 
+insert 62 174957639
+find 50 
+insert 75 311698899
+insert 75 69833202
+insert 86 255830029
+find 14 
+find 66 
+insert 1 52067608
+find 34 
+insert 55 260211514
+insert 26 319545296
+insert 55 169552964
+find 26 
+find 88 
+insert 23 148551388
+find 88 
+find 18 
+find 41 
+find 80 
+find 13 
+insert 39 85107331
+insert 63 213735812
+insert 93 340233995
+insert 96 85661277
+insert 93 11180291
+insert 86 231290825
+insert 56 44283338
+find 84 
+insert 36 212389729
+insert 55 105746978
+insert 90 163837472
+insert 71 185800240
+insert 79 260100621
+find 34 
+find 41 
+insert 58 130954394
+insert 6 223066511
+insert 14 334688259
+insert 46 5126690
+find 83 
+find 13 
+insert 26 129091236
+find 48 
+insert 35 213486679
+insert 40 92012203
+find 16 
+find 68 
+find 35 
+insert 61 204343241
+find 2 
+find 39 
+insert 64 250701358
+insert 91 72379992
+insert 96 188235527
+insert 69 277072755
+find 60 
+find 16 
+insert 84 287254451
+insert 24 142720508
+find 38 
+insert 60 314658293
+insert 52 65298891
+find 76 
+find 43 
+insert 8 254467697
+find 14 
+insert 79 215320219
+insert 57 199374571
+find 85 
+insert 11 17327938
+insert 53 286147851
+find 9 
+insert 1 42760356
+insert 94 170567307
+insert 64 227378841
+insert 63 269928161
+find 7 
+find 97 
+insert 43 233879139
+insert 50 228744819
+insert 51 75782208
+find 89 
+insert 14 305114268
+find 77 
+find 51 
+insert 68 329228254
+insert 9 64582932
+insert 15 263151452
+insert 74 120953250
+insert 4 55119302
+insert 2 304256664
+insert 97 177724698
+find 1 
+insert 82 251214284
+find 17 
+find 55 
+find 11 
+find 1 
+find 70 
+find 72 
+insert 80 87381514
+insert 72 2942374
+find 96 
+find 57 
+find 0 
+insert 29 93884653
+find 8 
+insert 97 5802889
+find 81 
+insert 64 299321674
+insert 9 183261203
+find 3 
+insert 85 218247950
+insert 98 163141138
+insert 91 8027055
+find 76 
+insert 41 57839873
+insert 15 340380854
+find 80 
+insert 69 206870200
+insert 31 255128064
+find 70 
+insert 24 97896364
+insert 31 313227372
+find 99 
+insert 10 287583737
+find 83 
+find 49 
+insert 96 205658337
+insert 13 284546900
+insert 51 113368293
+find 27 
+insert 25 152976363
+insert 68 285867899
+find 85 
+find 66 
+insert 87 8511947
+insert 97 22240872
+find 31 
+insert 91 318692080
+insert 79 315907198
+find 9 
+find 33 
+find 58 
+insert 81 10928163
+insert 47 143861030
+insert 32 128566587
+insert 47 22229592
+insert 7 338445105
+insert 85 314015671
+find 15 
+find 81 
+find 63 
+find 63 
+find 41 
+find 37 
+find 20 
+find 99 
+insert 56 90009176
+find 4 
+insert 8 257204031
+insert 37 149635648
+find 56 
+insert 62 220391601
+insert 84 157940584
+find 30 
+insert 39 302426107
+insert 61 198655711
+find 66 
+find 85 
+find 43 
+insert 3 317802422
+find 58 
+find 44 
+find 53 
+insert 95 289940365
+find 17 
+insert 23 21792722
+insert 1 4199392
+find 18 
+insert 78 302439543
+insert 61 203626159
+insert 35 101190295
+insert 40 126387427
+find 62 
+insert 51 236229405
+find 49 
+find 31 
+find 46 
+find 69 
+find 30 
+insert 98 59140011
+find 42 
+find 33 
+find 48 
+insert 47 80222164
+insert 0 76171232
+insert 83 29467321
+insert 60 336420668
+find 5 
+insert 2 322076261
+insert 77 180758800
+insert 27 76397004
+insert 53 28485850
+find 76 
+find 34 
+insert 51 65770393
+insert 75 243827110
+insert 34 309888389
+find 68 
+insert 23 159778640
+find 40 
+insert 93 138649180
+find 86 
+find 83 
+insert 87 75023888
+find 12 
+insert 56 284518786
+insert 95 289826017
+find 41 
+insert 79 140819124
+insert 51 44241693
+insert 52 118673940
+find 9 
+insert 98 281332581
+find 65 
+insert 45 311915435
+find 12 
+insert 57 149373804
+insert 40 210370870
+find 3 
+find 73 
+find 56 
+insert 71 193782038
+insert 73 68305502
+find 97 
+insert 36 73710332
+find 70 
+insert 22 224056955
+insert 92 74657823
+find 45 
+insert 26 110409799
+find 87 
+find 45 
+insert 53 61632774
+find 85 
+insert 69 251142690
+insert 29 197887324
+find 19 
+insert 0 319085937
+find 7 
+find 83 
+find 66 
+insert 71 169204102
+insert 26 239266945
+find 27 
+find 6 
+find 0 
+insert 21 126752297
+find 82 
+find 38 
+insert 34 327869796
+find 87 
+find 23 
+insert 2 217468757
+insert 43 288030704
+find 49 
+find 49 
+find 24 
+insert 95 265882700
+find 24 
+find 7 
+find 21 
+insert 45 17379256
+insert 32 18347323
+insert 68 179050346
+insert 62 319859517
+find 45 
+insert 0 7946740
+find 82 
+insert 32 31804542
+find 36 
+insert 94 286251396
+find 34 

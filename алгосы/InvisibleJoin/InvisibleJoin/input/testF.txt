@@ -1,0 +1,11 @@
+DimReseller.ResellerName,DimCurrency.CurrencyName,FactResellerSales.CarrierTrackingNumber,DimDate.EnglishDayNameOfWeek,FactResellerSales.CustomerPONumber,DimEmployee.Phone,DimPromotion.MinQty,DimReseller.NumberEmployees
+9
+DimCurrency.CurrencyName <> 'Bolivar'
+FactResellerSales.OrderQuantity <> 13
+DimDate.EnglishDayNameOfWeek <> 'Friday' 
+DimEmployee.Phone <> '555-555-0113' 
+FactResellerSales.CarrierTrackingNumber <> '4A7D-4B66-95' 
+DimPromotion.MinQty >= 15 
+DimReseller.NumberEmployees > 20 
+FactResellerSales.CustomerPONumber <> 'PO9222138547' 
+DimReseller.NumberEmployees < 80
